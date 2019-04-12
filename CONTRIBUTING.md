@@ -8,13 +8,13 @@ moja global and everyone participating in it is governed by the Contributor Cove
 
 
 ### FAQ and Other Questions
-You can find FAQs here.
-You can join the moja global SLACK group here.
-If you have other questions, please write to info@moja.global
-
+You can find FAQs here.  
+If you have other questions, please write to info@moja.global  
 
 ### How to Contribute
-Click a link to get started!
+Please write to info@moja.global if you would like to join a repo, the organisation on GitHub or the moja global SLACK workspace.  
+  
+Click a link below to get started!
 
 
 
