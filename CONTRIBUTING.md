@@ -21,7 +21,7 @@ Click a link below to get started!
 *   [Bug reports and fixes](https://github.com/moja-global/.github/blob/master/Contributing/How-to-Report-Bugs.md)
 *   [User Feedback](https://github.com/moja-global/.github/blob/master/Contributing/How-to-Provide-User-Feedback.md)
 *   [Request Features](https://github.com/moja-global/.github/blob/master/Contributing/How-to-Request-a-New-Feature.md)
-*   Science Contribution and Review
+*   [Science Contribution and Review](https://github.com/moja-global/About-moja-global/blob/master/Contributing/How-to-Contribute-Review-Science-Design.md)
 *   Code 
 *   Develop Tests, Review Code
 *   User Experience Interface
