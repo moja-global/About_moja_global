@@ -11,6 +11,6 @@ But if you would like to be recognized, please blow your own trumpet by follow t
 1. `<@username>` can be any person or organisation with a GitHub account   
 1. `<contributions>` can be any word from [this list](https://allcontributors.org/docs/en/emoji-key) but the bot will also use [basic Natural Language Parsing](https://github.com/all-contributors/all-contributors-bot/blob/master/src/tasks/processIssueComment/utils/parse-comment/index.js) to determine your contribution intent.
 1. Submit your comment
-1. The `Allcontributors Bot` will submit a pull-request to include <@username> in the list of contributors 
-1. Once the pull-request is accepted by the maintainer of the repository, <@username> will be added to the list of contributors for the suggested <contribution>.
+1. The `Allcontributors Bot` will submit a pull-request to include `<@username>` in the list of contributors 
+1. Once the pull-request is accepted by the maintainer of the repository, `<@username>` will be added to the list of contributors for the suggested `<contribution>`.
   
