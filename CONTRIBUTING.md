@@ -1,6 +1,8 @@
 ## moja global Contribution Guideline
 
-Thank you for helping. This is really great! This is [How to Get Credit for Your Contribution]()
+Thank you for helping. This is really great!    
+
+Follow these steps to [Get Credit for Your Contribution](https://github.com/moja-global/About-moja-global/blob/master/Contributing/How-to-Get-Credit-for-Your-Contribution.md)
 
 
 ### Code of Conduct
