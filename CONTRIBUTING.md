@@ -1,6 +1,6 @@
 ## moja global Contribution Guideline
 
-Thank you for helping. This is really great!
+Thank you for helping. This is really great! This is [How to Get Credit for Your Contribution]()
 
 
 ### Code of Conduct
