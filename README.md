@@ -1,4 +1,5 @@
 # moja global
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
 
 [*moja global*](http://moja.global/) is a collaboration under the Linux Foundation that aims for the widest possible use of credible tools to better manage the land sector. The flagship software is the 
  [Full Lands Integration Tool (FLINT)](#FLINTpara), 
@@ -46,3 +47,15 @@ moja global welcomes a wide range of contributions as explained in [Contributing
 ## Frequently Asked Questions  
 You can find frequently asked questions on the [*moja global*](http://moja.global/) website or on the [Wiki](https://github.com/moja.global/.github/wiki). 
   
+
+## Contributors
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore -->
+<table><tr><td align="center"><a href="https://github.com/gmajan"><img src="https://avatars0.githubusercontent.com/u/8733319?v=4" width="100px;" alt="Guy Janssen"/><br /><sub><b>Guy Janssen</b></sub></a><br /><a href="https://github.com/moja-global/About-moja-global/commits?author=gmajan" title="Documentation">📖</a></td></tr></table>
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
