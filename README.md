@@ -1,5 +1,5 @@
 # moja global
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors)
 
 [*moja global*](http://moja.global/) is a collaboration under the Linux Foundation that aims for the widest possible use of credible tools to better manage the land sector. The flagship software is the 
  [Full Lands Integration Tool (FLINT)](#FLINTpara), 
@@ -54,7 +54,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
-<table><tr><td align="center"><a href="https://github.com/gmajan"><img src="https://avatars0.githubusercontent.com/u/8733319?v=4" width="100px;" alt="Guy Janssen"/><br /><sub><b>Guy Janssen</b></sub></a><br /><a href="https://github.com/moja-global/About-moja-global/commits?author=gmajan" title="Documentation">📖</a></td></tr></table>
+<table><tr><td align="center"><a href="https://github.com/gmajan"><img src="https://avatars0.githubusercontent.com/u/8733319?v=4" width="100px;" alt="Guy Janssen"/><br /><sub><b>Guy Janssen</b></sub></a><br /><a href="https://github.com/moja-global/About-moja-global/commits?author=gmajan" title="Documentation">📖</a></td><td align="center"><a href="https://github.com/mtbdeligt"><img src="https://avatars3.githubusercontent.com/u/16447169?v=4" width="100px;" alt="mtbdeligt"/><br /><sub><b>mtbdeligt</b></sub></a><br /><a href="https://github.com/moja-global/About-moja-global/commits?author=mtbdeligt" title="Documentation">📖</a></td></tr></table>
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
