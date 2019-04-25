@@ -1,8 +1,10 @@
 ## Get Credit:  
   
 1. moja global is using the [All Contributors Bot](https://allcontributors.org/) to recognize its contributors
-1. 
-@all-contributors please add <username> for <contributions>
+1. Submit your pull-request to [make a contribution]()
+`@all-contributors please add <@username> for <contributions>`
+
+  
 If you are a member of the moja global organization, define a new repository  
     * Use a short version of your title as repository name (i.e. moja-global/repository-name)
     * Use the full title as the description of the repository
