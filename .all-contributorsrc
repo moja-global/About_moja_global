@@ -20,45 +20,7 @@
       "avatar_url": "https://avatars3.githubusercontent.com/u/16447169?v=4",
       "profile": "https://github.com/mtbdeligt",
       "contributions": [
-        "doc",
         "maintenance"
-      ]
-    },
-    {
-      "login": "ditisalles",
-      "name": "ditisalles",
-      "avatar_url": "https://avatars2.githubusercontent.com/u/46491650?v=4",
-      "profile": "https://github.com/ditisalles",
-      "contributions": [
-        "maintenance"
-      ]
-    },
-    {
-      "login": "kaskou",
-      "name": "kaushik surya sangem",
-      "avatar_url": "https://avatars1.githubusercontent.com/u/8544371?v=4",
-      "profile": "https://github.com/kaskou",
-      "contributions": [
-        "maintenance",
-        "doc"
-      ]
-    },
-    {
-      "login": "malfrancis",
-      "name": "Mal",
-      "avatar_url": "https://avatars0.githubusercontent.com/u/5935221?v=4",
-      "profile": "https://github.com/malfrancis",
-      "contributions": [
-        "code"
-      ]
-    },
-    {
-      "login": "moja-global",
-      "name": "moja global",
-      "avatar_url": "https://avatars1.githubusercontent.com/u/19564969?v=4",
-      "profile": "http://moja.global",
-      "contributions": [
-        "code"
       ]
     }
   ],
