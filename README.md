@@ -1,5 +1,6 @@
 # moja global
 [![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors)
+Names of Contributors can be found at the bottom of this list.
 
 [*moja global*](http://moja.global/) is a collaboration under the Linux Foundation that aims for the widest possible use of credible tools to better manage the land sector. The flagship software is the 
  [Full Lands Integration Tool (FLINT)](#FLINTpara), 
