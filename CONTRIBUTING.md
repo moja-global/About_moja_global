@@ -28,7 +28,7 @@ Click a link below to get started!
 *   Develop Tests, Review Code
 *   User Experience Interface
 *   [Start a Project](https://github.com/moja-global/.github/blob/master/Contributing/How-to-Start-a-New-Project.md)
-*   Documentation
+*   [Documentation](https://github.com/moja-global/About-moja-global/blob/master/Contributing/How-to-Document-Your-Contribution.md)
 *   Translations
 *   Coach or teach 
 *   Answer User Questions
