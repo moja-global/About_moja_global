@@ -8,3 +8,4 @@
 
 
 If you would also like to implement the proposed Strategic Goal, please also review [How to Start a New Project](https://github.com/moja-global/.github/blob/master/Contributing/How-to-Start-a-New-Project.md)  
+If you would also like to join the Strategy Board, please also review [How to Join the Strategy Board](https://github.com/moja-global/About-moja-global/blob/master/Contributing/How-to-Join-the-Strategy-Board.md)  
