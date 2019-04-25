@@ -51,6 +51,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "moja-global",
+      "name": "moja global",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/19564969?v=4",
+      "profile": "http://moja.global",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
