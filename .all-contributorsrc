@@ -31,6 +31,16 @@
       "contributions": [
         "maintenance"
       ]
+    },
+    {
+      "login": "kaskou",
+      "name": "kaushik surya sangem",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/8544371?v=4",
+      "profile": "https://github.com/kaskou",
+      "contributions": [
+        "test",
+        "maintenance"
+      ]
     }
   ],
   "contributorsPerLine": 7,
