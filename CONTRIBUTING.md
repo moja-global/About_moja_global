@@ -24,7 +24,7 @@ Click a link below to get started!
 *   [User Feedback](https://github.com/moja-global/.github/blob/master/Contributing/How-to-Provide-User-Feedback.md)
 *   [Request Features](https://github.com/moja-global/.github/blob/master/Contributing/How-to-Request-a-New-Feature.md)
 *   [Science Contribution and Review](https://github.com/moja-global/About-moja-global/blob/master/Contributing/How-to-Contribute-Review-Science-Design.md)
-*   Code 
+*   [Code](https://github.com/moja-global/About-moja-global/blob/master/Contributing/How-to-Contribute-Code.md) 
 *   Develop Tests, Review Code
 *   User Experience Interface
 *   [Start a Project](https://github.com/moja-global/.github/blob/master/Contributing/How-to-Start-a-New-Project.md)
