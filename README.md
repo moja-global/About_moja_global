@@ -1,6 +1,6 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors)
 
-# About moja global  
+# About this repository   
 This repo provides information about the organisation moja global and its tools. You can find out who we are, what we do and most importantly, how we work and how you can contribute.  
 
 
