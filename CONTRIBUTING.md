@@ -39,4 +39,4 @@ Click a link below to get started!
 *   Development Operations
 *   [Fundraising](https://github.com/moja-global/About-moja-global/blob/master/Contributing/How-to-Assist-with-Fundraising.md)
 *   [Strategy Advice](https://github.com/moja-global/.github/blob/master/Contributing/How-to-Provide-Strategic-Advice.md)
-*   Join the Board
+*   [Join the Board](https://github.com/moja-global/About-moja-global/blob/master/Contributing/How-to-Join-the-Strategy-Board.md)
