@@ -30,13 +30,13 @@ Click a link below to get started!
 *   [Start a Project](https://github.com/moja-global/.github/blob/master/Contributing/How-to-Start-a-New-Project.md)
 *   [Documentation](https://github.com/moja-global/About-moja-global/blob/master/Contributing/How-to-Document-Your-Contribution.md)
 *   Translations
-*   Coach or teach 
+*   [Coach or teach](https://github.com/moja-global/About-moja-global/blob/master/Contributing/How-to-Coach-New-Contributors.md) 
 *   Answer User Questions
-*   Organise events
-*   Communication, Outreach
-*   Website Development
-*   Administration
+*   [Organise events]()
+*   [Communication, Outreach]()
+*   [Website Development]()
+*   [Administration]()
 *   Development Operations
-*   Fundraising
+*   [Fundraising]()
 *   [Strategy Advice](https://github.com/moja-global/.github/blob/master/Contributing/How-to-Provide-Strategic-Advice.md)
 *   Join the Board
