@@ -32,11 +32,11 @@ Click a link below to get started!
 *   Translations
 *   [Coach or teach](https://github.com/moja-global/About-moja-global/blob/master/Contributing/How-to-Coach-New-Contributors.md) 
 *   Answer User Questions
-*   [Organise events]()
-*   [Communication, Outreach]()
-*   [Website Development]()
-*   [Administration]()
+*   [Organise events](https://github.com/moja-global/About-moja-global/blob/master/Contributing/How-to-Organise-Events.md)
+*   [Communication, Outreach](https://github.com/moja-global/About-moja-global/blob/master/Contributing/How-to-Assist-with-Comms.md)
+*   [Website Development](https://github.com/moja-global/About-moja-global/blob/master/Contributing/How-to-Improve-the-Website.md)
+*   [Administration](https://github.com/moja-global/About-moja-global/blob/master/Contributing/How-to-Assist-with-Admin.md)
 *   Development Operations
-*   [Fundraising]()
+*   [Fundraising](https://github.com/moja-global/About-moja-global/blob/master/Contributing/How-to-Assist-with-Fundraising.md)
 *   [Strategy Advice](https://github.com/moja-global/.github/blob/master/Contributing/How-to-Provide-Strategic-Advice.md)
 *   Join the Board
