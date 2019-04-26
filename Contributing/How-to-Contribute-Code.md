@@ -12,4 +12,13 @@
     * Please provide background or references to prove your good intentions if you do not have a track record on GitHub
     * Please clone the repository if you do not want to join moja global or want to start working before your request to join has been approved.
 
-1. 
+1. Follow [Vincent Driessen's Git Branching](https://nvie.com/posts/a-successful-git-branching-model/) System
+    * Name your Branch with same name using the Feature or Branch name with a [version number](https://github.com/moja-global/About-moja-global/blob/master/Contributing/How-to-Assign-a-Version.md)
+    * Make changes to the code
+    * Follow [documentation rules](https://github.com/moja-global/About-moja-global/blob/master/Contributing/How-to-Document-Your-Contribution.md)
+    * Submit a Pull-Request to the Branch you want to contribute .
+    * Use a clear and descriptive title
+    * Ensure maintainers can understand your proposed changes from the description
+    * Ensure your Pull-Request passes all checks and has no conflicts
+    * Click `Create Pull Request`
+    * [Claim credit](https://github.com/moja-global/About-moja-global/blob/master/Contributing/How-to-Get-Credit-for-Your-Contribution.md) if you are not listed yet. 
