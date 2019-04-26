@@ -5,7 +5,7 @@
     * Read the [Code of Conduct](https://github.com/moja-global/.github/blob/master/CODE_OF_CONDUCT.md)
     * Review the [Coding Guidelines](https://github.com/moja-global/.github/blob/master/Governance/Coding-Guidelines.md) and the [Contribution Criteria](https://github.com/moja-global/.github/blob/master/Governance/Contribution-Criteria.md).
     * Review the bug-list, open issues, Project Board (if you want to code a new feature) or the [Strategic Plan](https://github.com/moja-global/About-moja-global/blob/master/Governance/Strategic-Plan.md) (if you want to start a [new Project](https://github.com/moja-global/About-moja-global/blob/master/Contributing/How-to-Start-a-New-Project.md).) 
-    * Contact the Code Coach if available in the README document  
+    * Contact the Code Coach if available in the README document by submitting an [Issue](https://github.com/moja-global/About-moja-global/blob/master/Contributing/How-to-Provide-User-Feedback.md)  
 
 1. Join the moja global organisation
     * Request access by writing to info@moja.global
