@@ -1,7 +1,10 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors)
 
+# About moja global  
+This repo provides information about the organisation moja global and its tools. You can find out who we are, what we do and most importantly, how we work and how you can contribute.  
 
-# moja global  
+
+## What is moja global?  
 
 [*moja global*](http://moja.global/) is a collaboration under the Linux Foundation that aims for the widest possible use of credible tools to better manage the land sector. The flagship software is the 
  [Full Lands Integration Tool (FLINT)](#FLINTpara), 
