@@ -18,12 +18,6 @@ Climate change is the biggest challenge of our time. Globally, more than 25% of 
 Measuring emissions and sinks from land use is notoriously difficult and developing tools to estimate these sinks and emissions is expensive and requires specialised expertise. Through global collaboration between scientists and coders, moja global reduces the cost and increase the quality of the software that can estimate emissions and sinks from land use.  
 
 
-## FAQ and Other Questions  
-
-You can find FAQs on the [Wiki](https://github.com/moja.global/.github/wiki).  
-If you have a question about the code, submit an issue in the relevant repository  
-If you have other questions, please write to info@moja.global   
-
 
 ## How to Get Involved?  
 
@@ -31,6 +25,15 @@ moja global and the global climate needs your contribution but please respect ou
 
 moja global welcomes a wide range of contributions as explained in [Contributing document](CONTRIBUTING.md) and in the [Wiki](https://github.com/moja-global/.github/wiki).  
   
+  
+  
+## FAQ and Other Questions  
+
+You can find FAQs on the [Wiki](https://github.com/moja.global/.github/wiki).  
+If you have a question about the code, submit an issue in the relevant repository  
+If you have other questions, please write to info@moja.global   
+
+
   
 ## Contributors
 
