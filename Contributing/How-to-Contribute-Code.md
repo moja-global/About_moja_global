@@ -7,10 +7,9 @@
     * Review the bug-list, open issues, Project Board (if you want to code a new feature) or the [Strategic Plan](https://github.com/moja-global/About-moja-global/blob/master/Governance/Strategic-Plan.md) (if you want to start a [new Project](https://github.com/moja-global/About-moja-global/blob/master/Contributing/How-to-Start-a-New-Project.md).) 
     * Contact the Code Coach if available in the README document by submitting an [Issue](https://github.com/moja-global/About-moja-global/blob/master/Contributing/How-to-Provide-User-Feedback.md)  
 
-1. Join the moja global organisation
-    * Request access by writing to info@moja.global
-    * Please provide background or references to prove your good intentions if you do not have a track record on GitHub
-    * Please clone the repository if you do not want to join moja global or want to start working before your request to join has been approved.
+1. [Join the moja global organisation](https://github.com/moja-global/About-moja-global/blob/master/Contributing/How-to-Join-moja-global.md)  
+
+1. [Fork the repository](https://help.github.com/en/articles/fork-a-repo) if you do not want to join moja global or want to start working before your request to join has been approved.
 
 1. Follow [Vincent Driessen's Git Branching](https://nvie.com/posts/a-successful-git-branching-model/) System
     * Name your Branch with same name using the Feature or Branch name with a [version number](https://github.com/moja-global/About-moja-global/blob/master/Contributing/How-to-Assign-a-Version.md)
