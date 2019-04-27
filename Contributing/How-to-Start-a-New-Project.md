@@ -15,6 +15,7 @@
     * If you are not (yet) part of the moja global organisation, use the project list in your repository. You can notify the wider moja global community by opening an issue under .github informing that you have started a new project.
 1. Invite your team
     * [Invite your team](https://help.github.com/en/articles/adding-organization-members-to-a-team) to join the project even [if they are not part of the moja global organisation](https://help.github.com/en/articles/adding-outside-collaborators-to-repositories-in-your-organization)
+    * [Nest your team](https://help.github.com/en/articles/moving-a-team-in-your-organizations-hierarchy) into the right parent team, i.e. the repository team for new projects or the moja-global team for new repositories   
     * Assign roles: scientists, coders, editors, maintainers (for code and science), etc. Try to have at least 2 persons for each role to avoid overloading your team. 
 1. Science Design
     * If your project has any scientific component, you will need to have a science design for your project. 
