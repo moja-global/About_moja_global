@@ -2,7 +2,7 @@
 name: User Feedback
 about: Describe how we can improve your experience
 title: ''
-labels: ''
+labels: Feedback
 assignees: ''
 
 ---

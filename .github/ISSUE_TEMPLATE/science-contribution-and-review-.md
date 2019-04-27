@@ -2,7 +2,7 @@
 name: 'Science Contribution and Review '
 about: Suggest how the science behind the code can be improved
 title: ''
-labels: ''
+labels: Science
 assignees: ''
 
 ---

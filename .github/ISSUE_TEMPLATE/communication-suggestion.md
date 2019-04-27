@@ -2,7 +2,7 @@
 name: Communication Suggestion
 about: 'Propose a way to better communicate a feature '
 title: ''
-labels: ''
+labels: Comms
 assignees: ''
 
 ---
