@@ -21,8 +21,6 @@ Measuring emissions and sinks from land use is notoriously difficult and develop
 
 ## How to Get Involved?  
 
-moja global and the global climate needs your contribution but please respect our [Code of Conduct](https://github.com/moja-global/.github/blob/master/CODE_OF_CONDUCT.md). 
-
 moja global welcomes a wide range of contributions as explained in [Contributing document](CONTRIBUTING.md) and in the [Wiki](https://github.com/moja-global/.github/wiki).  
   
   
