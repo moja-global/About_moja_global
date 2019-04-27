@@ -18,6 +18,7 @@
     * Submit a Pull-Request to the Branch you want to contribute .
     * Use a clear and descriptive title
     * Ensure maintainers can understand your proposed changes from the description
+    * Sign your message with `Signed-off-by: Random J Developer <random@developer.example.org>` to agree to [Developer Certificate of Origin (DCO)](https://developercertificate.org/) (to certify that you wrote or otherwise have the right to submit your contribution to the project.)
     * Ensure your Pull-Request passes all checks and has no conflicts
     * Click `Create Pull Request`
     * [Claim credit](https://github.com/moja-global/About-moja-global/blob/master/Contributing/How-to-Get-Credit-for-Your-Contribution.md) if you are not listed yet. 
