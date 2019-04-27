@@ -38,7 +38,7 @@ Click a link below to get started!
 *   [Documentation](https://github.com/moja-global/About-moja-global/blob/master/Contributing/How-to-Document-Your-Contribution.md)
 *   Translations
 *   [Coach or teach](https://github.com/moja-global/About-moja-global/blob/master/Contributing/How-to-Coach-New-Contributors.md) 
-*   Answer User Questions
+*   [Answer User Questions](https://github.com/moja-global/About-moja-global/blob/master/Contributing/How-to-Answer-User-Questions.md)
 *   [Organise events](https://github.com/moja-global/About-moja-global/blob/master/Contributing/How-to-Organise-Events.md)
 *   [Communication, Outreach](https://github.com/moja-global/About-moja-global/blob/master/Contributing/How-to-Assist-with-Comms.md)
 *   [Website Development](https://github.com/moja-global/About-moja-global/blob/master/Contributing/How-to-Improve-the-Website.md)
