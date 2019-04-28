@@ -6,8 +6,8 @@ This repo provides information about the organisation moja global and its tools.
 
 ## What is moja global?  
 
-[*moja global*](http://moja.global/) is a collaboration under the Linux Foundation that aims for the widest possible use of credible tools to better manage the land sector. The flagship software is the 
- [Full Lands Integration Tool (FLINT)](#FLINTpara), 
+[*moja global*](http://moja.global/) is a collaboration under the Linux Foundation that aims for the widest possible collaboration on and use of credible tools to better manage the land sector. The flagship software is the 
+ [Full Lands Integration Tool (FLINT)](), 
 a tool to estimate emissions and sinks of greenhouse gasses from forestry and agriculture.  
 
 
