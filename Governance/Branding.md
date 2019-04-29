@@ -1,5 +1,7 @@
-## moja global Branding Guidelines
-
+## moja global Branding Guidelines  
+  
+**Moja global is always written in all lower case**, except when at the start of a sentence in which case it appears as “Moja global”. 
+  
 ### Logo or Icon
 
 <img src="https://github.com/moja-global/About-moja-global/blob/master/images/moja-logo-transperant-background.png" width="300" >
@@ -11,7 +13,7 @@ You can find the files in the [images-folder](https://github.com/moja-global/Abo
 Primary Typeface: Source Sans pro (Used on website)   
 Secondary Typeface (when primary not available): Ropa Sans (used in PowerPoints)   
 
-**Moja global is always written in all lower case**, except when at the start of a sentence in which case it appears as “Moja global”. 
+
 
 ### Colours  
 
