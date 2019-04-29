@@ -1,4 +1,4 @@
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors)
 
 # moja global   
 This repo provides information about the organisation moja global and its tools. You can find out who we are, what we do and most importantly, how we work and how you can contribute.  
@@ -42,7 +42,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
-<table><tr><td align="center"><a href="https://github.com/gmajan"><img src="https://avatars0.githubusercontent.com/u/8733319?v=4" width="100px;" alt="Guy Janssen"/><br /><sub><b>Guy Janssen</b></sub></a><br /><a href="#maintenance-gmajan" title="Maintenance">🚧</a></td><td align="center"><a href="https://github.com/mtbdeligt"><img src="https://avatars3.githubusercontent.com/u/16447169?v=4" width="100px;" alt="Rob de Ligt"/><br /><sub><b>Rob de Ligt</b></sub></a><br /><a href="https://github.com/moja-global/About-moja-global/commits?author=mtbdeligt" title="Documentation">📖</a> <a href="#maintenance-mtbdeligt" title="Maintenance">🚧</a></td></tr></table>
+<table><tr><td align="center"><a href="https://github.com/gmajan"><img src="https://avatars0.githubusercontent.com/u/8733319?v=4" width="100px;" alt="Guy Janssen"/><br /><sub><b>Guy Janssen</b></sub></a><br /><a href="#maintenance-gmajan" title="Maintenance">🚧</a></td><td align="center"><a href="https://github.com/mtbdeligt"><img src="https://avatars3.githubusercontent.com/u/16447169?v=4" width="100px;" alt="Rob de Ligt"/><br /><sub><b>Rob de Ligt</b></sub></a><br /><a href="https://github.com/moja-global/About-moja-global/commits?author=mtbdeligt" title="Documentation">📖</a> <a href="#maintenance-mtbdeligt" title="Maintenance">🚧</a></td><td align="center"><a href="https://github.com/malfrancis"><img src="https://avatars0.githubusercontent.com/u/5935221?v=4" width="100px;" alt="Mal"/><br /><sub><b>Mal</b></sub></a><br /><a href="https://github.com/moja-global/About-moja-global/commits?author=malfrancis" title="Code">💻</a></td></tr></table>
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
