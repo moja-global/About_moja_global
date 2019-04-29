@@ -33,7 +33,7 @@ Click a link below to get started!
 *   [Science Contribution and Review](https://github.com/moja-global/About-moja-global/blob/master/Contributing/How-to-Contribute-Review-Science-Design.md)
 *   [Code](https://github.com/moja-global/About-moja-global/blob/master/Contributing/How-to-Contribute-Code.md) 
 *   Develop Tests, Review Code
-*   User Experience Interface
+*   [User Experience Interface](https://github.com/moja-global/About-moja-global/blob/master/Contributing/How-to-Improve-the-User-Interface.md)
 *   [Start a Project](https://github.com/moja-global/.github/blob/master/Contributing/How-to-Start-a-New-Project.md)
 *   [Documentation](https://github.com/moja-global/About-moja-global/blob/master/Contributing/How-to-Document-Your-Contribution.md)
 *   Translations
