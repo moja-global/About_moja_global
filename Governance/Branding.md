@@ -4,7 +4,7 @@
 
 <img src="https://github.com/moja-global/About-moja-global/blob/master/images/moja-logo-transperant-background.png" width="300" >
   
-You can find the files in the images-folder. There is a logo with a white background and one with a transparent background.
+You can find the files in the [images-folder](https://github.com/moja-global/About-moja-global/tree/master/images). There is a logo with a white background and one with a transparent background.
 
 ### Typography 
 
