@@ -22,7 +22,7 @@ There are five levels of documentation:
         * Reference Information
     * Make changes and commit directly to the wiki
  
-1. Documentation in Googl Docs-files
+1. Documentation in Google Docs-files
     * Use the Google Docs for the collaborative development of documents (text equivalent of features branches), including
         * Science Designs
         * Architecture 
@@ -34,6 +34,7 @@ There are five levels of documentation:
         * Science Designs
         * Architecture
         * Strategy
+        * Meeting notes
     * Errors can be pointed out to the document maintainer, all other changes can only be made in the next version which is still open in Google Docs
     
  
