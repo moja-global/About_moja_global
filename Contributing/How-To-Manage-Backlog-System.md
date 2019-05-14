@@ -9,9 +9,11 @@ Projects are used where the feature (or completely new functionality) being prop
 
 The backlog for any particular repository is managed by one or mulptiple Maintainers. The role of the Maintainer is to:
 
-1. Review and accept proposed changes to the repository they are responsible for
-2. Add new issues for bugs and features for the repository where identified (Contributors should also add issues for bugs and features)
-3. If useful, coordinate Maintainer meetings to prioritise issues and projects.
+1. Mantain the repository, including ensuring the list of issues is up to date and tracking the status of the code
+2. Review and accept proposed changes to the repository they are responsible for
+3. Add new issues for bugs and features for the repository where identified (Contributors should also add issues for bugs and features)
+4. If useful, coordinate Maintainer and contributor meetings to prioritise issues and projects.
+5. Ensure that issues are assigned to the contributors working on them (including issues that they are working on)
 
 Maintainers should set up the ‘watch’ capacity for projects that they manage to ensure that they are aware of anything that is occurring in the project. It is also recommended that they ‘star’ the relevant pages of the project while they are working as the maintainer.
 
