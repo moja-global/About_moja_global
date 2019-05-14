@@ -12,7 +12,7 @@ In this spirit continuous improvement is the responsibility for all involved. Th
 2. Proposing identified improvements, by raising it with others in the project including peers, mainteners or other senior people working on the project.
 3. Continually reflecting on your own work practices to see if there are ways that you can improve.
 
-Where improvements result in the refinements to processes, these should be documented. Documentation should occur as improvements to existing guidance, or if no guidance exists, new guidance documentation should be developed.
+Where improvements result in the refinements to processes, these should be documented. Documentation should occur as improvements to existing guidance eg. [How-to guides](https://github.com/moja-global/About-moja-global/tree/master/Contributing), or if no guidance exists, new guidance documentation should be developed.
 
 ## Periodic Review
 
