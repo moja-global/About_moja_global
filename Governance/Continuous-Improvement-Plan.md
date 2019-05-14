@@ -12,6 +12,8 @@ In this spirit continuous improvement is the responsibility for all involved. Th
 2. Proposing identified improvements, by raising it with others in the project including peers, mainteners or other senior people working on the project.
 3. Continually reflecting on your own work practices to see if there are ways that you can improve.
 
+Where improvements result in the refinements to processes, these should be documented. Documentation should occur as improvements to existing guidance, or if no guidance exists, new guidance documentation should be developed.
+
 ## Periodic Review
 
 While moja global operates under a framework of continuous improvement, it is expected that the high level strategy for moja global will also benefit from targeted periodic reviews. It is proposed that the periodic reviews will take place as part of the annual strategic plan development for moja global. The aim will not be to conduct a complete review of moja global activies, but rather to focus on selected high level issues. The strategy board and technical steering committee will be jointly responsible for identify issues to review.
