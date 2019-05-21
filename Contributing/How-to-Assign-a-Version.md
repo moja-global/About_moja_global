@@ -24,9 +24,11 @@ PATCH is increased when you:
 
 ### Build Versioning  
 
-TO BE COMPLETED
+* Feature branches and the develop branch should always build snapshot versions including date (e.g. 2.6.0-SNAPSHOT201205012).
+* Release branches and hotfix branches should always build release candidate versions (e.g. 2.6.0-0.rc1).
+* The master branch should always build unqualified versions - versions without build numbers (e.g. 2.6.0).
 
-Proposal: Use the typical SNAPSHOT with a date (1.0.3-SNAPSHOT20190412) The developer or scientist needs to judge whether to increase the MAJOR, MINOR, or PATCH for the SNAPSHOT version. But the maintainers will revise this number when the proposed changes are submitted as a pull-request.  
+The developer or scientist needs to judge whether to increase the MAJOR, MINOR, or PATCH for the SNAPSHOT version. But the maintainers will revise this number when the proposed changes are submitted as a pull-request.
 
 
 
