@@ -2,7 +2,7 @@
 
 Most moja global tools are platforms combined with modules. This results in many dependencies which in turn require tight version control without losing flexibility. 
 
-moja global projects use a Vincent Driessen's [GitFlow](https://datasift.github.io/gitflow/IntroducingGitFlow.html) and therefore moja global uses the [related versioning system](https://datasift.github.io/gitflow/Versioning.html). Since science documents also need to be included in the versioning system we bump up the versions when science changes, as explained below. More eleborate discussion can be found [in the on-line discussion of SemVer](https://github.com/semver/semver/issues/323).  
+moja global projects use Vincent Driessen's [GitFlow](https://datasift.github.io/gitflow/IntroducingGitFlow.html) and therefore moja global uses the [related versioning system](https://datasift.github.io/gitflow/Versioning.html). More eleborate discussion can be found [in the on-line discussion of SemVer](https://github.com/semver/semver/issues/323).  
 
 The Standard Format for the version number consists of 3 indicators (MAJOR.MINOR.PATCH) and is only assigned at the moment the version is released. For work in progress a label is used as a placeholder.  
 
@@ -21,12 +21,6 @@ MINOR is increased when you:
 PATCH is increased when you:
 * You make backwards-compatible bug fixes
 * Change the science design so no code changes are necessary
-
-### Pre-release Versioning  
-
-TO BE COMPLETED  
-
-Proposal: Use the typical alfa (a1, a2,..., a23), beta (b1, b2,..., b23), release candidate (c1, c2,..., c23) 
 
 ### Build Versioning  
 
