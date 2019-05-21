@@ -12,7 +12,7 @@ The backlog for any particular repository is managed by one or mulptiple Maintai
 1. Mantain the repository, including ensuring the list of issues is up to date and tracking the status of the code
 1. Review and accept proposed changes to the repository they are responsible for
 1. Add new issues for bugs and features for the repository where identified (Contributors should also add issues for bugs and features)
-1. Assign a priority to each issue using the labels Priority = High, Priority = Medium and Priority = Low
+1. Assign a priority to each issue using the issue labels: Priority = High, Priority = Medium and Priority = Low
 1. If useful, coordinate Maintainer and contributor meetings to prioritise issues and projects.
 1. Ensure that issues are assigned to the contributors working on them (including issues that they are working on)
 
