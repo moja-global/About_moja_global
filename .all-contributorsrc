@@ -50,6 +50,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "canada-ca",
+      "name": "Government of Canada - Gouvernement du Canada",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/20973642?v=4",
+      "profile": "https://canada.ca",
+      "contributions": [
+        "financial"
+      ]
     }
   ],
   "contributorsPerLine": 7,
