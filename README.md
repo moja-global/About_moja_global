@@ -38,7 +38,7 @@ moja global welcomes a wide range of contributions as explained in [Contributing
   
 ## Contributors
 
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)): 
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
@@ -48,6 +48,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!  
 
+moja global would like to recognise the contribution of the Government of Canada to support the development of its open-source repositories and frameworks.
+  
+  
 ## Maintainers Reviewers Ambassadors Coaches
 
 The following people are Maintainers Reviewers Ambassadors or Coaches
