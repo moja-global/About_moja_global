@@ -1,24 +1,13 @@
 # moja global Contribution Guideline
 
-Thank you for helping. This is really great!
+We're very glad that you're thinking about contributing to moja global. We welcome all contributions!
 
-Follow these steps to [Get Credit for Your Contribution](Contributing/How-to-Get-Credit-for-Your-Contribution.md)
+Following are some general guidelines and instructions to assist you in contributing to our projects.
 
 
 ## Code of Conduct
-moja global and everyone participating in it is governed by the Contributor Covenant [Code of Conduct](CODE_OF_CONDUCT.md). By participating, you agree to uphold this code. Please report unacceptable behavior to info@moja.global. If you want your report to be handled confidentially, please report to guy@moja.global.
 
-
-## FAQ and Other Questions
-
-* You can find FAQs on the [Wiki](https://github.com/moja-global/.github/wiki).
-* If you have a question about the code, submit [user feedback](Contributing/How-to-Provide-User-Feedback.md) in the relevant repository
-* If you have a general question about a project or repository or moja global, [join moja global](Contributing/How-to-Join-moja-global.md) and
-    * [submit a discussion](https://help.github.com/en/articles/about-team-discussions) to the project, repository or moja global [team](https://github.com/orgs/moja-global/teams)
-    * [submit a message](https://get.slack.help/hc/en-us/categories/200111606#send-messages) to the relevant channel on [moja global's Slack workspace](mojaglobal.slack.com).
-* If you have other questions, please write to info@moja.global
-
-
+moja global and everyone participating in it are governed by the Contributor Covenant [Code of Conduct](CODE_OF_CONDUCT.md). By participating, you agree to uphold this code. Please report unacceptable behavior to info@moja.global. If you want your report to be handled confidentially, please report to guy@moja.global.
 
 ## How to Contribute
 Please write to info@moja.global if you would like to join a repo, the organisation on GitHub or the moja global SLACK workspace.
@@ -47,3 +36,13 @@ Click a link below to get started!
 *   [Fundraising](Contributing/How-to-Assist-with-Fundraising.md)
 *   [Strategy Advice](Contributing/How-to-Provide-Strategic-Advice.md)
 *   [Join the Board](Contributing/How-to-Join-the-Strategy-Board.md)
+
+## FAQ and General Questions
+
+If you have any questions then please start by going through our [FAQs](https://github.com/moja-global/.github/wiki). If your question is not answered there, please write to info@moja.global.
+
+If your question is related to the code of a project, then please create a [new issue] in the relevant repository.
+
+You're also invited to [join moja global](Contributing/How-to-Join-moja-global.md) and ask your question(s) in the relevant channel of our private [Slack workspace](https://mojaglobal.slack.com/).
+
+
