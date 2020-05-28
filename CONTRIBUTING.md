@@ -58,7 +58,7 @@ This shows that you agree to the [Developer Certificate of Origin (DCO)](https:/
 
 ## How to Report Bugs, Provide Feedback or Request Features?
 
-To submit bug reports, provide feedback or to request new features, please [create a new issue] in the repository of the relevant project.
+To submit bug reports, provide feedback or to request new features, please create [a new issue] in the repository of the relevant project.
 
 
 ## How to Review & Contribute Science Design?
