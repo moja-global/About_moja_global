@@ -100,4 +100,4 @@ You can [coach new contributors](Contributing/How-to-Coach-New-Contributors.md),
 
 If there's some other way, not listed above, in which you'd like to help, then please drop us a line at info@moja.global. We'll get in touch with you!
 
-[new issue]: https://help.github.com/en/github/managing-your-work-on-github/creating-an-issue
+[new issue]: https://github.com/moja-global/About_moja_global/issues/new/
