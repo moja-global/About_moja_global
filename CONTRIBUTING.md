@@ -1,15 +1,15 @@
-## moja global Contribution Guideline
+# moja global Contribution Guideline
 
 Thank you for helping. This is really great!
 
 Follow these steps to [Get Credit for Your Contribution](Contributing/How-to-Get-Credit-for-Your-Contribution.md)
 
 
-### Code of Conduct
+## Code of Conduct
 moja global and everyone participating in it is governed by the Contributor Covenant [Code of Conduct](CODE_OF_CONDUCT.md). By participating, you agree to uphold this code. Please report unacceptable behavior to info@moja.global. If you want your report to be handled confidentially, please report to guy@moja.global.
 
 
-### FAQ and Other Questions
+## FAQ and Other Questions
 
 * You can find FAQs on the [Wiki](https://github.com/moja-global/.github/wiki).
 * If you have a question about the code, submit [user feedback](Contributing/How-to-Provide-User-Feedback.md) in the relevant repository
@@ -20,7 +20,7 @@ moja global and everyone participating in it is governed by the Contributor Cove
 
 
 
-### How to Contribute
+## How to Contribute
 Please write to info@moja.global if you would like to join a repo, the organisation on GitHub or the moja global SLACK workspace.
 
 Click a link below to get started!
