@@ -77,10 +77,19 @@
       "contributions": [
         "maintenance"
       ]
+    },
+    {
+      "login": "abhineet97",
+      "name": "Abhineet Tamrakar",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/11965776?v=4",
+      "profile": "https://abhineet.tk",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
-  "projectName": "About-moja-global",
+  "projectName": "About_moja_global",
   "projectOwner": "moja-global",
   "repoType": "github",
   "repoHost": "https://github.com",
