@@ -2,7 +2,7 @@
 
 We're so glad that you're thinking about contributing to moja global. We welcome your contributions!
 
-Following are some guidelines and instructions to assist you in contributing to our projects.
+Here are some guidelines and instructions for contributing to our projects. Please go through them before making a contribution.
 
 
 ## Code of Conduct
@@ -12,18 +12,18 @@ moja global governs its participants according to the Contributor Covenant [Code
 
 ## FAQ and General Questions
 
-If you have any questions then please start by going through our [FAQs](https://github.com/moja-global/.github/wiki). If your question is not answered there, please write to info@moja.global.
+Before asking any questions, please have a look at our [FAQs](https://github.com/moja-global/.github/wiki). If your question isn't answered there, please write to info@moja.global.
 
-If your question concerns the code of a project, then please create a [new issue] in the relevant repository.
+If your question concerns the code of a project, then you should create a [new issue] in the relevant project's repository.
 
-You're also invited to [join moja global](Contributing/How-to-Join-moja-global.md) and ask your question(s) in the relevant channel of our private [Slack workspace](https://mojaglobal.slack.com/).
+You can also [join moja global](Contributing/How-to-Join-moja-global.md) and then ask your question(s) in the relevant channel of our private [Slack workspace](https://mojaglobal.slack.com/).
 
 
 ## How To Get Credit for Your Contribution?
 
 We use the [All Contributors Bot](https://allcontributors.org/) to recognize contributors.
 
-To get recognized, just add the following sentence in a comment after making your contribution (like submitting a pull request, replying to a question, resolving an issue, etc.):
+To get recognized, just add the following line to a comment after making your contribution (like submitting a pull request, replying to a question, resolving an issue, etc.):
 
 ```
 @all-contributors please add <@username> for <contributions>
@@ -38,11 +38,11 @@ After that, the @all-contributors bot will submit a PR to include you in the lis
 
 Bug fixes, performance improvements, code formatting, ...
 There are a lot ways in which you can contribute code!
-Please go thorugh the issues of our projects to find an issue that you can help us with.
-
-After that, go through our [coding guidelines](Governance/Coding-Guidelines.md) and [contribution criteria](Governance/Contribution-Criteria.md) before making any contributions.
+The issues list of a project is a great place to find something that you can help us with.
 
 To increase the chances of your code getting merged, please ensure that:
+* You satisfy our [contribution criteria](Governance/Contribution-Criteria.md).
+* Your code follows our [coding guidelines](Governance/Coding-Guidelines.md).
 * Your submission follows [Vincent Driessen's Git Branching](https://nvie.com/posts/a-successful-git-branching-model/) System.
 * Your code's documentation follows our [rules](Contributing/How-to-Document-Your-Contribution.md).
 * Your pull request:
@@ -62,32 +62,30 @@ This shows that you agree to the [Developer Certificate of Origin (DCO)](https:/
 
 We welcome all kinds of bug reports, user feedback and feature requests!
 
-We have created some issue templates to assist you in this. Please use these templates and create [a new issue](https://help.github.com/en/github/managing-your-work-on-github/creating-an-issue) in the relevant project's repository.
+We've created some issue templates to assist you in this. Please use them to create [a new issue](https://help.github.com/en/github/managing-your-work-on-github/creating-an-issue) in the relevant project's repository.
 
 
 ## How to Review & Contribute Science Design?
 
-Most of our code is informed by an underlying Science Design. We develop these designs collaboratively, so your contributions are most welcome!
+Most of our code is informed by an underlying Science Design. We develop these designs collaboratively and your contributions are most welcome!
 
 Every science-based project contains Science Designs under a directory named **Science**. There you can find:
 * PDFs that contain completed Science Designs.
-* Markdown (or `.md`) files that contain link to a Science Design document that is under development.
+* Markdown (or `.md`) files that contain link to a Science Design document that is still under development.
 
 For instructions on how to contribute Science Designs, please read [this](Contributing/How-to-Contribute-Review-Science-Design.md) document.
-
-You should read the Science Design documents of a project, before contributing to it.
 
 
 ## How to Suggest UI/UX Improvements?
 
 One of the most important areas of improvement to our flagship software FLINT is the user interface. We really need your help with this!
 
-If you have ideas on how we can imporove, please share them with us by creating a [new issue]. We could then [start a new project](Contributing/How-to-Start-a-New-Project.md) for your idea!
+If you have ideas on how we can improve, please share them with us by creating a [new issue]. We could then [start a new project](Contributing/How-to-Start-a-New-Project.md) for your idea!
 
 
 ## How to Contribute Translations?
 
-Right now our interfaces do not support translations and we also don't have a translation strategy in place. But we want to reach everyone, including those who do not speak English well. If you have any ideas in this regard then please share them with us by creating a [new issue].
+Right now our interfaces do not support translations and we also don't have a translation strategy in place. But we want to change this. We want our projects to be accessible to non-English speakers. If you have any ideas then please share them with us by creating a [new issue].
 
 
 ## Are There Other Ways of Contributing?
