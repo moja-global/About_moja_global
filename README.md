@@ -56,6 +56,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://github.com/kaskou"><img src="https://avatars1.githubusercontent.com/u/8544371?v=4" width="100px;" alt=""/><br /><sub><b>kaushik surya sangem</b></sub></a><br /><a href="#maintenance-kaskou" title="Maintenance">🚧</a></td>
     <td align="center"><a href="https://abhineet.tk"><img src="https://avatars1.githubusercontent.com/u/11965776?v=4" width="100px;" alt=""/><br /><sub><b>Abhineet Tamrakar</b></sub></a><br /><a href="https://github.com/moja-global/About_moja_global/commits?author=abhineet97" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/Tlazypanda"><img src="https://avatars0.githubusercontent.com/u/33183263?v=4" width="100px;" alt=""/><br /><sub><b>Sneha Mishra</b></sub></a><br /><a href="https://github.com/moja-global/About_moja_global/commits?author=Tlazypanda" title="Documentation">📖</a></td>
   </tr>
 </table>
 
