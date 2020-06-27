@@ -43,7 +43,6 @@ The issues list of a project is a great place to find something that you can hel
 To increase the chances of your code getting merged, please ensure that:
 * You satisfy our [contribution criteria](Governance/Contribution-Criteria.md).
 * Your code follows our [coding guidelines](Governance/Coding-Guidelines.md).
-* Your submission follows [Vincent Driessen's Git Branching](https://nvie.com/posts/a-successful-git-branching-model/) System.
 * Your code's documentation follows our [rules](Contributing/How-to-Document-Your-Contribution.md).
 * Your pull request:
     * Passes all checks and has no conflicts.
