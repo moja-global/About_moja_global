@@ -6,7 +6,7 @@ In addition, moja global is using the [All Contributors Bot](https://allcontribu
 
 But if you would like to be recognized, please blow your own trumpet by follow the steps below:
 
-1. After making your contribution (submitting your pull-request, replying to a question, resolving an issues, etc.) add the following sentence in a comment  
+1. After making your contribution (submitting your pull-request, replying to a question, resolving an issues, etc.) add the following sentence in a comment to an existing issue    
 `@all-contributors please add <@username> for <contributions>`
 1. `<@username>` can be any person or organisation with a GitHub account   
 1. `<contributions>` can be any word from [this list](https://allcontributors.org/docs/en/emoji-key) but the bot will also use [basic Natural Language Parsing](https://github.com/all-contributors/all-contributors-bot/blob/master/src/tasks/processIssueComment/utils/parse-comment/index.js) to determine your contribution intent.
