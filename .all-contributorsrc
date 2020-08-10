@@ -104,6 +104,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "sulays",
+      "name": "Sulay Shah",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/22588201?v=4",
+      "profile": "https://github.com/sulays",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
