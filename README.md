@@ -62,6 +62,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
    <td align="center"><a href="https://github.com/yjko2"><img src="https://avatars1.githubusercontent.com/u/19564969?v=4" width="100px;" alt=""/><br /><sub><b>Youngjin</b></sub></a><br /><a href="https://github.com/moja-global/FLINT.Projections/commits?author=yjko2" title="Documentation">📖</a></td>
    <td align="center"><a href="http://abhi-blogs.web.app"><img src="https://avatars1.githubusercontent.com/u/36303692?v=4" width="100px;" alt=""/><br /><sub><b>Abhishek Garain</b></sub></a><br /><a href="https://github.com/moja-global/GSoC.FLINT.JSON_Interface/commits?author=abhi211199" title="Code">💻</a></td>
    <td align="center"><a href="https://github.com/saloni-garg"><img src="https://avatars0.githubusercontent.com/u/26901250?v=4" width="100px;" alt=""/><br /><sub><b>Saloni Garg</b></sub></a><br /><a href="https://www.youtube.com/channel/UCfQUrrNP1Xf-Fv4c8uHYXhQ/" title="Tech Evangelist">:woman_office_worker:</a></td>
+      <td align="center"><a href="https://github.com/sulays"><img src="https://avatars2.githubusercontent.com/u/22588201?v=4" width="100px;" alt=""/><br /><sub><b>Sulay Shah</b></sub></a><br /><a href="https://github.com/moja-global/GSoC.FLINT.Module.Agricultural_Soil_Model/commits?author=sulays" title="Code">💻</a></td>
   </tr>
 </table>
 
