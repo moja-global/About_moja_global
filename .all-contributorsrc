@@ -104,6 +104,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "yjko2",
+      "name": "Youngjin KO",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/68292564?v=4",
+      "profile": "https://github.com/yjko2",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
