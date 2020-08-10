@@ -52,6 +52,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/mfellows"><img src="https://avatars0.githubusercontent.com/u/8548157?v=4" width="100px;" alt=""/><br /><sub><b>Max Fellows</b></sub></a><br /><a href="https://github.com/moja-global/About_moja_global/commits?author=mfellows" title="Code">💻</a></td>
     <td align="center"><a href="https://canada.ca"><img src="https://avatars3.githubusercontent.com/u/20973642?v=4" width="100px;" alt=""/><br /><sub><b>Government of Canada - Gouvernement du Canada</b></sub></a><br /><a href="#financial-canada-ca" title="Financial">💵</a></td>
     <td align="center"><a href="https://github.com/nibwene"><img src="https://avatars2.githubusercontent.com/u/52450703?v=4" width="100px;" alt=""/><br /><sub><b>Nibwene</b></sub></a><br /><a href="https://github.com/moja-global/About_moja_global/commits?author=nibwene" title="Documentation">📖</a></td>
+   <td align="center"><a href="https://www.linkedin.com/in/parth-arora-1449ab14a/"><img src="https://scontent.fbho2-1.fna.fbcdn.net/v/t1.0-9/22308956_699791580219629_8478306991939367371_n.jpg?_nc_cat=103&_nc_sid=174925&_nc_ohc=64IO4U3QfRYAX8HnOSc&_nc_ht=scontent.fbho2-1.fna&oh=4b8d5e475d22f4108a32ade38357ab24&oe=5F3767C5" width="100px" alt=""/><br /><sub><b>Parth Arora</b></sub></a><br/><a href="https://drive.google.com/open?id=1ZEIe905-vOv0158zEhHXaJ-nPXm395gx" title="Resume">📆</a>
+</td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/kaskou"><img src="https://avatars1.githubusercontent.com/u/8544371?v=4" width="100px;" alt=""/><br /><sub><b>kaushik surya sangem</b></sub></a><br /><a href="#maintenance-kaskou" title="Maintenance">🚧</a></td>
