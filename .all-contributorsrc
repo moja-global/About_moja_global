@@ -104,6 +104,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "Tonnix",
+      "name": "Tonnix",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/8914607?v=4",
+      "profile": "https://github.com/Tonnix",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
