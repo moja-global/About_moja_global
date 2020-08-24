@@ -123,6 +123,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "slkull",
+      "name": "Stephen Kull",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/270975?v=4",
+      "profile": "https://github.com/slkull",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
