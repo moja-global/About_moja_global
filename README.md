@@ -62,6 +62,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="http://www.juliancabezas.com"><img src="https://avatars1.githubusercontent.com/u/17553010?v=4" width="100px;" alt=""/><br /><sub><b>Julián Cabezas</b></sub></a><br /><a href="https://github.com/moja-global/About_moja_global/commits?author=juliancabezas" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/slkull"><img src="https://avatars0.githubusercontent.com/u/270975?v=4" width="100px;" alt=""/><br /><sub><b>Stephen Kull</b></sub></a><br /><a href="https://github.com/moja-global/About_moja_global/commits?author=slkull" title="Code">💻</a></td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/vatsalyatandon"><img src="https://avatars0.githubusercontent.com/u/23526974?v=4" width="100px;" alt=""/><br /><sub><b>Vatsalya Tandon</b></sub></a><br /><a href="https://github.com/moja-global/About_moja_global/commits?author=vatsalyatandon" title="Code">💻</a></td>
+  </tr>
 </table>
 
 <!-- markdownlint-enable -->
