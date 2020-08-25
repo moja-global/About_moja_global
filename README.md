@@ -64,6 +64,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/vatsalyatandon"><img src="https://avatars0.githubusercontent.com/u/23526974?v=4" width="100px;" alt=""/><br /><sub><b>Vatsalya Tandon</b></sub></a><br /><a href="https://github.com/moja-global/About_moja_global/commits?author=vatsalyatandon" title="Code">💻</a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/parth-arora-1449ab14a/"><img src="https://avatars0.githubusercontent.com/u/50455445?v=4" width="100px;" alt=""/><br /><sub><b>Parth Arora</b></sub></a><br /><a href="https://github.com/moja-global/About_moja_global/commits?author=parth-gr" title="Code">💻</a></td>
   </tr>
 </table>
 
