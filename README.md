@@ -69,6 +69,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/sulays"><img src="https://avatars2.githubusercontent.com/u/22588201?v=4" width="100px;" alt=""/><br /><sub><b>Sulay Shah</b></sub></a><br /><a href="https://github.com/moja-global/About_moja_global/commits?author=sulays" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/tgoswamy"><img src="https://avatars0.githubusercontent.com/u/39840108?v=4" width="100px;" alt=""/><br /><sub><b>Tushar Goswamy</b></sub></a><br /><a href="https://github.com/moja-global/About_moja_global/commits?author=tgoswamy" title="Code">💻</a></td>
     <td align="center"><a href="https://www.linkedin.com/in/tridev/"><img src="https://avatars0.githubusercontent.com/u/9274280?v=4" width="100px;" alt=""/><br /><sub><b>Tri Dev Acharya</b></sub></a><br /><a href="https://github.com/moja-global/About_moja_global/commits?author=trydave" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/jahnvigupta"><img src="https://avatars1.githubusercontent.com/u/43217070?v=4" width="100px;" alt=""/><br /><sub><b>Jahnvi Gupta</b></sub></a><br /><a href="https://github.com/moja-global/About_moja_global/commits?author=jahnvigupta" title="Code">💻</a></td>
   </tr>
 </table>
 
