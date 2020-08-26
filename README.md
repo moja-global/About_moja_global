@@ -71,6 +71,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://www.linkedin.com/in/tridev/"><img src="https://avatars0.githubusercontent.com/u/9274280?v=4" width="100px;" alt=""/><br /><sub><b>Tri Dev Acharya</b></sub></a><br /><a href="https://github.com/moja-global/About_moja_global/commits?author=trydave" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/jahnvigupta"><img src="https://avatars1.githubusercontent.com/u/43217070?v=4" width="100px;" alt=""/><br /><sub><b>Jahnvi Gupta</b></sub></a><br /><a href="https://github.com/moja-global/About_moja_global/commits?author=jahnvigupta" title="Code">💻</a></td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://7ayushgupta.github.io"><img src="https://avatars0.githubusercontent.com/u/33892472?v=4" width="100px;" alt=""/><br /><sub><b>Ayush Gupta</b></sub></a><br /><a href="https://github.com/moja-global/About_moja_global/commits?author=7ayushgupta" title="Code">💻</a></td>
+  </tr>
 </table>
 
 <!-- markdownlint-enable -->
