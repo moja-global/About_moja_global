@@ -73,6 +73,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
   <tr>
     <td align="center"><a href="https://7ayushgupta.github.io"><img src="https://avatars0.githubusercontent.com/u/33892472?v=4" width="100px;" alt=""/><br /><sub><b>Ayush Gupta</b></sub></a><br /><a href="https://github.com/moja-global/About_moja_global/commits?author=7ayushgupta" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/Ixw123"><img src="https://avatars3.githubusercontent.com/u/14895726?v=4" width="100px;" alt=""/><br /><sub><b>Micah Church</b></sub></a><br /><a href="https://github.com/moja-global/About_moja_global/commits?author=Ixw123" title="Code">💻</a></td>
   </tr>
 </table>
 
