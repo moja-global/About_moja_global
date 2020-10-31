@@ -27,7 +27,7 @@ moja global welcomes a wide range of contributions as explained in [Contributing
   
 ## FAQ and Other Questions  
 
-* You can find FAQs on the [Wiki](https://github.com/moja.global/.github/wiki).  
+* You can find FAQs on the [Wiki](https://github.com/moja-global/About_moja_global/wiki).  
 * If you have a question about the code, submit [user feedback](https://github.com/moja-global/About-moja-global/blob/master/Contributing/How-to-Provide-User-Feedback.md) in the relevant repository  
 * If you have a general question about a project or repository or moja global, [join moja global](https://github.com/moja-global/About-moja-global/blob/master/Contributing/How-to-Join-moja-global.md) and 
     * [submit a discussion](https://help.github.com/en/articles/about-team-discussions) to the project, repository or moja global [team](https://github.com/orgs/moja-global/teams)
