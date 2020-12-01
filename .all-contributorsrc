@@ -250,6 +250,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "jenkatesmits",
+      "name": "jenkatesmits",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/74840810?v=4",
+      "profile": "https://github.com/jenkatesmits",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
