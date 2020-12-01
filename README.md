@@ -78,6 +78,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/shubhamkarande13"><img src="https://avatars2.githubusercontent.com/u/13800316?v=4" width="100px;" alt=""/><br /><sub><b>Shubham Karande</b></sub></a><br /><a href="https://github.com/moja-global/About_moja_global/commits?author=shubhamkarande13" title="Code">💻</a></td>
     <td align="center"><a href="http://saloni-garg.github.io"><img src="https://avatars2.githubusercontent.com/u/26901250?v=4" width="100px;" alt=""/><br /><sub><b>Saloni Garg</b></sub></a><br /><a href="https://github.com/moja-global/About_moja_global/commits?author=saloni-garg" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/Mohitkumar6122"><img src="https://avatars1.githubusercontent.com/u/47894634?v=4" width="100px;" alt=""/><br /><sub><b>Mohit Kumar</b></sub></a><br /><a href="https://github.com/moja-global/About_moja_global/commits?author=Mohitkumar6122" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/jenkatesmits"><img src="https://avatars3.githubusercontent.com/u/74840810?v=4" width="100px;" alt=""/><br /><sub><b>jenkatesmits</b></sub></a><br /><a href="https://github.com/moja-global/About_moja_global/commits?author=jenkatesmits" title="Documentation">📖</a></td>
   </tr>
 </table>
 
