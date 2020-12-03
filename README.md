@@ -17,22 +17,22 @@ Climate change is the biggest challenge of our time. Globally, more than 25% of 
 
 Measuring emissions and sinks from land use is notoriously difficult and developing tools to estimate these sinks and emissions is expensive and requires specialised expertise. Through global collaboration between scientists and coders, moja global reduces the cost and increase the quality of the software that can estimate emissions and sinks from land use.  
 
+## Developer Docs
 
+We currently house our documentation in the [moja global developer docs](https://docs.moja.global). Please checkout the [GitHub workflow](https://docs.moja.global/en/latest/DeveloperWorkflow/index.html) and [Join Us](https://docs.moja.global/en/latest/contact.html) sections to get more clarity on the moja global way of doing things. You may also refer this documentation for setting up FLINT, FLINT.example, GCBM. You may also suggest an improvement in the current docs by creating an issue [here](hhttps://github.com/moja-global/GSoD.moja_global_docs).
 
 ## How to Get Involved?  
 
-moja global welcomes a wide range of contributions as explained in [Contributing document](CONTRIBUTING.md) and in the [Wiki](https://github.com/moja-global/.github/wiki).  
-  
-  
-  
+moja global welcomes a wide range of contributions as explained in [Contributing document](https://docs.moja.global/en/latest/contributing/index.html).
+
 ## FAQ and Other Questions  
 
-* You can find FAQs on the [Wiki](https://github.com/moja.global/.github/wiki).  
+* You can find FAQs on the [FAQs section of our docs](https://docs.moja.global/en/latest/faq.html).  
 * If you have a question about the code, submit [user feedback](https://github.com/moja-global/About-moja-global/blob/master/Contributing/How-to-Provide-User-Feedback.md) in the relevant repository  
-* If you have a general question about a project or repository or moja global, [join moja global](https://github.com/moja-global/About-moja-global/blob/master/Contributing/How-to-Join-moja-global.md) and 
+* If you have a general question about a project or repository or moja global, [join moja global](https://docs.moja.global/en/latest/contact.html) and
     * [submit a discussion](https://help.github.com/en/articles/about-team-discussions) to the project, repository or moja global [team](https://github.com/orgs/moja-global/teams)
-    * [submit a message](https://get.slack.help/hc/en-us/categories/200111606#send-messages) to the relevant channel on [moja global's Slack workspace](https://mojaglobal.slack.com). 
-* If you have other questions, please write to info@moja.global   
+    * [submit a message](https://get.slack.help/hc/en-us/categories/200111606#send-messages) to the relevant channel on [moja global's Slack workspace](mojaglobal.slack.com).
+* If you have other questions, please write to info@moja.global  
 
 
   
