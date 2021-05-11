@@ -1,15 +1,13 @@
+
 [![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors)
 
 # moja global   
-This repo provides information about the organisation moja global and its tools. You can find out who we are, what we do and most importantly, how we work and how you can contribute.  
 
+This repository provides information about the moja global organization and its tools. You can find out who we are, what we do and most importantly, how we work and how you can contribute.  
 
 ## What is moja global?  
 
-[*moja global*](http://moja.global/) is a collaboration under the Linux Foundation that aims for the widest possible collaboration on and use of credible tools to better manage the land sector. The flagship software is the 
- [Full Lands Integration Tool (FLINT)](), 
-a tool to estimate emissions and sinks of greenhouse gasses from forestry and agriculture.  
-
+[*moja global*](http://moja.global/) is a collaboration under the [Linux Foundation](https://linuxfoundation.org/) that aims for the widest possible collaboration on and use of credible tools to better manage the land sector. The flagship software is the [Full Lands Integration Tool (FLINT)](https://github.com/moja-global/flint), a tool to estimate emissions and sinks of greenhouse gasses from forestry and agriculture.  
 
 ## Why moja global?  
 
@@ -19,7 +17,7 @@ Measuring emissions and sinks from land use is notoriously difficult and develop
 
 ## Developer Docs
 
-We currently house our documentation in the [moja global developer docs](https://docs.moja.global). Please checkout the [GitHub workflow](https://docs.moja.global/en/latest/DeveloperWorkflow/index.html) and [Join Us](https://docs.moja.global/en/latest/contact.html) sections to get more clarity on the moja global way of doing things. You may also refer this documentation for setting up FLINT, FLINT.example, GCBM. You may also suggest an improvement in the current docs by creating an issue [here](hhttps://github.com/moja-global/GSoD.moja_global_docs).
+We currently house our documentation on the [moja global developer docs](https://docs.moja.global). Please checkout our [GitHub workflow](https://docs.moja.global/en/latest/DeveloperWorkflow/index.html) and [Join Us](https://docs.moja.global/en/latest/contact.html) sections to get more clarity on our way of doing things. You may also refer to this documentation for setting up `FLINT`, `FLINT.example` and `GCBM`. You may also suggest an improvement in the current documentation by creating an issue [here](hhttps://github.com/moja-global/GSoD.moja_global_docs).
 
 ## How to Get Involved?  
 
@@ -28,13 +26,11 @@ moja global welcomes a wide range of contributions as explained in [Contributing
 ## FAQ and Other Questions  
 
 * You can find FAQs on the [FAQs section of our docs](https://docs.moja.global/en/latest/faq.html).  
-* If you have a question about the code, submit [user feedback](https://github.com/moja-global/About-moja-global/blob/master/Contributing/How-to-Provide-User-Feedback.md) in the relevant repository  
-* If you have a general question about a project or repository or moja global, [join moja global](https://docs.moja.global/en/latest/contact.html) and
-    * [submit a discussion](https://help.github.com/en/articles/about-team-discussions) to the project, repository or moja global [team](https://github.com/orgs/moja-global/teams)
-    * [submit a message](https://get.slack.help/hc/en-us/categories/200111606#send-messages) to the relevant channel on [moja global's Slack workspace](mojaglobal.slack.com).
-* If you have other questions, please write to info@moja.global  
-
-
+* If you have a question about the code, submit a [user feedback](https://github.com/moja-global/About-moja-global/blob/master/Contributing/How-to-Provide-User-Feedback.md) on the relevant repository  
+* If you have a general question about a project or repository or moja global, [join moja global](https://docs.moja.global/en/latest/contact.html) and:
+    * [Submit a discussion](https://help.github.com/en/articles/about-team-discussions) to the project, repository or moja global [team](https://github.com/orgs/moja-global/teams)
+    * [Submit a message](https://get.slack.help/hc/en-us/categories/200111606#send-messages) to the relevant channel on [moja global's Slack workspace](mojaglobal.slack.com).
+* If you have other questions, please write to [info@moja.global](mailto:info@moja.global).  
   
 ## Contributors
 
@@ -90,7 +86,6 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 moja global would like to recognise the contribution of the Government of Canada to support the development of its open-source repositories and frameworks.
   
-  
 ## Maintainers Reviewers Ambassadors Coaches
 
 The following people are Maintainers Reviewers Ambassadors or Coaches
@@ -101,4 +96,3 @@ The following people are Maintainers Reviewers Ambassadors or Coaches
 **Reviewers** check proposed changes before they go to the Maintainers  
 **Ambassadors** are available to provide training related to this repository  
 **Coaches** are available to provide information to new contributors to this repository  
-
