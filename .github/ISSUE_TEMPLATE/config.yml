@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Would you like to discuss something?
+    url: https://github.com/moja-global/About_moja_global/discussions/new
+    about: Start a new discussion for any query or suggestion.
+  - name: Contribution Guidelines
+    url: https://github.com/moja-global/About_moja_global/blob/master/CONTRIBUTING.md
+    about: Please go through our Contribution Guidelines
