@@ -1,11 +1,12 @@
 ## Continuous Integration Tools
 
-While not yet implemented, moja global intends to utilise Continuous Integration Tools.
+While not yet implemented, moja global intends to utilise Continuous Integration Tools. Continuous Integration allows multiple developers to work on a software project while integrating their changes and maintaining the stability and quality of the software.
 
-It is not yet known the level of activity and rate of development that is likely to occur within moja global repositories.
-Therefore it is difficult to specify how often integration should occur, this will need to be assessed on a case-by-case basis for each repository.
+It is not yet known the level of activity and rate of development that is likely to occur within moja global repositories to bring Continuous Integration tools within the folds. Therefore it is difficult to specify how often integration should occur, and this would need to be assessed on a case-by-case basis for each repository.
 
-Two Integration Tools have been identified for CI in moja global.
+Two Integration Tools have been identified for Continuous Integration with moja global:
 
-[Travis CI](https://travis-ci.org/) supports Continuous Integration and testing for Linux.
-[AppVeyor](https://www.appveyor.com/) supports Continous Integration and testing for Windows. Both services offer free packages for open-source projects.
+-   [Travis CI](https://travis-ci.org/) supports Continuous Integration and testing for Linux.
+-   [AppVeyor](https://www.appveyor.com/) supports Continous Integration and testing for Windows. 
+
+Both services offer free packages for open-source projects. Please send us an email at  [info@moja.global](mailto:info@moja.global) if you would like to contribute towards the same.
