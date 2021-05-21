@@ -1,6 +1,6 @@
 ## Code Contributions
 
-We would like to thank you for your interest in contributing. You can find below on how you can get started with knowing and contributing about moja global. The first few steps are always crucial but signify how you wish to involve with the community.
+We would like to thank you for your interest in contributing. You can find below how you can get started with knowing and contributing to moja global. The first few steps are always crucial but signify how you wish to involve with the community.
 
 1.  Get to know moja global:
 
@@ -16,7 +16,7 @@ We would like to thank you for your interest in contributing. You can find below
 
 4.  Follow [Vincent Driessen's Git Branching](https://nvie.com/posts/a-successful-git-branching-model/) System
 
-    -   Name your Branch with same name using the Feature or Branch name with a [version number](https://github.com/moja-global/About-moja-global/blob/master/Contributing/How-to-Assign-a-Version.md)
+    -   Name your Branch with the same name using the Feature or Branch name with a [version number](https://github.com/moja-global/About-moja-global/blob/master/Contributing/How-to-Assign-a-Version.md)
 
 5.  Make your contribution
 
@@ -25,7 +25,7 @@ We would like to thank you for your interest in contributing. You can find below
 
 6.  Submit your contribution
 
-    -   [Submit a Pull-Request](https://github.com/moja-global/About-moja-global/blob/master/Contributing/How-to-Submit-a-Pull-Request.md) to the Branch you want to contribute .
+    -   [Submit a Pull-Request](https://github.com/moja-global/About-moja-global/blob/master/Contributing/How-to-Submit-a-Pull-Request.md) to the Branch you want to contribute.
     -   Use a clear and descriptive title
     -   Ensure maintainers can understand your proposed changes from the description
     -   Sign your message with `Signed-off-by: Random J Developer` to agree to [Developer Certificate of Origin (DCO)](https://developercertificate.org/) (to certify that you wrote or otherwise have the right to submit your contribution to the project.)
