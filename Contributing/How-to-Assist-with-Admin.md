@@ -6,4 +6,4 @@ moja global supports new contributors and people willing to help simplify our pr
 2.  Use a clear and descriptive title.
 3.  Please provide background or references to prove your good intentions if you do not have a track record on GitHub.
 4.  Attach files, screenshots and/or animated GIFs to illustrate your ideas and plans.
-5.  Please allow a few days for **moja global** to reply.
+5.  Please allow a few days for moja global to reply.
