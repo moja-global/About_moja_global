@@ -1,8 +1,8 @@
 ## moja global Versioning
 
-Most moja global tools are platforms combined with modules. This results in many dependencies which in turn require tight version control without losing flexibility. 
+Most moja global tools are platforms combined with modules. This results in many dependencies which in turn require tight version control without losing any flexibility. 
 
-moja global projects use Vincent Driessen's [GitFlow](https://datasift.github.io/gitflow/IntroducingGitFlow.html) and therefore moja global uses the [related versioning system](https://datasift.github.io/gitflow/Versioning.html). More eleborate discussion can be found [in the on-line discussion of SemVer](https://github.com/semver/semver/issues/323).  
+moja global projects use Vincent Driessen's [GitFlow](https://datasift.github.io/gitflow/IntroducingGitFlow.html) and therefore moja global uses the [related versioning system](https://datasift.github.io/gitflow/Versioning.html). More eleborate discussion can be found [on the on-line discussion of SemVer](https://github.com/semver/semver/issues/323).  
 
 The Standard Format for the version number consists of 3 indicators (MAJOR.MINOR.PATCH) and is only assigned at the moment the version is released. For work in progress a label is used as a placeholder.  
 
