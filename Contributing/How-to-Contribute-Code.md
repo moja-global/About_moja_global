@@ -38,3 +38,5 @@ We would like to thank you for your interest in contributing. You can find below
 7.  Get credit for your work
 
     -   [Claim credit](https://github.com/moja-global/About-moja-global/blob/master/Contributing/How-to-Get-Credit-for-Your-Contribution.md) if you are not listed yet.
+
+If you have experience and want to help, please send an email to [mentorship@moja.global](mailto:mentorship@moja.global). We are open to mentoring new developers and contributors through various mentorship program and initiatives.

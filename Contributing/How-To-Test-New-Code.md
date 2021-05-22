@@ -20,3 +20,5 @@ These tests need to be performed by the maintainer, and the maintainer may also 
 Acceptance testing is the final step in testing and should be conducted for final acceptance of the pull-request. Acceptance testing should be conducted by the 'user' and meet the business requirements for the new functionality or bug fix. 
 
 At present, the community of contributors to moja repositories is relatively small and a detailed framework for acceptance is not required. As the community grows, this will be reviewed and a more hierarchical structure may be necessary to ensure that new features fit within the strategic priorities of moja before they are accepted into the Master Branch. 
+
+If you have experience and want to help, please send an email to [tsc@moja.global](mailto:tsc@moja.global).

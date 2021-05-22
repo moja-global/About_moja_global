@@ -18,5 +18,5 @@ A repository contains all the files and the revision history associated with a p
     -   In the body of the Issue, provide the abstract of your project first. Then follow the template to the extent it is useful and provide as much information as possible.
     -   Attach files, screenshots and/or animated GIFs
     -   Click the green button "Submit New Issue" at the bottom right corner.
-    -   If you have not received a reply within 2 days, please write us at [info@moja.global](mailto:info@moja.global).
+    -   If you have not received a reply within 2 days, please write us at [tsc@moja.global](mailto:tsc@moja.global).
  
