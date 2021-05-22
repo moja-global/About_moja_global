@@ -1,6 +1,8 @@
 ## Coach or Train new contributors
 
-moja global is increasingly looking for new contributors who can contribute to our projects and processes. To help them better involve with the community and ensure that their potential is utilized appropriately, we request our community members to coach or train new contributors. As a Coach or an Ambassador, you need to ensure that the new contributors get the required mentorship to help them succeed in the community and drive a positive impact.
+moja global is increasingly looking for new contributors who can contribute to our projects and processes. To help them better involve with the community and ensure that their potential is utilized appropriately, we request our community members to coach or train new contributors. If you have experience and want to help, please send an email to [mentorship@moja.global](mailto:mentorship@moja.global).
+
+As a Coach or an Ambassador, you need to ensure that the new contributors get the required mentorship to help them succeed in the community and drive a positive impact.
 
 1.  Ensure that the Contributors know that you are a Coach.
 

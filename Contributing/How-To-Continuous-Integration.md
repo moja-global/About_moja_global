@@ -9,4 +9,4 @@ Two Integration Tools have been identified for Continuous Integration with moja 
 -   [Travis CI](https://travis-ci.org/) supports Continuous Integration and testing for Linux.
 -   [AppVeyor](https://www.appveyor.com/) supports Continous Integration and testing for Windows. 
 
-Both services offer free packages for open-source projects. Please send us an email at  [info@moja.global](mailto:info@moja.global) if you would like to contribute towards the same.
+Both services offer free packages for open-source projects. Please send us an email at  [tsc@moja.global](mailto:tsc@moja.global) if you would like to contribute towards the same.

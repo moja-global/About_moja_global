@@ -16,3 +16,5 @@ The backlog for any particular repository is managed by one or multiple maintain
 6.  Ensure that issues assigned to the contributors are being worked on.
 
 Maintainers should set up the `watch` capacity for projects that they manage to ensure that they are aware of anything that is occurring in the project. It is also recommended that they `star` the relevant repositories of the project while they are working as the maintainer.
+
+If you have experience and want to help, please send an email to [tsc@moja.global](mailto:tsc@moja.global).
