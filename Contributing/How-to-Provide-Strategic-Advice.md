@@ -7,7 +7,7 @@ moja global is increasingly looking for new scientists, developers and researche
     -   Click **Issues**. 
     -   Click **New Issue**. 
     -   At the bottom of the page, click **Open a Regular Issue**.
-2.  Start your title with the word **Strategy:**. Use a clear and descriptive title.
+2.  Start your title with the word **Strategy:** Use a clear and descriptive title.
 3.  Select **Strategy** from the labels drop-down menu.
 4.  Propose your strategic target in the body of the Issue. Provide as much detail as possible which includes effective implementation approaches, potential in-kind or financial support, examples. 
 5.  Attach files, screenshots and/or animated GIFs
