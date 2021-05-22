@@ -16,21 +16,25 @@ We would like to thank you for your interest in contributing. You can find below
 
 4.  Follow [Vincent Driessen's Git Branching](https://nvie.com/posts/a-successful-git-branching-model/) System
 
-    -   Name your Branch with the same name using the Feature or Branch name with a [version number](https://github.com/moja-global/About-moja-global/blob/master/Contributing/How-to-Assign-a-Version.md)
+    -   Name your Branch with the same name using the Feature or Branch name with a [version number](https://github.com/moja-global/About-moja-global/blob/master/Contributing/How-to-Assign-a-Version.md).
 
 5.  Make your contribution
 
-    -   Make changes or additions to the code
-    -   Follow the [documentation guidelines](https://github.com/moja-global/About-moja-global/blob/master/Contributing/How-to-Document-Your-Contribution.md)
+    -   Make changes or additions to the code.
+    -  Ensure that your code meets the [coding style guidelines](https://github.com/moja-global/About-moja-global/blob/master/Governance/Coding-Guidelines.md).
+    - Perform relevant tests for the repository that you will be submitting the pull-request for.
+    -   Follow the [documentation guidelines](https://github.com/moja-global/About-moja-global/blob/master/Contributing/How-to-Document-Your-Contribution.md).
 
 6.  Submit your contribution
 
     -   [Submit a Pull-Request](https://github.com/moja-global/About-moja-global/blob/master/Contributing/How-to-Submit-a-Pull-Request.md) to the Branch you want to contribute.
-    -   Use a clear and descriptive title
-    -   Ensure maintainers can understand your proposed changes from the description
-    -   Sign your message with `Signed-off-by: Random J Developer` to agree to [Developer Certificate of Origin (DCO)](https://developercertificate.org/) (to certify that you wrote or otherwise have the right to submit your contribution to the project.)
-    -   Ensure your Pull-Request passes all checks and has no conflicts
-    -   Click `Create Pull Request`
+    -   Use a clear and descriptive title.
+    -   Ensure maintainers can understand your proposed changes from the description.
+    -   Sign your message with `Signed-off-by: Random J Developer` to agree to [Developer Certificate of Origin (DCO)](https://developercertificate.org/) to certify that you wrote or otherwise have the right to submit your contribution to the project.
+    -   Ensure your Pull-Request passes all checks and has no conflicts.
+    -   Click `Create Pull Request`.
+    -   Include in the comments section the tests that you have completed and if they were a pass or fail.
 
 7.  Get credit for your work
+
     -   [Claim credit](https://github.com/moja-global/About-moja-global/blob/master/Contributing/How-to-Get-Credit-for-Your-Contribution.md) if you are not listed yet.
