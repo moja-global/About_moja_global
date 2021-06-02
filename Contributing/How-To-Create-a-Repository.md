@@ -11,7 +11,7 @@ A repository contains all the files and the revision history associated with a p
     -   Create your repository.
 
 2.  If you are not a member of the moja global organization, the moja global team will create the repository for you and invite you as an external member to take charge of the project. Follow these steps:
-    -   Navigate to the `.github` repository.
+    -   Navigate to the [About_moja_global](https://github.com/moja-global/About_moja_global) repository.
     -   Click Issues.
     -   Click the green button **Get Started** in the Feature Request box.
     -   Use the title of your project as the title of the requested features.
@@ -19,4 +19,3 @@ A repository contains all the files and the revision history associated with a p
     -   Attach files, screenshots and/or animated GIFs
     -   Click the green button "Submit New Issue" at the bottom right corner.
     -   If you have not received a reply within 2 days, please write us at [tsc@moja.global](mailto:tsc@moja.global).
- 

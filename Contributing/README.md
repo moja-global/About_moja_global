@@ -4,7 +4,7 @@ This section contains important information and a list of resources we would lik
 
 ## Getting Started
 
-Help fight climate change from your keyboard! Moja global provides tools for estimating emissions and removals of greenhouse gases (GHG) from the land sector. Our flagship software, Full Lands INtegration Tool is also known as FLINT is based on over 20 years of experience building and operating measurement, reporting and verification (MRV) tools in Australia and Canada. 
+Help fight climate change from your keyboard! Moja global provides tools for estimating emissions and removals of greenhouse gases (GHG) from the land sector. Our flagship software, **F**ull Lands **IN**tegration **T**ool is also known as FLINT is based on over 20 years of experience building and operating measurement, reporting and verification (MRV) tools in Australia and Canada.
 
 The FLINT provides the capability to quickly establish an operational MRV system that can respond to policymaking and planning needs. The FLINT has been designed to achieve the required accuracy through step-by-step improvements. The resources below help you quickly identify how you can get started with contributing to our processes, tips, tricks and suggestions from our side, including how you can reach out to us.
 

@@ -1,6 +1,6 @@
 ## Feature Request:
 
-moja global is increasingly looking for new scientists, developers and researchers to join us and help improve our processes. We are also looking for constructive feature development via feature requests to help us improve our software, workflows and processes. Please have a look at the below steps to get started with requesting features as a user:
+moja global is increasingly looking for new scientists, developers and researchers to join us and help improve our processes. We are also looking for constructive feature development via feature requests to help us improve our software, workflows and processes. Please have a look at the below steps to get started with requesting a new feature as a user:
 
 1.  Navigate to the main page of the repository for which you want to propose a new feature or functionality. If you want to propose a new tool or module, please navigate to the `.github` repository.
 2.  Under the repository name, click **Issues**.

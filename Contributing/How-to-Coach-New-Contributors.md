@@ -2,6 +2,10 @@
 
 moja global is increasingly looking for new contributors who can contribute to our projects and processes. To help them better involve with the community and ensure that their potential is utilized appropriately, we request our community members to coach or train new contributors. If you have experience and want to help, please send an email to [mentorship@moja.global](mailto:mentorship@moja.global).
 
+**Coaches** are experienced engineers or scientists or users who are available to work shoulder to shoulder with new developers, users, or contributors.
+
+**Ambassadors** are experienced engineers or scientists or users who are available to provide training to groups of new developers, users, or contributors.
+
 As a Coach or an Ambassador, you need to ensure that the new contributors get the required mentorship to help them succeed in the community and drive a positive impact.
 
 1.  Ensure that the Contributors know that you are a Coach.
@@ -17,7 +21,3 @@ As a Coach or an Ambassador, you need to ensure that the new contributors get th
     -   Ensure you have already [claimed credit](https://github.com/moja-global/About-moja-global/blob/master/Contributing/How-to-Get-Credit-for-Your-Contribution.md) for your work in the past. 
     -   Add your name to Ambassadors in the `README` document by copying your avatar and name from the *all-contributors* section and pasting it under the *Ambassadors* header.
     -   Submit a Pull-Request with your proposed changes. It would be reviewed and merged.
-
-**Coaches** are experienced engineers or scientists or users who are available to work shoulder to shoulder with new developers, users, or contributors.
-
-**Ambassadors** are experienced engineers or scientists or users who are available to provide training to groups of new developers, users, or contributors.

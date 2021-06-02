@@ -21,8 +21,8 @@ The indicators in the version number will be changed as follows:
     -   Change the **Science Design** so the code changes within the existing framework are required.
 
 3.  **PATCH** is increased when you:
-    -   You make backwards-compatible bug fixes
-    -   Change the science design so no code changes are necessary
+    -   You make backwards-compatible bug fixes.
+    -   Change the **Science Design** so no code changes are necessary.
 
 ### Build Versioning
 

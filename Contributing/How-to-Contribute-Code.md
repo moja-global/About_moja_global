@@ -22,7 +22,7 @@ We would like to thank you for your interest in contributing. You can find below
 
     -   Make changes or additions to the code.
     -  Ensure that your code meets the [coding style guidelines](https://github.com/moja-global/About-moja-global/blob/master/Governance/Coding-Guidelines.md).
-    - Perform relevant tests for the repository that you will be submitting the pull-request for.
+    - Perform relevant tests, which includes unit-testing or end-to-end testing as found fit for the repository that you will be submitting the pull-request for. 
     -   Follow the [documentation guidelines](https://github.com/moja-global/About-moja-global/blob/master/Contributing/How-to-Document-Your-Contribution.md).
 
 6.  Submit your contribution
