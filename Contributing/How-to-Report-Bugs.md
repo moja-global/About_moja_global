@@ -1,6 +1,6 @@
 ## Report a bug:
 
-moja global is increasingly looking for new scientists, developers and researchers to join us and help improve our processes. We are also looking for constructive bug triage process is carried out to help us improve our software, workflows and processes. Please have a look at the below steps to get started with reporting bugs as a user:
+moja global is increasingly looking for new scientists, developers and researchers to join us and help improve our processes. We are also looking for constructive bug triage process is carried out to help us improve our software, workflows and processes. Please have a look at the below steps to get started with reporting a new bug as a user:
 
 1.  Navigate to the main page of the repository where you found the bug.
 2.  Under the repository name, click **Issues**.
