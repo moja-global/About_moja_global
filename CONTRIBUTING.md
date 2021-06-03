@@ -33,7 +33,6 @@ Replace `<@username>` with your GitHub username and `<contributions>` with any w
 
 After that, the @all-contributors bot will submit a PR to include you in the list of contributors. Once this PR gets accepted, you'll get added to the Contributors table in the relevant project's `README`.
 
-
 ## How to Contribute Code?
 
 Bug fixes, performance improvements, code formatting, ...
@@ -64,7 +63,6 @@ We welcome all kinds of bug reports, user feedback and feature requests!
 
 We've created some issue templates to assist you in this. Please use them to create [a new issue](https://help.github.com/en/github/managing-your-work-on-github/creating-an-issue) in the relevant project's repository.
 
-
 ## How to Review & Contribute Science Design?
 
 Most of our code is informed by an underlying Science Design. We develop these designs collaboratively and your contributions are most welcome!
@@ -75,13 +73,11 @@ Every science-based project contains Science Designs under a directory named **S
 
 For instructions on how to contribute Science Designs, please read [this](Contributing/How-to-Contribute-Review-Science-Design.md) document.
 
-
 ## How to Suggest UI/UX Improvements?
 
 One of the most important areas of improvement to our flagship software FLINT is the user interface. We really need your help with this!
 
 If you have ideas on how we can improve, please share them with us by creating a [new issue]. We could then [start a new project](Contributing/How-to-Start-a-New-Project.md) for your idea!
-
 
 ## How to Contribute Translations?
 
