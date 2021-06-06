@@ -11,7 +11,7 @@ You can find the files in the [images-folder](https://github.com/moja-global/Abo
 ### Typography
 
 Primary Typeface: Source Sans pro (Used on the website)
-Secondary Typeface (when primary not available): Ropa Sans (used in PowerPoints)
+Secondary Typeface (when Primary Typeface is not available): Ropa Sans (used in PowerPoints)
 
 ### Colours
 
