@@ -4,7 +4,7 @@ moja global uses Google Docs to collaborate on text documents as more people are
 
 The following rules can be pasted at the beginning of the document to facilitate collaboration:
 
-This is an open-source document. Everybody is welcome to contribute. To allow us to be efficient we have only a few rules:
+This is an open-source document. Everybody is welcome to contribute. To allow us to be efficient, we have only few rules:
 
 1. All contributors use comments to ask questions or make substantial and structural suggestions. Always suggest solutions in your comments, not problems.
 1. Only Maintainers can resolve comments.
