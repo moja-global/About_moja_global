@@ -1,6 +1,6 @@
 ## Standard Rules for Collaboration on Text
 
-moja global uses Google Docs to collaborate on text documents as more people are comfortable with the format.
+Moja global uses Google Docs to collaborate on text documents as more people are comfortable with the format.
 
 The following rules can be pasted at the beginning of the document to facilitate collaboration:
 
