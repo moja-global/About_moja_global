@@ -1,6 +1,6 @@
 ## moja global Branding Guidelines
 
-**Moja global is always written in all lower case**, except when at the start of a sentence in which case it appears as “Moja global”. Moja global is written in lower case because open source is also the lower case (even though both are registered trademarks.) While there is no published reason why moja global uses lower case, some have explained the use of lower case as a contrast to proper nouns (i.e. "privately-owned") and as an expression of the supportive (i.e. "humble") role moja global tries to fulfil.
+**Moja global is always written in all lower case**, except when at the start of a sentence in which case it appears as “Moja global”. Moja global is written in lower case because open source is also the lower case (even though both are registered trademarks). While there is no published reason why moja global uses lower case, some have explained the use of lower case as a contrast to proper nouns (i.e. "privately-owned") and as an expression of the supportive (i.e. "humble") role moja global tries to fulfil.
 
 ### Logo or Icon
 
