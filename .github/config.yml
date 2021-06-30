@@ -24,7 +24,7 @@ newPRWelcomeComment: |
   Thank you and congrats 🎉 for opening your first PR on this project.✨
   We will review it soon! Till then you can checkout the `README.md` for more details on it.
 
-  Moja global fosters an open and welcoming environment for al our contributors.🌸 Please adhere to our [Code Of Conduct](https://github.com/moja-global/About_moja_global/blob/master/CODE_OF_CONDUCT.md).
+  Moja global fosters an open and welcoming environment for all our contributors.🌸 Please adhere to our [Code Of Conduct](https://github.com/moja-global/About_moja_global/blob/master/CODE_OF_CONDUCT.md).
 
   Feel free to join us on [moja global Private Slack](https://mojaglobal.slack.com/) by dropping an email [here](mailto:info@moja.global).👩‍💻 We would love to hear your interesting ideas and engage in discussions.💖
   Moja global is delighted to have you here :)
@@ -45,5 +45,29 @@ firstPRMergeComment: |
   <p>Create a welcoming or beginner friendly issue for someone else! 😄 🎉 </p>
   </details>
 
+# *Required* Comment to reply with
+requestInfoReplyComment: >
+  Hi,
+
+  Thanks for raising an issue/Pull Request! We at moja global appreciate your concerns and views to
+  help us improve. We capitalize on fostering a welcoming environment for all our contributors.
+
+  However we see that there is a lack of description in your Issue/Pull Request. We would appreciate
+  it if you could provide us with more info about this Issue/Pull Request. It would help our maintainers,
+  ambassadors and coaches to better review your Issue/PR and provide actionable feedback!
+
+  We are looking forward to your contributions!
+
+# *OPTIONAL* default titles to check against for lack of descriptiveness
+# MUST BE ALL LOWERCASE
+requestInfoDefaultTitles:
+  - update readme.md
+  - updates
+  - add files via upload
+  - readme.md
+  - changes made
+
+# *OPTIONAL* Label to be added to Issues and Pull Requests with insufficient information given
+requestInfoLabelToAdd: needs-more-info
 
 # It is recommended to include as many gifs and emojis as possible!
