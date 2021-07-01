@@ -1,8 +1,10 @@
 ## The Annual Strategic Plans
 
--   [2019](./Strategic-Plan/2019.md)
--   [2018](./Strategic-Plan/2018.md)
--   [2017](./Strategic-Plan/2017.md)
+-   [2021](./Strategic-Plan/moja-global-strategic-plan-2021.pdf)
+-   [2020](./Strategic-Plan/moja-global-strategic-plan-2020.pdf)
+-   [2019](./Strategic-Plan/moja-global-strategic-plan-2019.md)
+-   [2018](./Strategic-Plan/moja-global-strategic-plan-2018.md)
+-   [2017](./Strategic-Plan/moja-global-strategic-plan-2017.md)
 
 ## What Is the moja global Strategic Plan
 
@@ -23,11 +25,11 @@ The moja global **Software layer** achieves the results which corresponds to the
 
 ## Development of the Strategic Plan
 
-The following steps are followed to develop the next Strategic Plan:
+The following steps are to be followed while developing the next Strategic Plan:
 
 1.  In November, suggestions for the Strategic Plan submitted on GitHub are collected and used as a basis for discussion.
-2.  Through interviews with the Strategy Board Members individually and with (potential) users of moja global tools, targets for each of the 4 layers will be defined and prioritized.
-3.  In the same interviews, Strategy Board Members and (potential) users are asked to commit in kind or in cash contributions or potential sources where such contributions can be obtained.
-4.  A draft Strategic Plan will be circulated to all Strategy Board Members and potential donors (possibly other stakeholders).
+2.  Through interviews with the Strategy Board Members individually and with (potential) users of moja global tools, targets for each of the 4 layers is defined and prioritized.
+3.  In the same interviews, Strategy Board Members and (potential) users are asked to commit in kind or in cash contributions or potential sources where such contributions is obtained.
+4.  A draft Strategic Plan is circulated to all Strategy Board Members and potential donors (possibly other stakeholders).
 5.  The final version of the Strategic Plan is approved in the Board Meeting in January.
 6.  The Strategy Board can review the Strategic Plan in their quarterly Board Meeting.
