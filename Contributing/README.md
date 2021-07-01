@@ -1,6 +1,6 @@
 # Contributing
 
-This section contains important information and a list of resources we would like to be followed while contributing to moja global. It consists of ways that you can use to communicate with us, contribute to our development and processes and join our organization and strategy board. We are increasingly looking for developers, scientists, researchers to assist us with our new projects, provide mentorship wherever required and help us maintain our existing projects. 
+This section contains important information and a list of resources we would like to be followed while contributing to moja global. It consists of ways that you can use to communicate with us, contribute to our development and processes and join our organization and strategy board. We are increasingly looking for developers, scientists, researchers to assist us with our new projects, provide mentorship wherever required and help us maintain our existing projects.
 
 ## Getting Started
 
