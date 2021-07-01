@@ -1,4 +1,4 @@
-## Continuous Improvement
+## Continuous Improvement Plan
 
 Consistent with the Agile development approach, moja global aims to operate in a framework for continuous improvement.
 
