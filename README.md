@@ -77,7 +77,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/jenkatesmits"><img src="https://avatars3.githubusercontent.com/u/74840810?v=4?s=100" width="100px;" alt=""/><br /><sub><b>jenkatesmits</b></sub></a><br /><a href="https://github.com/moja-global/About_moja_global/commits?author=jenkatesmits" title="Documentation">📖</a></td>
   </tr>
   <tr>
-    <td align="center"><a href="http://harshcasper.github.io"><img src="https://avatars.githubusercontent.com/u/47351025?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Harsh Mishra</b></sub></a><br /><a href="https://github.com/moja-global/About_moja_global/commits?author=HarshCasper" title="Code">💻</a></td>
+    <td align="center"><a href="http://harshcasper.github.io"><img src="https://avatars.githubusercontent.com/u/47351025?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Harsh Mishra</b></sub></a><br /><a href="https://github.com/moja-global/About_moja_global/commits?author=HarshCasper" title="Code">💻</a> <a href="https://github.com/moja-global/About_moja_global/commits?author=HarshCasper" title="Documentation">📖</a></td>
   </tr>
 </table>
 
