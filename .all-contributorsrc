@@ -288,6 +288,16 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "iamrajiv",
+      "name": "Rajiv Singh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/42106787?v=4",
+      "profile": "http://iamrajiv.github.io",
+      "contributions": [
+        "doc",
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
