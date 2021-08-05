@@ -269,6 +269,16 @@
         "code",
         "doc"
       ]
+    },
+    {
+      "login": "sarthakkundra",
+      "name": "Sarthak kundra",
+      "avatar_url": "https://avatars.githubusercontent.com/u/52133994?v=4",
+      "profile": "https://sarthakkundra.github.io/portfolio/",
+      "contributions": [
+        "code",
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
