@@ -82,6 +82,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://linktr.ee/shlokagupta"><img src="https://avatars.githubusercontent.com/u/41121520?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Shloka</b></sub></a><br /><a href="https://github.com/moja-global/About_moja_global/commits?author=chicken-biryani" title="Documentation">📖</a></td>
     <td align="center"><a href="http://iamrajiv.github.io"><img src="https://avatars.githubusercontent.com/u/42106787?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Rajiv Singh</b></sub></a><br /><a href="https://github.com/moja-global/About_moja_global/commits?author=iamrajiv" title="Documentation">📖</a> <a href="https://github.com/moja-global/About_moja_global/commits?author=iamrajiv" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/waridrox"><img src="https://avatars.githubusercontent.com/u/58583793?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Mohammad Warid</b></sub></a><br /><a href="https://github.com/moja-global/About_moja_global/commits?author=waridrox" title="Code">💻</a> <a href="#design-waridrox" title="Design">🎨</a></td>
+    <td align="center"><a href="https://sarahhaggarty.github.io/"><img src="https://avatars.githubusercontent.com/u/81160244?v=4?s=100" width="100px;" alt=""/><br /><sub><b>sarahhaggarty</b></sub></a><br /><a href="https://github.com/moja-global/About_moja_global/commits?author=sarahhaggarty" title="Documentation">📖</a></td>
   </tr>
 </table>
 
