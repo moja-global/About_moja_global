@@ -78,7 +78,7 @@ git commit -m "<your_commit_message>"
 **8.** Push your local commits to the remote repo.
 
 ```bash
-git push origin YourBranchName
+git push origin YourBranch
 ```
 
 **8.** Create a [PR](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) !
