@@ -57,7 +57,7 @@ git clone https://github.com/<your-github-username>/About_moja_global
 **3.** Navigate to the project directory.
 
 ```bash
-cd Care4ther-
+cd About_moja_global
 ```
 **5.** Create a new branch:
 ```bash
