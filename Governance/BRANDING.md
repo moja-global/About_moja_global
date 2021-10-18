@@ -18,8 +18,8 @@ Moja global is building a community of experts, scientists, and developers to cr
 
 | Name                          | Image             |
 | ----------------------------- | ----------------- |
-| Logo (Transparent Background) | [<img src="../images/moja-global-logo-transparent-background.png" width="100"/>](tr_logo.png)                      |
-| Logo (White Background)       | [<img src="../images/moja-global-logo-white-background.png" width="100"/>](white_logo.png)                           |
+| Logo (Transparent Background) | [<img src="../images/moja-global-logo-transparent-background.png" width="100"/>](../images/moja-global-log-transparent-background.png)                      |
+| Logo (White Background)       | [<img src="../images/moja-global-logo-white-background.png" width="100"/>](../images/moja-global-logo-white-backgrond.png)                           |
 
 Against dark backgrounds, use the white versions of the logo. You can download the logos from the [images](../images) directory.
 
@@ -43,4 +43,4 @@ The images should be high-quality, engaging photography that portrays images of 
 
 An example shown below is included in the [images](../images) directory. Please ensure that proprietary photographs are credited if the source is known.
 
-[<img src="../images/moja-global-banner.png" width="700"/>](mg_banner.png)
+[<img src="../images/moja-global-banner.png" width="700"/>](../images/moja-global-banner.png)
