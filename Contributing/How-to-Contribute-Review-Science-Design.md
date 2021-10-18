@@ -8,8 +8,8 @@ All moja global code is informed by a **Science Design**. Science Designs are de
     -   The Science folder will contain 2 types of Science Designs:
         -   PDF files contain completed science designs.  
         -   Markdown files contain a link to **Science Design** under development. 
-    -   Locate the PDF file with the highest [version number](https://github.com/moja-global/About-moja-global/blob/master/Contributing/How-to-Assign-a-Version.md) for review.
-    -   Locate the Markdown file with the highest [version number](https://github.com/moja-global/About-moja-global/blob/master/Contributing/How-to-Assign-a-Version.md) for a contribution.
+    -   Locate the PDF file with the highest [version number](How-to-Assign-a-Version.md) for review.
+    -   Locate the Markdown file with the highest [version number](How-to-Assign-a-Version.md) for a contribution.
     -   If no Markdown file is available, proceed with [agreeing on a Science Design](https://github.com/moja-global/About-moja-global/blob/master/Contributing/How-to-Agree-on-a-Science-Design.md).
 
 2.  Review **Science Design**:

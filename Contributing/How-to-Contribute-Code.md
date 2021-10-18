@@ -16,7 +16,7 @@ We would like to thank you for your interest in contributing. You can find below
 
 4.  Follow [Vincent Driessen's Git Branching](https://nvie.com/posts/a-successful-git-branching-model/) System
 
-    -   Name your Branch with the same name using the Feature or Branch name with a [version number](https://github.com/moja-global/About-moja-global/blob/master/Contributing/How-to-Assign-a-Version.md).
+    -   Name your Branch with the same name using the Feature or Branch name with a [version number](How-to-Assign-a-Version.md).
 
 5.  Make your contribution
 

@@ -35,7 +35,7 @@ This process assumes that you already have [started a new project](How-to-Start-
     -   Continue this cycle until the project is ready for a first release. 
 
 5.  Approve Release:
-    -   Once the code is ready for release, document the tests that have been performed, copy the Wiki to the repository and create a [release-candidate version](https://github.com/moja-global/.github/blob/master/Contributing/How-to-Assign-a-Version.md) that includes the Wiki and all other documentation. 
+    -   Once the code is ready for release, document the tests that have been performed, copy the Wiki to the repository and create a [release-candidate version](How-to-Assign-a-Version.md) that includes the Wiki and all other documentation. 
     -   Submit the pre-release to the scientists and code maintainers for a final review.
     -   Invite the independent scientists to participate in the review if a science review panel was used. Document test results and feedback from the reviewers and maintainers.
     -   Complete all the tests and bug-fixes.

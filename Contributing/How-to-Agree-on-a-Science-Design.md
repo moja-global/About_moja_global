@@ -4,12 +4,12 @@ moja global tools have to be in line with the latest science and international s
 
 1.  Invite your Team and start a new Project:
     -   While starting a new project and inviting a team to join, make sure that you invite (at least 1) accomplished scientists to review or develop a **Science Design**.
-    -   If according to your scientist, your project does not require changes to the existing Science Design, write a short justification mentioning the [version](https://github.com/moja-global/.github/blob/master/Contributing/How-to-Assign-a-Version.md) of your feature or the project in the title.
+    -   If according to your scientist, your project does not require changes to the existing Science Design, write a short justification mentioning the [version](How-to-Assign-a-Version.md) of your feature or the project in the title.
     -   Submit a pull-request to the appropriate sub-directory with the existing **Science Design**. Request [@TSC to review your pull-request](https://help.github.com/en/articles/requesting-a-pull-request-review) and share feedback.  
     -   If according to your scientist, your project requires a (revision of the) Science Design, proceed with the next step.
 2.  Create a [Google Doc](http://docs.new/) for the **Science Design**:
-    -   Make a copy of the existing **Science Design** and change the [version](https://github.com/moja-global/.github/blob/master/Contributing/How-to-Assign-a-Version.md) in the title.  
-    -   If no **Science Design** exists, copy [the standard header](https://docs.google.com/document/d/1feo9G91bbjth9RZ4606Rag4tAdRxuYpfnlWecs-gbbY/edit?usp=sharing) into a new Google Doc, along with the **Title** and **Abstract** from the GitHub repository and add the [version](https://github.com/moja-global/.github/blob/master/Contributing/How-to-Assign-a-Version.md) to the title.
+    -   Make a copy of the existing **Science Design** and change the [version](How-to-Assign-a-Version.md) in the title.  
+    -   If no **Science Design** exists, copy [the standard header](https://docs.google.com/document/d/1feo9G91bbjth9RZ4606Rag4tAdRxuYpfnlWecs-gbbY/edit?usp=sharing) into a new Google Doc, along with the **Title** and **Abstract** from the GitHub repository and add the [version](How-to-Assign-a-Version.md) to the title.
     -   Fetch a shareable link for the Google Doc with permissions to edit. Reference it back on GitHub in a file with the same name and version in the Science sub-directory of the Project. This would allow the visitors to easily find the Google Doc.
 3.  Appoint Maintainers and Editors:
     -   Every document should have ideally 2 maintainers and/or editors.
@@ -29,14 +29,14 @@ moja global tools have to be in line with the latest science and international s
     -   The editors will write the background, acknowledgements, etc. and they will edit the text already written. (Editing is not rewriting! Rewriting can confuse and discourage the drafter.)
     -   Invite all collaborators to provide edits and comments by a specific date. 
 7.  Release the **Science Design**:
-    -   After the final date has been agreed upon for the draft, the **Science Design** should be copied (with comments) into a Google Doc with the same title but with a [Release Candidate Version](https://github.com/moja-global/.github/blob/master/Contributing/How-to-Assign-a-Version.md).
+    -   After the final date has been agreed upon for the draft, the **Science Design** should be copied (with comments) into a Google Doc with the same title but with a [Release Candidate Version](How-to-Assign-a-Version.md).
     -   All the remaining comments are dealt with by the drafters and the maintainers. Additional comments are not allowed except if they point out errors or anti-patterns.
     -   The final draft is edited. 
 8.  Review and Approval by the Science Panel:
     -   A Science Panel consists of at least 1 expert recognized as an authority in the field.
     -   The Science Panel reviews the **Science Design** Release Version. Maintainers make improvements and respond.
     -   When there are no further comments, the Science Panel provides a short opinion at the end of the **Science Design**.
-    -   The final version including the Science Panel opinion is downloaded as a PDF with the same title but with a [Master Version](https://github.com/moja-global/.github/blob/master/Contributing/How-to-Assign-a-Version.md).
+    -   The final version including the Science Panel opinion is downloaded as a PDF with the same title but with a [Master Version](How-to-Assign-a-Version.md).
 9.  Approval by the Technical Steering committee: 
     -   Upload a PDF version of the **Science Design** Master Version to the Science sub-directory of your repository via a pull-request. 
     -   Through the pull-request, indicate that you want [@TSC to review your pull-request](https://help.github.com/en/articles/requesting-a-pull-request-review).
