@@ -25,7 +25,7 @@ Against dark backgrounds, use the white versions of the logo. You can download t
 
 ### Typography
 
--   **Primary Typeface**: Source Sans pro (Used on the [Website](moja.global))
+-   **Primary Typeface**: Source Sans pro (Used on the [Website](https://moja.global/)
 -   **Secondary Typeface**: Ropa Sans (Used on the Presentation)
 
 Secondary Typeface is used only when the Primary Typeface is not available.
