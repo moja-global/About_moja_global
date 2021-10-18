@@ -12,7 +12,7 @@ moja global governs its participants according to the Contributor Covenant [Code
 
 ## FAQ and General Questions
 
-Before asking any questions, please have a look at our [FAQs](https://github.com/moja-global/.github/wiki). If your question isn't answered there, please write to info@moja.global.
+Before asking any questions, please have a look at our [FAQs Wiki](https://github.com/moja-global/About_moja_global/wiki). If your question isn't answered there, please write to info@moja.global.
 
 If your question concerns the code of a project, then you should create a [new issue] in the relevant project's repository.
 
@@ -40,8 +40,8 @@ There are a lot ways in which you can contribute code!
 The issues list of a project is a great place to find something that you can help us with.
 
 To increase the chances of your code getting merged, please ensure that:
-* You satisfy our [contribution criteria](Governance/Contribution-Criteria.md).
-* Your code follows our [coding guidelines](Governance/Coding-Guidelines.md).
+* You satisfy our [contribution criteria](Contributing/README.md).
+* Your code follows our [coding guidelines](Governance/CODING-GUIDELINES.md).
 * Your submission follows [Vincent Driessen's Git Branching](https://nvie.com/posts/a-successful-git-branching-model/) System.
 * Your code's documentation follows our [rules](Contributing/How-to-Document-Your-Contribution.md).
 * Your pull request:
