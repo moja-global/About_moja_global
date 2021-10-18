@@ -23,7 +23,7 @@ This process assumes that you already have [started a new project](How-to-Start-
     -   Agree on an initial project architecture with the software development team. This improves communication, increases the speed and quality of the coding while reducing risks.
     -   There are no fixed rules about what you should define up front. Your minimum outcome is that everybody agrees on how the project should be built and how it should fit into the wider software components. 
     -   It is logical to define the interactions with the existing system and sketch a technology diagram linking the user interface with the business process and with the data. 
-    -   Use [branding](../Governance/BRANDING.md) and [User Interface Style](https://github.com/moja-global/.github/blob/master/Governance/User-Interface-Style.md) of the wider software components.
+    -   Follow all [branding guidelines](../Governance/BRANDING.md) and align user interface style with other software components in the platform wherever possible.
 
 4.  Iterative Build:
 
