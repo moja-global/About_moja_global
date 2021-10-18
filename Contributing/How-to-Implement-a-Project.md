@@ -1,6 +1,6 @@
 ## Project Implementation
 
-This process assumes that you already have [started a new project](How-to-Start-a-New-Project.md) and have an approved [**Science Design**](https://github.com/moja-global/.github/blob/master/Contributing/How-to-Agree-on-a-Science-Design.md)
+This process assumes that you already have [started a new project](How-to-Start-a-New-Project.md) and have an approved [**Science Design**](How-to-Agree-on-a-Science-Design.md)
 
 1.  Confirm Your Team:
 
