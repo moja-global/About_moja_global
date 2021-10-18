@@ -6,7 +6,7 @@ We would like to thank you for your interest in contributing. You can find below
 
     -   Read the [Contributing guidelines](https://github.com/moja-global/About-moja-global/blob/master/CONTRIBUTING.md)
     -   Read the [Code of Conduct](../CODE_OF_CONDUCT.md)
-    -   Review the [Coding Guidelines](../Governance/CODING-GUIDELINES.md) and the [Contribution Criteria](https://github.com/moja-global/.github/blob/master/Governance/Contribution-Criteria.md).
+    -   Review the [Coding Guidelines](../Governance/CODING-GUIDELINES.md) and the [Contribution Criteria](../CONTRIBUTING.md).
     -   Review the bug-list, open issues, Project Board (if you want to code a new feature) or the [Strategic Plan](https://github.com/moja-global/About-moja-global/blob/master/Governance/STRATEGIC-PLANS.md). To start a new Project follow these [guidelines](How-to-Start-a-New-Project.md).)
     -   Contact the Coach, if available in the README document, or the Repository Maintainer by submitting an [Issue](https://github.com/moja-global/About-moja-global/blob/master/Contributing/How-to-Provide-User-Feedback.md) with an @mention.
 

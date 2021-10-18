@@ -7,7 +7,7 @@ This process assumes that you already have [started a new project](How-to-Start-
     -   Contact the maintainers and documentation writers of the repository you want to code for and discuss your project. Agree upon the `write` and maybe the `admin` permissions. Assign additional maintainers and documentation writers as needed. 
     -   Assign a Coach who is willing to introduce new developers to the project. 
     -   Publicise widely that the project is ready to be developed and is looking for engineers, documentation writers, testers and more. When moja global users collaborate everybody wins. Contact [tsc@moja.global](mailto:tsc@moja.global) to get support with reaching out to the community of users.
-    -   Emphasize to all new contributors to review the [Coding Guidelines](../Governance/CODING-GUIDELINES.md) and the [Contribution Criteria](https://github.com/moja-global/.github/blob/master/Governance/Contribution-Criteria.md).   
+    -   Emphasize to all new contributors to review the [Coding Guidelines](../Governance/CODING-GUIDELINES.md) and the [Contribution Criteria](../CONTRIBUTING.md).
 
 2.  User Stories and Minimum Viable Product:
 
