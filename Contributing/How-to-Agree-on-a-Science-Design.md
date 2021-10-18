@@ -19,7 +19,7 @@ moja global tools have to be in line with the latest science and international s
 4.  Invite Collaborators for the Project:
     -   Reach out to all the collaborators that would be interested in contributing.
     -   Bigger and more diverse groups tend to come up with better designs. Different levels of expertise are also a bonus.  
-    -   Set the Rule of Collaboration on text using the [standard list of rules](https://github.com/moja-global/.github/blob/master/Governance/Standard-Rules-for-Collab-on-Text.md) as a basis.
+    -   Set the Rule of Collaboration on text using the [standard list of rules](../Governance/STANDARD-TEXT-COLLABORATION.md) as a basis.
 5.  Agree on the Report Structure:
     -   Develop a brain map: Ask the collaborators to add key topics that the **Science Design** needs to cover. Ask them to progressively group the topics into a logical structure. For more information please refer to page 2 of the [Standard Header Doc](https://docs.google.com/document/d/1feo9G91bbjth9RZ4606Rag4tAdRxuYpfnlWecs-gbbY/edit?usp=sharing).
     -   After a reasonable amount of time, ask all collaborators for their final suggestions and fix the report structure. Please note that this doesn't mean that the structure is final. Changes are always possible and welcomed. It is more important to have the first structure within a reasonable amount of time than to invest in the ideal structure for too long.
