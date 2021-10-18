@@ -1,0 +1,10 @@
+{
+    "ignorePatterns": [
+		{
+			"pattern": "linkedin.com"
+		},
+		{
+			"pattern": "slack.com"
+		}
+	]
+}
