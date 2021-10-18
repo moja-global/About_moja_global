@@ -12,8 +12,8 @@ moja global is increasingly looking for new scientists, developers and researche
 
 2.  Build on what already exists:
 
-    -   If you can build on code that is already available, coordinate your project with the maintainers of the relevant repository by [requesting a new feature](https://github.com/moja-global/.github/blob/master/Contributing/How-to-Request-a-New-Feature.md).
-    -   If there is no existing code base to start from, [create a repository](https://github.com/moja-global/.github/blob/master/Contributing/How-To-Create-a-Repository.md) even if you are not part of the moja global organisation (yet).
+    -   If you can build on code that is already available, coordinate your project with the maintainers of the relevant repository by [requesting a new feature](How-to-Request-a-New-Feature.md).
+    -   If there is no existing code base to start from, [create a repository](How-To-Create-a-Repository.md) even if you are not part of the moja global organisation (yet).
 
 3.  Create a project board to track and update your work:
 
