@@ -7,7 +7,7 @@ moja global is increasingly looking for new scientists, developers and researche
     -   Before starting a new project, review whether a project based on your idea already exists:
         -   All projects are listed in the **Project** tab of the moja global root directory.
         -   Please also review the existing repositories, as not all may be listed under the "Project" tab.
-        -   Finally, have a look at the [Strategic Plan](https://github.com/moja-global/.github/blob/master/Governance/Strategic-Plan.md) for this year, if your idea might be worked upon.  
+        -   Finally, have a look at the [Strategic Plan](../Governance/STRATEGIC-PLANS.md) for this year, if your idea might be worked upon.
     -   If your project idea already exists, please join forces with those already active. Else (if your project does not exist) proceed with the next step.    
 
 2.  Build on what already exists:
