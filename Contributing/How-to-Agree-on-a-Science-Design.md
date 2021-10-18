@@ -40,4 +40,4 @@ moja global tools have to be in line with the latest science and international s
 9.  Approval by the Technical Steering committee: 
     -   Upload a PDF version of the **Science Design** Master Version to the Science sub-directory of your repository via a pull-request. 
     -   Through the pull-request, indicate that you want [@TSC to review your pull-request](https://help.github.com/en/articles/requesting-a-pull-request-review).
-    -   Once it has been approved, proceed with the [regular project implementation cycle](https://github.com/moja-global/.github/blob/master/Contributing/How-to-Implement-a-Project.md).
+    -   Once it has been approved, proceed with the [regular project implementation cycle](How-to-Implement-a-Project.md).

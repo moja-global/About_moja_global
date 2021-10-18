@@ -30,4 +30,4 @@ moja global is increasingly looking for new scientists, developers and researche
     -   If your project has any scientific component, you will need to have a **Science Design** for your project. 
     -   If your project is revising or adding to an existing module, the original **Science Design** can be revised. 
     -   [Follow these steps](https://github.com/moja-global/.github/blob/master/Contributing/How-to-Agree-on-a-Science-Design.md): The processes for both developing new or revising existing **Science Designs** are the same.
-6.  Follow the [regular project implementation cycle](https://github.com/moja-global/.github/blob/master/Contributing/How-to-Implement-a-Project.md)
+6.  Follow the [regular project implementation cycle](How-to-Implement-a-Project.md)
