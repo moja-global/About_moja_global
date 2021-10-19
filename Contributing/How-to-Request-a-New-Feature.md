@@ -11,4 +11,4 @@ moja global is increasingly looking for new scientists, developers and researche
 7.  Attach files, screenshots and/or animated GIFs.
 8.  Click the green button "Submit New Issue" at the bottom right corner.
 
-If you would also like to build the proposed feature, please also review [how to start a new project](https://github.com/moja-global/.github/blob/master/Contributing/How-to-Start-a-New-Project.md).
+If you would also like to build the proposed feature, please also review [how to start a new project](How-to-Start-a-New-Project.md).

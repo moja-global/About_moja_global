@@ -4,7 +4,7 @@ The moja global Backlog system is designed to be a simple system to manage the b
 
 Issues are used for managing bugs associated with existing code or for requesting feature enhancements within existing repositories. To create a new bug to add to the backlog check [how to report bugs](https://github.com/moja-global/About-moja-global/blob/master/Contributing/How-to-Report-Bugs.md) and for creating a new feature request check [how to create a new feature](https://github.com/moja-global/About-moja-global/blob/master/Contributing/How-to-Request-a-New-Feature.md).
 
-Projects are used where the proposed feature (or a new functionality) is best implemented as a new repository. An example might be a new FLINT module. For tips on setting up a new project check out how you can create [a new project](https://github.com/moja-global/About-moja-global/blob/master/Contributing/How-to-Start-a-New-Project.md).
+Projects are used where the proposed feature (or a new functionality) is best implemented as a new repository. An example might be a new FLINT module. For tips on setting up a new project check out how you can create [a new project](How-to-Start-a-New-Project.md).
 
 The backlog for any particular repository is managed by one or multiple maintainers. The role of the maintainer is to:
 

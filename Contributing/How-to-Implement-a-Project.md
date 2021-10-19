@@ -1,13 +1,13 @@
 ## Project Implementation
 
-This process assumes that you already have [started a new project](https://github.com/moja-global/.github/blob/master/Contributing/How-to-Start-a-New-Project.md) and have an approved [**Science Design**](https://github.com/moja-global/.github/blob/master/Contributing/How-to-Agree-on-a-Science-Design.md)
+This process assumes that you already have [started a new project](How-to-Start-a-New-Project.md) and have an approved [**Science Design**](How-to-Agree-on-a-Science-Design.md)
 
 1.  Confirm Your Team:
 
     -   Contact the maintainers and documentation writers of the repository you want to code for and discuss your project. Agree upon the `write` and maybe the `admin` permissions. Assign additional maintainers and documentation writers as needed. 
     -   Assign a Coach who is willing to introduce new developers to the project. 
     -   Publicise widely that the project is ready to be developed and is looking for engineers, documentation writers, testers and more. When moja global users collaborate everybody wins. Contact [tsc@moja.global](mailto:tsc@moja.global) to get support with reaching out to the community of users.
-    -   Emphasize to all new contributors to review the [Coding Guidelines](https://github.com/moja-global/.github/blob/master/Governance/Coding-Guidelines.md) and the [Contribution Criteria](https://github.com/moja-global/.github/blob/master/Governance/Contribution-Criteria.md).   
+    -   Emphasize to all new contributors to review the [Coding Guidelines](../Governance/CODING-GUIDELINES.md) and the [Contribution Criteria](../CONTRIBUTING.md).
 
 2.  User Stories and Minimum Viable Product:
 
@@ -23,7 +23,7 @@ This process assumes that you already have [started a new project](https://githu
     -   Agree on an initial project architecture with the software development team. This improves communication, increases the speed and quality of the coding while reducing risks.
     -   There are no fixed rules about what you should define up front. Your minimum outcome is that everybody agrees on how the project should be built and how it should fit into the wider software components. 
     -   It is logical to define the interactions with the existing system and sketch a technology diagram linking the user interface with the business process and with the data. 
-    -   Use [branding](https://github.com/moja-global/.github/blob/master/Governance/Branding.md) and [User Interface Style](https://github.com/moja-global/.github/blob/master/Governance/User-Interface-Style.md) of the wider software components. 
+    -   Follow all [branding guidelines](../Governance/BRANDING.md) and align user interface style with other software components in the platform wherever possible.
 
 4.  Iterative Build:
 
@@ -35,7 +35,7 @@ This process assumes that you already have [started a new project](https://githu
     -   Continue this cycle until the project is ready for a first release. 
 
 5.  Approve Release:
-    -   Once the code is ready for release, document the tests that have been performed, copy the Wiki to the repository and create a [release-candidate version](https://github.com/moja-global/.github/blob/master/Contributing/How-to-Assign-a-Version.md) that includes the Wiki and all other documentation. 
+    -   Once the code is ready for release, document the tests that have been performed, copy the Wiki to the repository and create a [release-candidate version](How-to-Assign-a-Version.md) that includes the Wiki and all other documentation. 
     -   Submit the pre-release to the scientists and code maintainers for a final review.
     -   Invite the independent scientists to participate in the review if a science review panel was used. Document test results and feedback from the reviewers and maintainers.
     -   Complete all the tests and bug-fixes.
