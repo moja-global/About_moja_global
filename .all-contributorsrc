@@ -317,6 +317,17 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "ChrisKeefe",
+      "name": "Chris Keefe",
+      "avatar_url": "https://avatars.githubusercontent.com/u/39198770?v=4",
+      "profile": "https://github.com/ChrisKeefe",
+      "contributions": [
+        "bug",
+        "infra",
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
