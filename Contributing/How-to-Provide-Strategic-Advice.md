@@ -13,4 +13,4 @@ moja global is increasingly looking for new scientists, developers and researche
 5.  Attach files, screenshots and/or animated GIFs
 6.  Click the green button **Submit New Issue** at the bottom right corner
 
-If you would also like to implement the proposed Strategic Goal, please also review [how to start a new project](https://github.com/moja-global/.github/blob/master/Contributing/How-to-Start-a-New-Project.md). If you would also like to join the Strategy Board, please also review [how to join the Strategy Board](https://github.com/moja-global/About-moja-global/blob/master/Contributing/How-to-Join-the-Strategy-Board.md).
+If you would also like to implement the proposed Strategic Goal, please also review [how to start a new project](How-to-Start-a-New-Project.md). If you would also like to join the Strategy Board, please also review [how to join the Strategy Board](https://github.com/moja-global/About-moja-global/blob/master/Contributing/How-to-Join-the-Strategy-Board.md).

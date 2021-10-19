@@ -16,16 +16,16 @@ Moja global is building a community of experts, scientists, and developers to cr
 
 ### Logo
 
-| Name        | Image |
-| ------------------ | ----------------- |
-| Logo (Transparent Background)          | [<img src="../images/moja-global-logo-transparent-background.png" width="100"/>](image.png)           |
-| Logo (White Background)  | [<img src="../images/moja-global-logo-white-background.png" width="100"/>](image.png)           |
+| Name                          | Image             |
+| ----------------------------- | ----------------- |
+| Logo (Transparent Background) | [<img src="../images/moja-global-logo-transparent-background.png" width="100"/>](../images/moja-global-logo-transparent-background.png)                      |
+| Logo (White Background)       | [<img src="../images/moja-global-logo-white-background.png" width="100"/>](../images/moja-global-logo-white-background.png)                            |
 
 Against dark backgrounds, use the white versions of the logo. You can download the logos from the [images](../images) directory.
 
 ### Typography
 
--   **Primary Typeface**: Source Sans pro (Used on the [Website](moja.global))
+-   **Primary Typeface**: Source Sans pro (Used on the [Website](https://moja.global/)
 -   **Secondary Typeface**: Ropa Sans (Used on the Presentation)
 
 Secondary Typeface is used only when the Primary Typeface is not available.
@@ -43,4 +43,4 @@ The images should be high-quality, engaging photography that portrays images of 
 
 An example shown below is included in the [images](../images) directory. Please ensure that proprietary photographs are credited if the source is known.
 
-[<img src="../images/moja-global-banner.png" width="700"/>](image.png)
+[<img src="../images/moja-global-banner.png" width="700"/>](../images/moja-global-banner.png)

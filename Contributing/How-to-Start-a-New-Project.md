@@ -7,13 +7,13 @@ moja global is increasingly looking for new scientists, developers and researche
     -   Before starting a new project, review whether a project based on your idea already exists:
         -   All projects are listed in the **Project** tab of the moja global root directory.
         -   Please also review the existing repositories, as not all may be listed under the "Project" tab.
-        -   Finally, have a look at the [Strategic Plan](https://github.com/moja-global/.github/blob/master/Governance/Strategic-Plan.md) for this year, if your idea might be worked upon.  
+        -   Finally, have a look at the [Strategic Plan](../Governance/STRATEGIC-PLANS.md) for this year, if your idea might be worked upon.
     -   If your project idea already exists, please join forces with those already active. Else (if your project does not exist) proceed with the next step.    
 
 2.  Build on what already exists:
 
-    -   If you can build on code that is already available, coordinate your project with the maintainers of the relevant repository by [requesting a new feature](https://github.com/moja-global/.github/blob/master/Contributing/How-to-Request-a-New-Feature.md).
-    -   If there is no existing code base to start from, [create a repository](https://github.com/moja-global/.github/blob/master/Contributing/How-To-Create-a-Repository.md) even if you are not part of the moja global organisation (yet).
+    -   If you can build on code that is already available, coordinate your project with the maintainers of the relevant repository by [requesting a new feature](How-to-Request-a-New-Feature.md).
+    -   If there is no existing code base to start from, [create a repository](How-To-Create-a-Repository.md) even if you are not part of the moja global organisation (yet).
 
 3.  Create a project board to track and update your work:
 
@@ -29,5 +29,5 @@ moja global is increasingly looking for new scientists, developers and researche
 5.  Build a **Science Design**:
     -   If your project has any scientific component, you will need to have a **Science Design** for your project. 
     -   If your project is revising or adding to an existing module, the original **Science Design** can be revised. 
-    -   [Follow these steps](https://github.com/moja-global/.github/blob/master/Contributing/How-to-Agree-on-a-Science-Design.md): The processes for both developing new or revising existing **Science Designs** are the same.
-6.  Follow the [regular project implementation cycle](https://github.com/moja-global/.github/blob/master/Contributing/How-to-Implement-a-Project.md)
+    -   [Follow these steps](How-to-Agree-on-a-Science-Design.md): The processes for both developing new or revising existing **Science Designs** are the same.
+6.  Follow the [regular project implementation cycle](How-to-Implement-a-Project.md)
