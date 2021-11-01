@@ -13,6 +13,7 @@ If you have another dataset on your mind that would be beneficial to [Moja Globa
 
 ---
 
+<<<<<<< HEAD
 # 1.0.1 Data Analysis Software and Notebooks
 <<<<<<< HEAD
 Concerning the data analysis software or programming language for the analysis, we encourage you to pick a softwate that supports geospatial analysis since you will be dealing with polygon files. 
@@ -40,6 +41,10 @@ Notebook documents are both human-readable documents containing the analysis des
 With this in mind, we will be expecting different notebooks which is good since it would be at your convinience and you can reveal insight which has not been previously uncovered.
 >>>>>>> 1bfa8b8 (Added subsections to the Introduction for the Dataset, Data analysis)
 =======
+=======
+### 1.0.1 Data Analysis Software and Notebooks
+
+>>>>>>> 24d432b (Update Contributing/How-to-Contribute-Land-Sector-Data-Analysis.md)
 Select a softwate that supports geospatial analysis. 
 >Moja Global is an open source project, the interest here is to share your processes(**code**) and results(**interpretations**) to support the open source movement. To efficiently doucment your analysis, we advice you use [notebooks](https://sourceforge.net/software/product/Google-Colab/alternatives). 
 
