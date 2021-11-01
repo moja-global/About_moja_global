@@ -13,6 +13,7 @@ If you have another dataset on your mind that would be beneficial to [Moja Globa
 # 1.0.1 Data Analysis Software and Notebooks
 Concerning the data analysis software or programming language for the analysis, we encourage you to pick a softwate that supports geospatial analysis since you will be dealing with polygon files. 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Moja Global is an open source project, the interest here is to share your processes(**code**) and results(**interpretations**) to support the open source movement. In order to efficiently doucment your analysis, we advice you use [notebooks](https://sourceforge.net/software/product/Google-Colab/alternatives). 
 
 Notebooks are documents produced by the data analysis software, which contain both computer code (e.g. python) and rich text elements (paragraph, equations, figures, links, etc…). 
@@ -21,17 +22,29 @@ Notebook documents are both human-readable documents containing the analysis des
 With this in mind, we will be expecting different notebooks which is good since it would be at your convinience and you can reveal insight which has not been previously uncovered.
 =======
 Moja Global is an open source project, the interest here is to share your processes(**code**) and results(**interpretations**) to support the open source movement. In order to efficiently doucment your analysis, we advice you use [notebooks](https://sourceforge.net/software/product/Google-Colab/alternatives). Notebooks are documents produced by the data analysis software, which contain both computer code (e.g. python) and rich text elements (paragraph, equations, figures, links, etc…). 
+=======
+Moja Global is an open source project, the interest here is to share your processes(**code**) and results(**interpretations**) to support the open source movement. In order to efficiently doucment your analysis, we advice you use [notebooks](https://sourceforge.net/software/product/Google-Colab/alternatives). 
+>>>>>>> 1bfa8b8 (Added subsections to the Introduction for the Dataset, Data analysis)
 
-Notebook documents are both human-readable documents containing the analysis description and the results (figures, tables, etc..) as well as executable documents which can be run to perform data analysis. 
+Notebooks are documents produced by the data analysis software, which contain both computer code (e.g. python) and rich text elements (paragraph, equations, figures, links, etc…). 
 
+<<<<<<< HEAD
 It is important to note that when you have your contribution ready, you would have to make PR to have it merged. Please refer to the [community website](https://github.com/moja-global/About_moja_global/blob/master/Contributing/How-to-Contribute-Code.md) to know how to make a pull request.
 >>>>>>> ede5bb9 (Redirected PR to the MOJA Global community website)
+=======
+Notebook documents are both human-readable documents containing the analysis description and the results (figures, tables, etc..) as well as executable documents which can be run to perform data analysis. 
+With this in mind, we will be expecting different notebooks which is good since it would be at your convinience and you can reveal insight which has not been previously uncovered.
+>>>>>>> 1bfa8b8 (Added subsections to the Introduction for the Dataset, Data analysis)
 
 ---
 
 # 1.0.2 Contributing
 
+<<<<<<< HEAD
 It is important to note that when you have your contribution ready, you would have to make PR to have it merged. Please refer to the [community website](https://community.moja.global/community/code-contribution) to know how to make a pull request.
+=======
+It is important to note that when you have your contribution ready, you would have to make PR to have it merged. Please refer to the [community website](https://github.com/moja-global/About_moja_global/blob/master/Contributing/How-to-Contribute-Code.md) to know how to make a pull request.
+>>>>>>> 1bfa8b8 (Added subsections to the Introduction for the Dataset, Data analysis)
 If you have experience and want to help, please send an email to [mentorship@moja.global](mailto:mentorship@moja.global). We are open to mentoring new developers and contributors through various mentorship program and initiatives.
 
 ---
