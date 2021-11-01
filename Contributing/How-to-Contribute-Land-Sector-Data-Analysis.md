@@ -7,7 +7,7 @@ This document aims to guide contributors to report the analysis of [Moja Global'
 ### 1.0.0 The Land Sector Dataset
 The dataset is a collection of publicly available [Opensource datasets](https://github.com/moja-global/Land_Sector_Datasets) which you can choose any and work on. 
 
->These datasets have been used by many countries and are effective in real-Globe scenarios. For each dataset information is provided on content and license. Proper permissions have been cited for all the datasets and we urge you to follow the license for every dataset before proceeding to work with it.
+- Many countries use the dataset and work well in real-Globe scenarios. For each data set, information about content and licenses are provided. Proper permissions have been cited for all the datasets, and we urge you to follow the license for every dataset before proceeding to work with it.
 
 If you have another dataset on your mind that would be beneficial to [Moja Global's mission](https://moja.global/), please feel free to reach out to us on [info@moja.global](info@moja.global) to share details about this dataset.
 
