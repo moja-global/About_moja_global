@@ -374,11 +374,11 @@ Soil composition is an important factor that affects settlement and human activi
 
 ---
 
-# 1.3.7 Interpretation of Results
+### 1.3.7 Interpretation of Results
 
-This is the most important part of the analysis. The whole process comes down to this very aspect of drawing insight from the data. Being able to explain complex relationships that exist betwween **1.3.1** and **1.3.6**. 
+This is the most important part of the analysis. The whole process comes down to this very aspect of drawing insight from the data. IScaniScan explains the complex relationship between 1.3.1 and 1.3.6.
 
-In this section, you can statiscally elaborate on how the individual features of each factor above affects climate change. Present your opinion scientifically and use your calculations, refences and description to back up your facts.
+In this section, you can statistically explain in detail how the various characteristics of each of the above factors affect climate change. Present your opinion scientifically and use your calculations, reference and description to back up your facts.
 
 
 # 1.3.8 Recommendation and Conclusion
