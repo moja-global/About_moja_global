@@ -86,11 +86,14 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <<<<<<< HEAD
     <td align="center"><a href="https://sarahhaggarty.github.io/"><img src="https://avatars.githubusercontent.com/u/81160244?v=4?s=100" width="100px;" alt=""/><br /><sub><b>sarahhaggarty</b></sub></a><br /><a href="https://github.com/moja-global/About_moja_global/commits?author=sarahhaggarty" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/ChrisKeefe"><img src="https://avatars.githubusercontent.com/u/39198770?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Chris Keefe</b></sub></a><br /><a href="https://github.com/moja-global/About_moja_global/issues?q=author%3AChrisKeefe" title="Bug reports">🐛</a> <a href="#infra-ChrisKeefe" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/moja-global/About_moja_global/commits?author=ChrisKeefe" title="Code">💻</a></td>
+<<<<<<< HEAD
 =======
 >>>>>>> 93ab99c (docs: add waridrox as a contributor for code (#143))
 =======
     <td align="center"><a href="https://sarahhaggarty.github.io/"><img src="https://avatars.githubusercontent.com/u/81160244?v=4?s=100" width="100px;" alt=""/><br /><sub><b>sarahhaggarty</b></sub></a><br /><a href="https://github.com/moja-global/About_moja_global/commits?author=sarahhaggarty" title="Documentation">📖</a></td>
 >>>>>>> 11f11c7 (docs: add sarahhaggarty as a contributor for doc (#144))
+=======
+>>>>>>> c594efd (docs: add ChrisKeefe as a contributor for bug, infra, code (#151))
   </tr>
 </table>
 

@@ -322,6 +322,9 @@
         "doc"
       ]
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> c594efd (docs: add ChrisKeefe as a contributor for bug, infra, code (#151))
     },
     {
       "login": "ChrisKeefe",
@@ -333,10 +336,13 @@
         "infra",
         "code"
       ]
+<<<<<<< HEAD
 =======
 >>>>>>> 93ab99c (docs: add waridrox as a contributor for code (#143))
 =======
 >>>>>>> 11f11c7 (docs: add sarahhaggarty as a contributor for doc (#144))
+=======
+>>>>>>> c594efd (docs: add ChrisKeefe as a contributor for bug, infra, code (#151))
     }
   ],
   "contributorsPerLine": 7,
