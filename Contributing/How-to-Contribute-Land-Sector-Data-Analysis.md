@@ -41,10 +41,15 @@ With this in mind, we will be expecting different notebooks which is good since 
 # 1.0.2 Contributing
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 It is important to note that when you have your contribution ready, you would have to make PR to have it merged. Please refer to the [community website](https://community.moja.global/community/code-contribution) to know how to make a pull request.
 =======
 It is important to note that when you have your contribution ready, you would have to make PR to have it merged. Please refer to the [community website](https://github.com/moja-global/About_moja_global/blob/master/Contributing/How-to-Contribute-Code.md) to know how to make a pull request.
 >>>>>>> 1bfa8b8 (Added subsections to the Introduction for the Dataset, Data analysis)
+=======
+When your contribution is ready, you would have to make a PR to have it merged. Please refer to the [community website](https://community.moja.global/community/code-contribution) to know how to make a pull request.
+
+>>>>>>> a7b702a (Added modifications)
 If you have experience and want to help, please send an email to [mentorship@moja.global](mailto:mentorship@moja.global). We are open to mentoring new developers and contributors through various mentorship program and initiatives.
 
 ---
