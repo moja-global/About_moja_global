@@ -53,11 +53,13 @@ The following sections of this guide will direct you on how to document your ana
 ---
 
 ## 1.1 Global Analysis
+
 This is the study of the Globe's features, activities and consequences on climate change. Some factors that should guide your analysis include the following. 
 
 ---
 
 ### 1.1.0  The Globe's Boundary
+
 In the first section of your global analysis notebook, it is suitable to;
 
 1. State the aim of the analysis. 
@@ -70,6 +72,7 @@ In the first section of your global analysis notebook, it is suitable to;
 ---
 
 ### 1.1.1 The Globe's BioClimatic Zones
+
 Explore the Globe's [bioclimatic zone dataset](https://datasets.mojaglobal.workers.dev/0:/Bioclimatic&EcologicalZones/). Fill in this section by trying to answer the follwing questions.
 
 1. What are the hot zones of the Globe.(provide a figure with the biodiversity hotspots)?
@@ -82,6 +85,7 @@ The files contain more features that should be explited.
 ---
 
 ### 1.1.2 The Globe's AgroEcological Zones
+
 Explore the AgroEcological climate of the Globe and reveal information about the following:
 
 1. The agro hotspots
@@ -108,6 +112,7 @@ Explore the Globe's climate [dataset](https://datasets.mojaglobal.workers.dev/0:
 ---
 
 ### 1.1.5 The Globe's Land Cover
+
 The Land cover dataset contains interesting information on Biomass carbon,
 Forest, Forests loss, and Land use.
 
@@ -136,12 +141,14 @@ Use this section as an opportunity to present possible recommendations on how ma
 ---
 
 ## 1.2 Continental Analysis
+
 If you are interested in analyzing a given continent, then this is the right guide for you. The dataset available in the repository can be manupulated(joined, merged, concatenated etc) to narrow down to any continent.
 
 Moreover, there are files that can be queried to display information only for a defined area. Use the follwing characteristics as a guide to analze a continent.
 
 ---
 ### 1.2.0  The Continent's Boundary
+
 In the first section of your continental analysis notebook, it is suitable to;
 
 1. State the aim of the analysis. 
@@ -153,6 +160,7 @@ In the first section of your continental analysis notebook, it is suitable to;
 ---
 
 ### 1.2.1 The Continent's BioClimatic Zones
+
 Explore the continents's [bioclimatic zone dataset](https://datasets.mojaglobal.workers.dev/0:/Bioclimatic&EcologicalZones/). If the dataset contains other continental inforamtion, filter out the continents you are not analyzing.
 Fill in this section by trying to answer the follwing questions.
 
@@ -167,6 +175,7 @@ The files contain more features that should be explited. Identify more character
 ---
 
 ### 1.2.2 The Continent's AgroEcological Zones
+
 Explore the AgroEcological climate of the continent and reveal information about the following:
 
 1. The agro hotspots of the continent
@@ -193,6 +202,7 @@ Explore the continents's climate [dataset](https://datasets.mojaglobal.workers.d
 ---
 
 ### 1.2.5 The Continent's Land Cover
+
 The land cover dataset contains interesting information about biomass carbon, forests, forest loss, and land use.
 
 Explore this data set to find the relationship between any activities (such as cultivated land and forest loss, etc.). 
@@ -229,6 +239,7 @@ Moreover, there are files that can be queried to display information only for a 
 ---
 
 ### 1.3.0  The Country's Boundary
+
 In the first section of your Country analysis notebook, it is suitable to;
 
 1. State the aim of the analysis. 
@@ -240,6 +251,7 @@ In the first section of your Country analysis notebook, it is suitable to;
 ---
 
 ### 1.3.1 The Country's BioClimatic Zones
+
 Explore the country's [bioclimatic zone dataset](https://datasets.mojaglobal.workers.dev/0:/Bioclimatic&EcologicalZones/). If the dataset contains other Country inforamtion, filter out the countries you are not analyzing.
 Fill in this section by trying to answer the follwing questions.
 
@@ -254,6 +266,7 @@ The files contain more features that should be explited. Identify more character
 ---
 
 ### 1.3.2 The Country's AgroEcological Zones
+
 Explore the AgroEcological climate of the country and reveal information about the following:
 
 1. The agro hotspots of the country
@@ -280,6 +293,7 @@ Explore the countrie's climate [dataset](https://datasets.mojaglobal.workers.dev
 ---
 
 ### 1.3.5 The Country's Land Cover
+
 The Land cover dataset contains interesting information on Biomass carbon,
 Forest, Forests loss, and Land use.
 
@@ -315,6 +329,7 @@ If you are interested in analyzing remote geographic areas (such as cities, stat
 ---
 
 ### 1.4.0  The State's Boundary
+
 In the first section of your state's analysis notebook, it is suitable to;
 
 1. State the aim of the analysis. 
@@ -326,6 +341,7 @@ In the first section of your state's analysis notebook, it is suitable to;
 ---
 
 ### 1.4.1 The State's BioClimatic Zones
+
 Explore the state's [bioclimatic zone dataset](https://datasets.mojaglobal.workers.dev/0:/Bioclimatic&EcologicalZones/). If the dataset contains other Country inforamtion, filter out the regions you are not analyzing.
 
 Fill in this section by trying to answer the follwing questions.
@@ -341,6 +357,7 @@ The files contain more features that should be exploited. Identify more characte
 ---
 
 ### 1.4.2 The State's AgroEcological Zones
+
 Explore the AgroEcological climate of the state and reveal information about the following:
 
 1. The agro hotspots of the state
@@ -367,6 +384,7 @@ Explore the state's climate [dataset](https://datasets.mojaglobal.workers.dev/0:
 ---
 
 ### 1.4.5 The State's Land Cover
+
 The Land cover dataset contains interesting information on Biomass carbon,
 Forest, Forests loss, and Land use.
 
