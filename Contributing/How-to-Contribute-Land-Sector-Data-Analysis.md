@@ -15,73 +15,24 @@ If you have another dataset on your mind that would be beneficial to [Moja Globa
 
 ---
 
-<<<<<<< HEAD
-# 1.0.1 Data Analysis Software and Notebooks
-<<<<<<< HEAD
-Concerning the data analysis software or programming language for the analysis, we encourage you to pick a softwate that supports geospatial analysis since you will be dealing with polygon files. 
-<<<<<<< HEAD
-<<<<<<< HEAD
-Moja Global is an open source project, the interest here is to share your processes(**code**) and results(**interpretations**) to support the open source movement. In order to efficiently doucment your analysis, we advice you use [notebooks](https://sourceforge.net/software/product/Google-Colab/alternatives). 
-
-Notebooks are documents produced by the data analysis software, which contain both computer code (e.g. python) and rich text elements (paragraph, equations, figures, links, etc…). 
-
-Notebook documents are both human-readable documents containing the analysis description and the results (figures, tables, etc..) as well as executable documents which can be run to perform data analysis. 
-With this in mind, we will be expecting different notebooks which is good since it would be at your convinience and you can reveal insight which has not been previously uncovered.
-=======
-Moja Global is an open source project, the interest here is to share your processes(**code**) and results(**interpretations**) to support the open source movement. In order to efficiently doucment your analysis, we advice you use [notebooks](https://sourceforge.net/software/product/Google-Colab/alternatives). Notebooks are documents produced by the data analysis software, which contain both computer code (e.g. python) and rich text elements (paragraph, equations, figures, links, etc…). 
-=======
-Moja Global is an open source project, the interest here is to share your processes(**code**) and results(**interpretations**) to support the open source movement. In order to efficiently doucment your analysis, we advice you use [notebooks](https://sourceforge.net/software/product/Google-Colab/alternatives). 
->>>>>>> 1bfa8b8 (Added subsections to the Introduction for the Dataset, Data analysis)
-
-Notebooks are documents produced by the data analysis software, which contain both computer code (e.g. python) and rich text elements (paragraph, equations, figures, links, etc…). 
-
-<<<<<<< HEAD
-It is important to note that when you have your contribution ready, you would have to make PR to have it merged. Please refer to the [community website](https://github.com/moja-global/About_moja_global/blob/master/Contributing/How-to-Contribute-Code.md) to know how to make a pull request.
->>>>>>> ede5bb9 (Redirected PR to the MOJA Global community website)
-=======
-Notebook documents are both human-readable documents containing the analysis description and the results (figures, tables, etc..) as well as executable documents which can be run to perform data analysis. 
-With this in mind, we will be expecting different notebooks which is good since it would be at your convinience and you can reveal insight which has not been previously uncovered.
->>>>>>> 1bfa8b8 (Added subsections to the Introduction for the Dataset, Data analysis)
-=======
-=======
 ### 1.0.1 Data Analysis Software and Notebooks
 
-<<<<<<< HEAD
->>>>>>> 24d432b (Update Contributing/How-to-Contribute-Land-Sector-Data-Analysis.md)
 Select a softwate that supports geospatial analysis. 
 >Moja Global is an open source project, the interest here is to share your processes(**code**) and results(**interpretations**) to support the open source movement. To efficiently doucment your analysis, we advice you use [notebooks](https://sourceforge.net/software/product/Google-Colab/alternatives). 
 
 Notebooks are documents produced by the data analysis software, which contain both computer code (e.g. python) and rich text elements (paragraph, equations, figures, links, etc…). 
 >Notebook documents are both human-readable documents containing the analysis description and executable code which can be run to perform data analysis. 
->>>>>>> 265e893 (made changes following technical documentation guide)
-=======
+
 Select software that supports geospatial analysis. 
 - Moja Global is an open-source project, and the interest here is to share your process (code) and results (explanation) to support the open-source movement. In order to effectively record your analysis, we recommend that you use a [notebook.](https://sourceforge.net/software/product/Google-Colab/alternatives). 
-
->>>>>>> b54e129 (Update Contributing/How-to-Contribute-Land-Sector-Data-Analysis.md)
 
 ---
 
 ### 1.0.2 Contributing
 
-
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-It is important to note that when you have your contribution ready, you would have to make PR to have it merged. Please refer to the [community website](https://community.moja.global/community/code-contribution) to know how to make a pull request.
-=======
-It is important to note that when you have your contribution ready, you would have to make PR to have it merged. Please refer to the [community website](https://github.com/moja-global/About_moja_global/blob/master/Contributing/How-to-Contribute-Code.md) to know how to make a pull request.
->>>>>>> 1bfa8b8 (Added subsections to the Introduction for the Dataset, Data analysis)
-=======
-When your contribution is ready, you would have to make a PR to have it merged. Please refer to the [community website](https://community.moja.global/community/code-contribution) to know how to make a pull request.
-
->>>>>>> a7b702a (Added modifications)
-If you have experience and want to help, please send an email to [mentorship@moja.global](mailto:mentorship@moja.global). We are open to mentoring new developers and contributors through various mentorship program and initiatives.
-=======
 When your contribution is ready; raise a PR to have it merged. Please refer to the [community website](https://community.moja.global/community/code-contribution) to know how to make a pull request.
 
 >If you have experience and want to help, please send an email to [mentorship@moja.global](mailto:mentorship@moja.global). We are open to mentoring new developers and contributors through various mentorship program and initiatives.
->>>>>>> 265e893 (made changes following technical documentation guide)
 
 ---
 
@@ -107,14 +58,11 @@ The following sections of this guide will direct you on how to document your ana
 ## 1.1 Global Analysis
 This is the study of the Globe's features, activities and consequences on climate change. Some factors that should guide your analysis include the following. 
 
-
-
 ---
-
-
 
 ### 1.1.0  The Globe's Boundary
 In the first section of your global analysis notebook, it is suitable to;
+
 1. State the aim of the analysis. 
 2. Define the [boundary](https://datasets.mojaglobal.workers.dev/0:/Administrative/Boundaries/) of the Globe with a figure and brief topological description
 3. Present a figure with the Globe's [protected areas](https://datasets.mojaglobal.workers.dev/0:/Administrative/Protected%20Areas/) and give a description of how it has affected global changes.
@@ -126,6 +74,7 @@ In the first section of your global analysis notebook, it is suitable to;
 
 ### 1.1.1 The Globe's BioClimatic Zones
 Explore the Globe's [bioclimatic zone dataset](https://datasets.mojaglobal.workers.dev/0:/Bioclimatic&EcologicalZones/). Fill in this section by trying to answer the follwing questions.
+
 1. What are the hot zones of the Globe.(provide a figure with the biodiversity hotspots)?
 2. Which continents/countries/states are dorminant/repressive with hotspots?
 3. What life is characteristic of the hotspots?
@@ -193,9 +142,11 @@ Use this section as an opportunity to present possible recommendations on how ma
 If you are interested in analyzing a given continent, then this is the right guide for you. The dataset available in the repository can be manupulated(joined, merged, concatenated etc) to narrow down to any continent.
 
 Moreover, there are files that can be queried to display information only for a defined area. Use the follwing characteristics as a guide to analze a continent.
+
 ---
 ### 1.2.0  The Continent's Boundary
 In the first section of your continental analysis notebook, it is suitable to;
+
 1. State the aim of the analysis. 
 2. Define the [boundary](https://datasets.mojaglobal.workers.dev/0:/Administrative/Boundaries/) of the  with continent a figure and brief topological description
 3. Present a figure with the continents's [protected areas](https://datasets.mojaglobal.workers.dev/0:/Administrative/Protected%20Areas/) and give a description of how it has affected continental shift in climate and activities.
@@ -207,6 +158,7 @@ In the first section of your continental analysis notebook, it is suitable to;
 ### 1.2.1 The Continent's BioClimatic Zones
 Explore the continents's [bioclimatic zone dataset](https://datasets.mojaglobal.workers.dev/0:/Bioclimatic&EcologicalZones/). If the dataset contains other continental inforamtion, filter out the continents you are not analyzing.
 Fill in this section by trying to answer the follwing questions.
+
 1. What are the hot zones of the continent.(provide a figure with the biodiversity hotspots)?
 2. Which countries/states are dorminant/repressive with hotspots?
 3. What life is characteristic of the hotspots?
@@ -281,6 +233,7 @@ Moreover, there are files that can be queried to display information only for a 
 
 ### 1.3.0  The Country's Boundary
 In the first section of your Country analysis notebook, it is suitable to;
+
 1. State the aim of the analysis. 
 2. Define the [boundary](https://datasets.mojaglobal.workers.dev/0:/Administrative/Boundaries/) of the country with a figure and brief topological description
 3. Present a figure with the continents's [protected areas](https://datasets.mojaglobal.workers.dev/0:/Administrative/Protected%20Areas/) and give a description of how it has affected the climate's shift in climate and activities.
@@ -292,6 +245,7 @@ In the first section of your Country analysis notebook, it is suitable to;
 ### 1.3.1 The Country's BioClimatic Zones
 Explore the country's [bioclimatic zone dataset](https://datasets.mojaglobal.workers.dev/0:/Bioclimatic&EcologicalZones/). If the dataset contains other Country inforamtion, filter out the countries you are not analyzing.
 Fill in this section by trying to answer the follwing questions.
+
 1. What are the hot zones of the country.(provide a figure with the biodiversity hotspots)?
 2. Which states are dorminant/repressive with hotspots?
 3. What life is characteristic of the hotspots?
@@ -365,6 +319,7 @@ If you are interested in analyzing remote geographic areas (such as cities, stat
 
 ### 1.4.0  The State's Boundary
 In the first section of your state's analysis notebook, it is suitable to;
+
 1. State the aim of the analysis. 
 2. Define the [boundary](https://datasets.mojaglobal.workers.dev/0:/Administrative/Boundaries/) of the state with a figure and brief topological description
 3. Present a figure with the state's [protected areas](https://datasets.mojaglobal.workers.dev/0:/Administrative/Protected%20Areas/) and give a description of how it has affected the climate's shift in climate and activities.
@@ -377,6 +332,7 @@ In the first section of your state's analysis notebook, it is suitable to;
 Explore the state's [bioclimatic zone dataset](https://datasets.mojaglobal.workers.dev/0:/Bioclimatic&EcologicalZones/). If the dataset contains other Country inforamtion, filter out the regions you are not analyzing.
 
 Fill in this section by trying to answer the follwing questions.
+
 1. What are the hot zones of the state.(provide a figure with the biodiversity hotspots)?
 2. Which areas are dorminant/repressive with hotspots?
 3. What life is characteristic of the hotspots?
