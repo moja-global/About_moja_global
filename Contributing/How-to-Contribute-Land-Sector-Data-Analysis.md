@@ -44,6 +44,7 @@ With this in mind, we will be expecting different notebooks which is good since 
 =======
 ### 1.0.1 Data Analysis Software and Notebooks
 
+<<<<<<< HEAD
 >>>>>>> 24d432b (Update Contributing/How-to-Contribute-Land-Sector-Data-Analysis.md)
 Select a softwate that supports geospatial analysis. 
 >Moja Global is an open source project, the interest here is to share your processes(**code**) and results(**interpretations**) to support the open source movement. To efficiently doucment your analysis, we advice you use [notebooks](https://sourceforge.net/software/product/Google-Colab/alternatives). 
@@ -51,6 +52,11 @@ Select a softwate that supports geospatial analysis.
 Notebooks are documents produced by the data analysis software, which contain both computer code (e.g. python) and rich text elements (paragraph, equations, figures, links, etc…). 
 >Notebook documents are both human-readable documents containing the analysis description and executable code which can be run to perform data analysis. 
 >>>>>>> 265e893 (made changes following technical documentation guide)
+=======
+Select software that supports geospatial analysis. 
+- Moja Global is an open-source project, and the interest here is to share your process (code) and results (explanation) to support the open-source movement. In order to effectively record your analysis, we recommend that you use a [notebook.](https://sourceforge.net/software/product/Google-Colab/alternatives). 
+
+>>>>>>> b54e129 (Update Contributing/How-to-Contribute-Land-Sector-Data-Analysis.md)
 
 ---
 
