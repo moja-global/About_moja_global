@@ -385,10 +385,10 @@ In this section, you can statiscally elaborate on how the individual features of
 
 Use this section as an opportunity to present possible recommendations on how managing the evaluated factors would benefit the people and help control, mitigate and adapt to climate changes.
 
-# **1.4  State/Province/County/Region/City Analysis**
+## **1.4  State/Province/County/Region/City Analysis**
 
-If you are interested in analyzing a remote geographical area such as a city, state or province , then this is the right guide for you. The dataset available in the repository can be manupulated(joined, merged, concatenated etc) to narrow down to any continent.
-.
+If you are interested in analyzing remote geographic areas (such as cities, states, or provinces), then this is the guide for you. The data sets available in the repository (join, merge, join, etc.) can be manipulated to narrow down to any continent.
+
 
 # 1.4.0  The State's Boundary
 In the first section of your state's analysis notebook, it is suitable to;
