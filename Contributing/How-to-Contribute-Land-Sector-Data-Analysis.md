@@ -49,7 +49,8 @@ Notebooks are documents produced by the data analysis software, which contain bo
 
 ---
 
-# 1.0.2 Contributing
+### 1.0.2 Contributing
+
 
 <<<<<<< HEAD
 <<<<<<< HEAD
