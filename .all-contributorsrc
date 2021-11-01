@@ -309,6 +309,9 @@
         "design"
       ]
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 11f11c7 (docs: add sarahhaggarty as a contributor for doc (#144))
     },
     {
       "login": "sarahhaggarty",
@@ -318,6 +321,7 @@
       "contributions": [
         "doc"
       ]
+<<<<<<< HEAD
     },
     {
       "login": "ChrisKeefe",
@@ -331,6 +335,8 @@
       ]
 =======
 >>>>>>> 93ab99c (docs: add waridrox as a contributor for code (#143))
+=======
+>>>>>>> 11f11c7 (docs: add sarahhaggarty as a contributor for doc (#144))
     }
   ],
   "contributorsPerLine": 7,
