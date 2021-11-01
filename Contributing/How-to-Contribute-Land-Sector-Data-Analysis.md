@@ -17,9 +17,6 @@ If you have another dataset on your mind that would be beneficial to [Moja Globa
 
 ### 1.0.1 Data Analysis Software and Notebooks
 
-Select a softwate that supports geospatial analysis. 
->Moja Global is an open source project, the interest here is to share your processes(**code**) and results(**interpretations**) to support the open source movement. To efficiently doucment your analysis, we advice you use [notebooks](https://sourceforge.net/software/product/Google-Colab/alternatives). 
-
 Notebooks are documents produced by the data analysis software, which contain both computer code (e.g. python) and rich text elements (paragraph, equations, figures, links, etc…). 
 >Notebook documents are both human-readable documents containing the analysis description and executable code which can be run to perform data analysis. 
 
