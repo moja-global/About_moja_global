@@ -1,6 +1,6 @@
 # **Moja Global Land Sector Data Analysis Guide**
 
-# **1.0 Introduction**
+## **1.0 Introduction**
 
 This document aims to guide contributors to report the analysis of [Moja Global's Land Sector Dataset.](https://datasets.mojaglobal.workers.dev/0:/). 
 
@@ -83,7 +83,7 @@ When your contribution is ready; raise a PR to have it merged. Please refer to t
 
 ---
 
-# 1.0.3 The Analysis
+### 1.0.3 The Analysis
 
 When we look at climate action, we would like to get descriptions from a global scale to a specific state administration within a particular country. A draft review of the characteristics of each file in the dataset is found [here](https://github.com/Simpleshell3/Land-Sector-Dataset-Description/blob/main/Land-Sector-Dataset-Description.md).
 
@@ -101,7 +101,7 @@ The following sections of this guide will direct you on how to document your ana
 [**1.4 State/Province/County/Region/City Analysis**](https://github.com/Simpleshell3/About_moja_global/blob/master/Contributing/How-to-Contribute-Land-Sector-Data-Analysis.md#14--stateprovincecountyregioncity-analysis)
 
 
-# **1.1 Global Analysis**
+## **1.1 Global Analysis**
 This is the study of the Globe's features, activities and consequences on climate change. Some factors that should guide your analysis include the following. 
 
 
@@ -110,7 +110,7 @@ This is the study of the Globe's features, activities and consequences on climat
 
 
 
-# 1.1.0  The Globe's Boundary
+### 1.1.0  The Globe's Boundary
 In the first section of your global analysis notebook, it is suitable to;
 1. State the aim of the analysis. 
 2. Define the [boundary](https://datasets.mojaglobal.workers.dev/0:/Administrative/Boundaries/) of the Globe with a figure and brief topological description
@@ -126,7 +126,7 @@ In the first section of your global analysis notebook, it is suitable to;
 
 
 
-# 1.1.1 The Globe's BioClimatic Zones
+### 1.1.1 The Globe's BioClimatic Zones
 Explore the Globe's [bioclimatic zone dataset](https://datasets.mojaglobal.workers.dev/0:/Bioclimatic&EcologicalZones/). Fill in this section by trying to answer the follwing questions.
 1. What are the hot zones of the Globe.(provide a figure with the biodiversity hotspots)?
 2. Which continents/countries/states are dorminant/repressive with hotspots?
@@ -138,7 +138,7 @@ The files contain more features that should be explited.
 
 ---
 
-# 1.1.2 The Globe's AgroEcological Zones
+### 1.1.2 The Globe's AgroEcological Zones
 Explore the AgroEcological climate of the Globe and reveal information about the following:
 
 1. The agro hotspots
@@ -153,7 +153,7 @@ The files contain more features to be exploited
 
 ---
 
-# 1.1.3 The Globe's Ecological Zones
+### 1.1.3 The Globe's Ecological Zones
 
 Explore the ecological zone [dataset](https://datasets.mojaglobal.workers.dev/0:/Bioclimatic&EcologicalZones/Global_Ecological_Zone_GEZ/) by displaying it revealing interesting patterns.
 
@@ -161,14 +161,14 @@ Explore the ecological zone [dataset](https://datasets.mojaglobal.workers.dev/0:
 
 ---
 
-# 1.1.4 The Globe's Climate
+### 1.1.4 The Globe's Climate
 
 Explore the Globe's climate [dataset](https://datasets.mojaglobal.workers.dev/0:/Climate/) from KoppenGeiger and IPCC. It would be suitable to give brief figurative desscriptions of the climate shifts.
 
 
 ---
 
-# 1.1.5 The Globe's Land Cover
+### 1.1.5 The Globe's Land Cover
 The Land cover dataset contains interesting information on Biomass carbon,
 Forest, Forests loss, and Land use.
 
@@ -180,7 +180,7 @@ Explore this dataset to find relationships between any activitiees such as cropl
 
 
 
-# 1.1.6 The Globe's Soil Resources
+### 1.1.6 The Globe's Soil Resources
 
 Soil composition is an important factor that affects settlement and human activities. Display the data, identify relationships between attributes such as locations and crop production. nutrient availability and intensive agriculture etc
 
@@ -188,25 +188,25 @@ Soil composition is an important factor that affects settlement and human activi
 
 ---
 
-# 1.1.7 Interpretation of Results
+### 1.1.7 Interpretation of Results
 
 This is the most important part of the analysis. The whole process comes down to this very aspect of drawing insight from the data. Being able to explain complex relationships that exist betwween **1.1.1** and **1.1.6**. 
 
 In this section, you can statiscally elaborate on how the individual features of each factor above affects climate change. Present your opinion scientifically and use your calculations, refences and description to back up your facts.
 
 
-# 1.1.8 Recommendation and Conclusion
+### 1.1.8 Recommendation and Conclusion
 
 Use this section as an opportunity to present possible recommendations on how managing the evaluated factors would benefit earth and help control, mitigate and adapt to climate changes.
 
 
-# **1.2 Continental Analysis**
+## **1.2 Continental Analysis**
 
 If you are interested in analyzing a given continent, then this is the right guide for you. The dataset available in the repository can be manupulated(joined, merged, concatenated etc) to narrow down to any continent.
 
 Moreover, there are files that can be queried to display information only for a defined area. Use the follwing characteristics as a guide to analze a continent.
 
-# 1.2.0  The Continent's Boundary
+### 1.2.0  The Continent's Boundary
 In the first section of your continental analysis notebook, it is suitable to;
 1. State the aim of the analysis. 
 2. Define the [boundary](https://datasets.mojaglobal.workers.dev/0:/Administrative/Boundaries/) of the  with continent a figure and brief topological description
@@ -222,7 +222,7 @@ In the first section of your continental analysis notebook, it is suitable to;
 
 
 
-# 1.2.1 The Continent's BioClimatic Zones
+### 1.2.1 The Continent's BioClimatic Zones
 Explore the continents's [bioclimatic zone dataset](https://datasets.mojaglobal.workers.dev/0:/Bioclimatic&EcologicalZones/). If the dataset contains other continental inforamtion, filter out the continents you are not analyzing.
 Fill in this section by trying to answer the follwing questions.
 1. What are the hot zones of the continent.(provide a figure with the biodiversity hotspots)?
@@ -236,7 +236,7 @@ The files contain more features that should be explited. Identify more character
 
 ---
 
-# 1.2.2 The Continent's AgroEcological Zones
+### 1.2.2 The Continent's AgroEcological Zones
 Explore the AgroEcological climate of the continent and reveal information about the following:
 
 1. The agro hotspots of the continent
@@ -251,7 +251,7 @@ The files contain more features to be exploited
 
 ---
 
-# 1.2.3 The Continent's Ecological Zones
+### 1.2.3 The Continent's Ecological Zones
 
 Explore the ecological zone [dataset](https://datasets.mojaglobal.workers.dev/0:/Bioclimatic&EcologicalZones/Global_Ecological_Zone_GEZ/) by displaying it to reveal interesting patterns.
 
@@ -259,7 +259,7 @@ Explore the ecological zone [dataset](https://datasets.mojaglobal.workers.dev/0:
 
 ---
 
-# 1.2.4 The Continent's Climate
+### 1.2.4 The Continent's Climate
 
 Explore the continents's climate [dataset](https://datasets.mojaglobal.workers.dev/0:/Climate/) from KoppenGeiger and IPCC. It would be suitable to give brief figurative desscriptions of the climate shifts of the continent. What are the key characteristics of the climate and how does it vary over place and time
 
@@ -279,7 +279,7 @@ In the case where you can't find complete one-file datasets, try merging or filt
 
 
 
-# 1.2.6 The Continent's Soil Resources
+### 1.2.6 The Continent's Soil Resources
 
 Soil composition is an important factor that affects settlement and human activities. Display the data, identify relationships between attributes such as locations and crop production. nutrient availability and intensive agriculture etc
 
@@ -287,24 +287,24 @@ Soil composition is an important factor that affects settlement and human activi
 
 ---
 
-# 1.2.7 Interpretation of Results
+### 1.2.7 Interpretation of Results
 
 This is the most important part of the analysis. The whole process comes down to this very aspect of drawing insight from the data. Being able to explain complex relationships that exist betwween **1.2.1** and **1.2.6**. 
 
 In this section, you can statiscally elaborate on how the individual features of each factor above affects climate change. Present your opinion scientifically and use your calculations, refences and description to back up your facts.
 
 
-# 1.2.8 Recommendation and Conclusion
+### 1.2.8 Recommendation and Conclusion
 
 Use this section as an opportunity to present possible recommendations on how managing the evaluated factors would benefit the people and help control, mitigate and adapt to climate changes.
 
-# **1.3 Country Analysis**
+## **1.3 Country Analysis**
 
 If you are interested in analyzing a given country, then this is the right guide for you. The dataset available in the repository can be manupulated(joined, merged, concatenated etc) to narrow down to any continent.
 
 Moreover, there are files that can be queried to display information only for a defined area. Use the follwing characteristics as a guide to analze a given country.
 
-# 1.3.0  The Country's Boundary
+### 1.3.0  The Country's Boundary
 In the first section of your Country analysis notebook, it is suitable to;
 1. State the aim of the analysis. 
 2. Define the [boundary](https://datasets.mojaglobal.workers.dev/0:/Administrative/Boundaries/) of the country with a figure and brief topological description
@@ -320,7 +320,7 @@ In the first section of your Country analysis notebook, it is suitable to;
 
 
 
-# 1.3.1 The Country's BioClimatic Zones
+### 1.3.1 The Country's BioClimatic Zones
 Explore the country's [bioclimatic zone dataset](https://datasets.mojaglobal.workers.dev/0:/Bioclimatic&EcologicalZones/). If the dataset contains other Country inforamtion, filter out the countries you are not analyzing.
 Fill in this section by trying to answer the follwing questions.
 1. What are the hot zones of the country.(provide a figure with the biodiversity hotspots)?
@@ -334,7 +334,7 @@ The files contain more features that should be explited. Identify more character
 
 ---
 
-# 1.3.2 The Country's AgroEcological Zones
+### 1.3.2 The Country's AgroEcological Zones
 Explore the AgroEcological climate of the country and reveal information about the following:
 
 1. The agro hotspots of the country
@@ -349,7 +349,7 @@ The files contain more features to be exploited
 
 ---
 
-# 1.3.3 The Country's Ecological Zones
+### 1.3.3 The Country's Ecological Zones
 
 Explore the ecological zone [dataset](https://datasets.mojaglobal.workers.dev/0:/Bioclimatic&EcologicalZones/Global_Ecological_Zone_GEZ/) by displaying it revealing interesting patterns.
 
@@ -357,14 +357,14 @@ Explore the ecological zone [dataset](https://datasets.mojaglobal.workers.dev/0:
 
 ---
 
-# 1.3.4 The Country's Climate
+### 1.3.4 The Country's Climate
 
 Explore the countrie's climate [dataset](https://datasets.mojaglobal.workers.dev/0:/Climate/) from KoppenGeiger and IPCC. It would be suitable to give brief figurative desscriptions of the climate shifts of the country. What are the key characteristics of the climate and how does it vary over place and time
 
 
 ---
 
-# 1.3.5 The Country's Land Cover
+### 1.3.5 The Country's Land Cover
 The Land cover dataset contains interesting information on Biomass carbon,
 Forest, Forests loss, and Land use.
 
@@ -404,7 +404,7 @@ Use this section as an opportunity to present possible recommendations on how ma
 If you are interested in analyzing remote geographic areas (such as cities, states, or provinces), then this is the guide for you. The data sets available in the repository (join, merge, join, etc.) can be manipulated to narrow down to any continent.
 
 
-# 1.4.0  The State's Boundary
+### 1.4.0  The State's Boundary
 In the first section of your state's analysis notebook, it is suitable to;
 1. State the aim of the analysis. 
 2. Define the [boundary](https://datasets.mojaglobal.workers.dev/0:/Administrative/Boundaries/) of the state with a figure and brief topological description
@@ -420,7 +420,7 @@ In the first section of your state's analysis notebook, it is suitable to;
 
 
 
-# 1.4.1 The State's BioClimatic Zones
+### 1.4.1 The State's BioClimatic Zones
 Explore the state's [bioclimatic zone dataset](https://datasets.mojaglobal.workers.dev/0:/Bioclimatic&EcologicalZones/). If the dataset contains other Country inforamtion, filter out the regions you are not analyzing.
 
 Fill in this section by trying to answer the follwing questions.
@@ -435,7 +435,7 @@ The files contain more features that should be exploited. Identify more characte
 
 ---
 
-# 1.4.2 The State's AgroEcological Zones
+### 1.4.2 The State's AgroEcological Zones
 Explore the AgroEcological climate of the state and reveal information about the following:
 
 1. The agro hotspots of the state
@@ -450,7 +450,7 @@ The files contain more features to be exploited
 
 ---
 
-# 1.4.3 The State's Ecological Zones
+### 1.4.3 The State's Ecological Zones
 
 Explore the ecological zone [dataset](https://datasets.mojaglobal.workers.dev/0:/Bioclimatic&EcologicalZones/Global_Ecological_Zone_GEZ/) by displaying it revealing interesting patterns.
 
@@ -458,14 +458,14 @@ Explore the ecological zone [dataset](https://datasets.mojaglobal.workers.dev/0:
 
 ---
 
-# 1.4.4 The State's Climate
+### 1.4.4 The State's Climate
 
 Explore the state's climate [dataset](https://datasets.mojaglobal.workers.dev/0:/Climate/) from KoppenGeiger and IPCC. It would be suitable to give brief figurative desscriptions of the climate shifts of the state. What are the key characteristics of the climate and how does it vary over place and time
 
 
 ---
 
-# 1.4.5 The State's Land Cover
+### 1.4.5 The State's Land Cover
 The Land cover dataset contains interesting information on Biomass carbon,
 Forest, Forests loss, and Land use.
 
@@ -479,7 +479,7 @@ In the case where you can't find complete one-file datasets, try merging or filt
 
 
 
-# 1.4.6 The State's Soil Resources
+### 1.4.6 The State's Soil Resources
 
 Soil composition is an important factor that affects settlement and human activities. Display the data, identify relationships between attributes such as locations and crop production. nutrient availability and intensive agriculture etc
 
@@ -487,13 +487,13 @@ Soil composition is an important factor that affects settlement and human activi
 
 ---
 
-# 1.4.7 Interpretation of Results
+### 1.4.7 Interpretation of Results
 
-This is the most important part of the analysis. The whole process comes down to this very aspect of drawing insight from the data. Being able to explain complex relationships that exist betwween **1.3.1** and **1.3.6**. 
+This is the most important part of the analysis. The whole process comes down to this very aspect of drawing insight from the data. Being able to explain complex relationships that exist betwween **1.4.1** and **1.4.6**. 
 
 In this section, you can statistically elaborate on how the individual features of each factor above affects climate change. Present your opinion scientifically and use your calculations, refences and description to back up your facts.
 
 
-# 1.4.8 Recommendation and Conclusion
+### 1.4.8 Recommendation and Conclusion
 
 Use this section as an opportunity to present possible recommendations on how managing the evaluated factors would benefit the people and help control, mitigate and adapt to climate changes.
