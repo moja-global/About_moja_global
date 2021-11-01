@@ -308,6 +308,7 @@
         "code",
         "design"
       ]
+<<<<<<< HEAD
     },
     {
       "login": "sarahhaggarty",
@@ -328,6 +329,8 @@
         "infra",
         "code"
       ]
+=======
+>>>>>>> 93ab99c (docs: add waridrox as a contributor for code (#143))
     }
   ],
   "contributorsPerLine": 7,
