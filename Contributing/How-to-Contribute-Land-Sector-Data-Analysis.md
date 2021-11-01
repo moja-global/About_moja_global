@@ -382,7 +382,8 @@ This is the most important part of the analysis. The whole process comes down to
 In this section, you can statistically explain in detail how the various characteristics of each of the above factors affect climate change. Present your opinion scientifically and use your calculations, reference and description to back up your facts.
 
 
-# 1.3.8 Recommendation and Conclusion
+### 1.3.8 Recommendation and Conclusion
+
 
 Use this section as an opportunity to present possible recommendations on how managing the evaluated factors would benefit the people and help control, mitigate and adapt to climate changes.
 
