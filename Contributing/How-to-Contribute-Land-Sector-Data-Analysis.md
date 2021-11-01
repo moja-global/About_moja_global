@@ -254,11 +254,10 @@ Explore the continents's climate [dataset](https://datasets.mojaglobal.workers.d
 
 ---
 
-# 1.2.5 The Continent's Land Cover
-The Land cover dataset contains interesting information on Biomass carbon,
-Forest, Forests loss, and Land use.
+### 1.2.5 The Continent's Land Cover
+The land cover dataset contains interesting information about biomass carbon, forests, forest loss, and land use.
 
-Explore this dataset to find relationships between any activitiees such as cropland and forest lost etc. 
+Explore this data set to find the relationship between any activities (such as cultivated land and forest loss, etc.). 
 
 In the case where you can't find complete one-file datasets, try merging or filtering some the dataset to get the data of interest.
 
