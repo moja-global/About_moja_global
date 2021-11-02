@@ -345,7 +345,8 @@ In the first section of your state's analysis notebook, it is suitable to;
 
 Explore the state's [bioclimatic zone dataset](https://datasets.mojaglobal.workers.dev/0:/Bioclimatic&EcologicalZones/). If the dataset contains other Country inforamtion, filter out the regions you are not analyzing.
 
-Fill in this section by trying to answer the follwing questions.
+Fill in this section by trying to answer the following questions.
+
 
 1. What are the hot zones of the state.(provide a figure with the biodiversity hotspots)?
 2. Which areas are dorminant/repressive with hotspots?
