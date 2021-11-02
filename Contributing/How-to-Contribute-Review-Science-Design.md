@@ -4,8 +4,8 @@ All moja global code is informed by a **Science Design**. Science Designs are de
 
 1.  Find the **Science Design**:
 
-    -   Every moja global repository will have a sub-directory called **Science** in the root directory.
-    -   The Science folder will contain 2 types of Science Designs:
+    -   Every moja global repository has a sub-directory called **Science** in the root directory.
+    -   The Science folder contains two types of Science Designs:
         -   PDF files contain completed science designs.  
         -   Markdown files contain a link to **Science Design** under development. 
     -   Locate the PDF file with the highest [version number](How-to-Assign-a-Version.md) for review.
