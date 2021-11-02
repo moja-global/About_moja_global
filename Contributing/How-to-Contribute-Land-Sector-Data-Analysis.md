@@ -2,7 +2,8 @@
 
 ## 1.0 Introduction
 
-This document aims to guide contributors to report the analysis of [Moja Global's Land Sector Dataset](https://datasets.mojaglobal.workers.dev/0:/). 
+This document aims to guide contributors to report the analysis of 
+[Moja Global's Land Sector Dataset](https://datasets.mojaglobal.workers.dev/0:/). 
 
 ---
 
@@ -67,7 +68,6 @@ In the first section of your global analysis notebook, it is suitable to;
 3. Present a figure with the Globe's [protected areas](https://datasets.mojaglobal.workers.dev/0:/Administrative/Protected%20Areas/) and give a description of how it has affected global changes.
 4. Present a figure showing the complex road network of the Globe
 5. Provide a brief summary of how the Globe's  celestrial location results in climate change.
-
 
 ---
 
