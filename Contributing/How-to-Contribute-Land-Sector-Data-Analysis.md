@@ -2,7 +2,7 @@
 
 ## 1.0 Introduction
 
-This document aims to guide contributors to report the analysis of [Moja Global's Land Sector Dataset.](https://datasets.mojaglobal.workers.dev/0:/). 
+This document aims to guide contributors to report the analysis of [Moja Global's Land Sector Dataset](https://datasets.mojaglobal.workers.dev/0:/). 
 
 ---
 
@@ -73,7 +73,8 @@ In the first section of your global analysis notebook, it is suitable to;
 
 ### 1.1.1 The Globe's BioClimatic Zones
 
-Explore the Globe's [bioclimatic zone dataset](https://datasets.mojaglobal.workers.dev/0:/Bioclimatic&EcologicalZones/). Fill in this section by trying to answer the follwing questions.
+Explore the Globe's [bioclimatic zone dataset](https://datasets.mojaglobal.workers.dev/0:/Bioclimatic&EcologicalZones/). 
+Fill in this section by trying to answer the follwing questions.
 
 1. What are the hot zones of the Globe.(provide a figure with the biodiversity hotspots)?
 2. Which continents/countries/states are dorminant/repressive with hotspots?
