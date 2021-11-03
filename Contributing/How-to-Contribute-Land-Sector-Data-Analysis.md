@@ -12,7 +12,7 @@ The dataset is a collection of publicly available [Open source datasets](https:/
 
 - Many countries/regions use this dataset and it works well in real global scenarios. For each data set, information about content and licenses is provided. Appropriate permissions are cited for all datasets, and we urge you to follow the license before continuing to use each dataset.
 
-If you have another dataset on your mind that would be beneficial to [Moja Global's mission](https://moja.global/), feel free to reach out to us on [info@moja.global](info@moja.global) to share details about this dataset.
+If you have another dataset on your mind that would be beneficial to [Moja Global's mission](https://moja.global/), feel free to reach out to us at [info@moja.global](info@moja.global) to share details about this dataset.
 
 ---
 
@@ -92,7 +92,7 @@ Explore the AgroEcological climate of the Globe and reveal information about the
 1. The agro hotspots
 2. Dominant soil and related features
 3. Restricted areas from cultivation
-4. Nutrient availaibilty
+4. Nutrient availabilty
 5. Water scarcity.
 6. Types of protected Areas
 
@@ -131,13 +131,13 @@ Soil composition is an important factor that affects settlement and human activi
 
 This is the most important part of the analysis. The whole process comes down to this very aspect of drawing insight from the data. Being able to explain complex relationships that exist between **1.1.1** and **1.1.6**. 
 
-In this section, you can statistically elaborate on how the individual features of each factor above affects climate change. Present your opinion scientifically and use your calculations, references, and description to back up your facts.
+In this section, you can statistically elaborate on how the individual features of each factor above affect climate change. Present your opinion scientifically and use your calculations, references, and description to back up your facts.
 
 ---
 
 ### 1.1.8 Recommendation and Conclusion
 
-Use this section as an opportunity to present possible recommendations on how managing the evaluated factors would benefit globe and help control, mitigate and adapt to climate changes.
+Use this section as an opportunity to present possible recommendations on how managing the evaluated factors would benefit the globe and help control, mitigate, and adapt to climate changes.
 
 ---
 
@@ -182,7 +182,7 @@ Explore the AgroEcological climate of the continent and reveal information about
 1. The agro hotspots of the continent
 2. Dominant soil and related features within the continent
 3. Restricted areas from cultivation
-4. Nutrient availabilty
+4. Nutrient availability
 5. Water scarcity.
 6. Types of protected Areas
 
@@ -273,7 +273,7 @@ Explore the AgroEcological climate of the country and reveal information about t
 1. The agro hotspots of the country
 2. Dominant soil and related features within the country
 3. Restricted areas from cultivation
-4. Nutrient availabilty
+4. Nutrient availability
 5. Water scarcity.
 6. Types of protected Areas
 
@@ -366,7 +366,7 @@ Explore the AgroEcological climate of the state and reveal information about the
 1. The agro hotspots of the state
 2. Dominant soil and related features within the state
 3. Restricted areas from cultivation
-4. Nutrient availabilty
+4. Nutrient availability
 5. Water scarcity.
 6. Types of protected Areas
 
