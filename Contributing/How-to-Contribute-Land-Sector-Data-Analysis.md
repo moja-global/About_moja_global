@@ -92,7 +92,7 @@ Explore the AgroEcological climate of the Globe and reveal information about the
 1. The agro hotspots
 2. Dominant soil and related features
 3. Restricted areas from cultivation
-4. Nutrient availabilty
+4. Nutrient availability
 5. Water scarcity.
 6. Types of protected Areas
 
