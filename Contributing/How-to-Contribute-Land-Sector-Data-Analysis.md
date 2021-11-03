@@ -12,7 +12,7 @@ The dataset is a collection of publicly available [Open source datasets](https:/
 
 - Many countries use the dataset and work well in real globe scenarios. For each data set, information about content and licenses are provided. Proper permissions have been cited for all the datasets, and we urge you to follow the license for every dataset before proceeding to work with it.
 
-If you have another dataset on your mind that would be beneficial to [Moja Global's mission](https://moja.global/), please feel free to reach out to us on [info@moja.global](info@moja.global) to share details about this dataset.
+If you have another dataset on your mind that would be beneficial to [Moja Global's mission](https://moja.global/), feel free to reach out to us on [info@moja.global](info@moja.global) to share details about this dataset.
 
 ---
 
@@ -28,9 +28,9 @@ Select software that supports geospatial analysis.
 
 ### 1.0.2 Contributing
 
-When your contribution is ready; raise a PR to have it merged. Please refer to the [community website](https://community.moja.global/community/code-contribution) to know how to make a pull request.
+When your contribution is ready; raise a PR to have it merged. Refer to the [community website](https://community.moja.global/community/code-contribution) to know how to make a pull request.
 
->If you have experience and want to help, please send an email to [mentorship@moja.global](mailto:mentorship@moja.global). We are open to mentoring new developers and contributors through various mentorship program and initiatives.
+>If you have experience and want to help, send an email to [mentorship@moja.global](mailto:mentorship@moja.global). We are open to mentoring new developers and contributors through various mentorship program and initiatives.
 
 ---
 
@@ -61,7 +61,7 @@ This is the study of the Globe's features, activities and consequences on climat
 
 ### 1.1.0  The Globe's Boundary
 
-In the first section of your global analysis notebook, it is suitable to;
+In the first section of your global analysis notebook, it is suitable to:
 
 1. State the aim of the analysis. 
 2. Define the [boundary](https://datasets.mojaglobal.workers.dev/0:/Administrative/Boundaries/) of the Globe with a figure and brief topological description
@@ -74,7 +74,7 @@ In the first section of your global analysis notebook, it is suitable to;
 ### 1.1.1 The Globe's BioClimatic Zones
 
 Explore the Globe's [bioclimatic zone dataset](https://datasets.mojaglobal.workers.dev/0:/Bioclimatic&EcologicalZones/). 
-Fill in this section by trying to answer the follwing questions.
+Fill in this section by trying to answer the follwing questions:
 
 1. What are the hot zones of the Globe.(provide a figure with the biodiversity hotspots)?
 2. Which continents/countries/states are dorminant/repressive with hotspots?
@@ -150,7 +150,7 @@ Moreover, there are files that can be queried to display information only for a 
 ---
 ### 1.2.0  The Continent's Boundary
 
-In the first section of your continental analysis notebook, it is suitable to;
+In the first section of your continental analysis notebook, it is suitable t:
 
 1. State the aim of the analysis. 
 2. Define the [boundary](https://datasets.mojaglobal.workers.dev/0:/Administrative/Boundaries/) of the  with continent a figure and brief topological description
@@ -163,7 +163,7 @@ In the first section of your continental analysis notebook, it is suitable to;
 ### 1.2.1 The Continent's BioClimatic Zones
 
 Explore the continents's [bioclimatic zone dataset](https://datasets.mojaglobal.workers.dev/0:/Bioclimatic&EcologicalZones/). If the dataset contains other continental inforamtion, filter out the continents you are not analyzing.
-Fill in this section by trying to answer the follwing questions.
+Fill in this section by trying to answer the follwing questions:
 
 1. What are the hot zones of the continent.(provide a figure with the biodiversity hotspots)?
 2. Which countries/states are dorminant/repressive with hotspots?
@@ -241,7 +241,7 @@ Moreover, there are files that can be queried to display information only for a 
 
 ### 1.3.0  The Country's Boundary
 
-In the first section of your Country analysis notebook, it is suitable to;
+In the first section of your Country analysis notebook, it is suitable to:
 
 1. State the aim of the analysis. 
 2. Define the [boundary](https://datasets.mojaglobal.workers.dev/0:/Administrative/Boundaries/) of the country with a figure and brief topological description
@@ -254,7 +254,7 @@ In the first section of your Country analysis notebook, it is suitable to;
 ### 1.3.1 The Country's BioClimatic Zones
 
 Explore the country's [bioclimatic zone dataset](https://datasets.mojaglobal.workers.dev/0:/Bioclimatic&EcologicalZones/). If the dataset contains other Country inforamtion, filter out the countries you are not analyzing.
-Fill in this section by trying to answer the follwing questions.
+Fill in this section by trying to answer the follwing questions:
 
 1. What are the hot zones of the country.(provide a figure with the biodiversity hotspots)?
 2. Which states are dorminant/repressive with hotspots?
@@ -262,7 +262,7 @@ Fill in this section by trying to answer the follwing questions.
 4. What life is going extinct on the countries with the given data?
 5. What is the population of the country
 
-The files contain more features that should be explited. Identify more characteristics that you find interesting
+The files contain more features that should be exploited. Identify more characteristics that you find interesting.
 
 ---
 
@@ -311,7 +311,7 @@ Soil composition is an important factor that affects settlement and human activi
 
 ### 1.3.7 Interpretation of Results
 
-This is the most important part of the analysis. The whole process comes down to this very aspect of drawing insight from the data. IScaniScan explains the complex relationship between 1.3.1 and 1.3.6.
+This is the most important part of the analysis. The whole process comes down to this very aspect of drawing insight from the data. IScaniScan explains the complex relationship between **1.3.1** and **1.3.6**.
 
 In this section, you can statistically explain in detail how the various characteristics of each of the above factors affect climate change. Present your opinion scientifically and use your calculations, reference and description to back up your facts.
 
@@ -331,7 +331,7 @@ If you are interested in analyzing remote geographic areas (such as cities, stat
 
 ### 1.4.0  The State's Boundary
 
-In the first section of your state's analysis notebook, it is suitable to;
+In the first section of your state's analysis notebook, it is suitable to:
 
 1. State the aim of the analysis. 
 2. Define the [boundary](https://datasets.mojaglobal.workers.dev/0:/Administrative/Boundaries/) of the state with a figure and brief topological description
@@ -346,7 +346,7 @@ In the first section of your state's analysis notebook, it is suitable to;
 Explore the state's [bioclimatic zone dataset](https://datasets.mojaglobal.workers.dev/0:/Bioclimatic&EcologicalZones/). If the dataset contains other Country information, filter out the regions you are not analyzing.
 
 
-Fill in this section by trying to answer the following questions.
+Fill in this section by trying to answer the following questions:
 
 
 1. What are the hot zones of the state.(provide a figure with the biodiversity hotspots)?
