@@ -45,13 +45,13 @@ Amongst the numerous factors that affect climate change, the Agriculture, Forest
 The following sections guide you on how to document your analysis at any scale (global, continental, country, state).
 
 
-[**1.1 Global Analysis**](https://github.com/Simpleshell3/About_moja_global/blob/master/Contributing/How-to-Contribute-Land-Sector-Data-Analysis.md#11-global-analysis)
+[**1.1 Global Analysis**](/About_moja_global/blob/master/Contributing/How-to-Contribute-Land-Sector-Data-Analysis.md#11-global-analysis)
 
-[**1.2 Continental Analysis**](https://github.com/Simpleshell3/About_moja_global/blob/master/Contributing/How-to-Contribute-Land-Sector-Data-Analysis.md#12-continental-analysis)
+[**1.2 Continental Analysis**](/About_moja_global/blob/master/Contributing/How-to-Contribute-Land-Sector-Data-Analysis.md#12-continental-analysis)
 
-[**1.3 Country Analysis**](https://github.com/Simpleshell3/About_moja_global/blob/master/Contributing/How-to-Contribute-Land-Sector-Data-Analysis.md#13-Country-analysis)
+[**1.3 Country Analysis**](/About_moja_global/blob/master/Contributing/How-to-Contribute-Land-Sector-Data-Analysis.md#13-Country-analysis)
 
-[**1.4 State/Province/County/Region/City Analysis**](https://github.com/Simpleshell3/About_moja_global/blob/master/Contributing/How-to-Contribute-Land-Sector-Data-Analysis.md#14--stateprovincecountyregioncity-analysis)
+[**1.4 State/Province/County/Region/City Analysis**](/About_moja_global/blob/master/Contributing/How-to-Contribute-Land-Sector-Data-Analysis.md#14--stateprovincecountyregioncity-analysis)
 
 ---
 
@@ -105,7 +105,7 @@ The files contain more features to be exploited
 
 ### 1.1.3 The Globe's Ecological Zones
 
-Explore the ecological zone [dataset](https://datasets.mojaglobal.workers.dev/0:/Bioclimatic&EcologicalZones/Global_Ecological_Zone_GEZ/) by displaying it revealing interesting patterns.
+Explore the ecological zone [dataset](https://datasets.mojaglobal.workers.dev/0:/Bioclimatic&EcologicalZones/Global_Ecological_Zone_GEZ/). Displaying it reveals interesting patterns.
 
 ---
 
@@ -156,7 +156,7 @@ Moreover, some files can be queried to display information only for a defined ar
 In the first section of your continental analysis notebook, it is suitable t:
 
 1. State the aim of the analysis. 
-2. Define the [boundary](https://datasets.mojaglobal.workers.dev/0:/Administrative/Boundaries/) of the  with continent a figure and brief topological description
+2. Define the [boundary](https://datasets.mojaglobal.workers.dev/0:/Administrative/Boundaries/) of the continent with a figure and brief topological description
 3. Present a figure with the continent's [protected areas](https://datasets.mojaglobal.workers.dev/0:/Administrative/Protected%20Areas/) and describe how it has affected a continental shift in climate and activities.
 4. Present a figure showing the complex road network of the continent.
 5. Provide a summary of how the continent's geographical location results in climate shifts within the area.
@@ -195,7 +195,7 @@ The files contain more features to be exploited
 
 ### 1.2.3 The Continent's Ecological Zones
 
-Explore the ecological zone [dataset](https://datasets.mojaglobal.workers.dev/0:/Bioclimatic&EcologicalZones/Global_Ecological_Zone_GEZ/) by displaying it to reveal interesting patterns.
+Explore the ecological zone [dataset](https://datasets.mojaglobal.workers.dev/0:/Bioclimatic&EcologicalZones/Global_Ecological_Zone_GEZ/). Displaying it reveals interesting patterns.
 
 ---
 
@@ -287,7 +287,7 @@ The files contain more features to be exploited
 
 ### 1.3.3 The Country's Ecological Zones
 
-Explore the ecological zone [dataset](https://datasets.mojaglobal.workers.dev/0:/Bioclimatic&EcologicalZones/Global_Ecological_Zone_GEZ/) by displaying it revealing interesting patterns.
+Explore the ecological zone [dataset](https://datasets.mojaglobal.workers.dev/0:/Bioclimatic&EcologicalZones/Global_Ecological_Zone_GEZ/). Displaying it reveals interesting patterns.
 
 ---
 
@@ -380,7 +380,7 @@ The files contain more features to be exploited
 
 ### 1.4.3 The State's Ecological Zones
 
-Explore the ecological zone [dataset](https://datasets.mojaglobal.workers.dev/0:/Bioclimatic&EcologicalZones/Global_Ecological_Zone_GEZ/) by displaying it revealing interesting patterns.
+Explore the ecological zone [dataset](https://datasets.mojaglobal.workers.dev/0:/Bioclimatic&EcologicalZones/Global_Ecological_Zone_GEZ/). Displaying it reveals interesting patterns.
 
 ---
 
