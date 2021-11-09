@@ -215,7 +215,8 @@ In the case where you can't find complete one-file datasets, try merging or filt
 
 ### 1.2.6 The Continent's Soil Resources
 
-Soil composition is an important factor that affects settlement and human activities. Display the data, identify relationships between attributes such as locations and crop production. nutrient availability and intensive agriculture etc
+Soil composition is an important factor that affects settlement and human activities. Display the data, identify relationships between attributes such as locations and crop production, nutrient availability and intensive agriculture etc
+
 
 ---
 
