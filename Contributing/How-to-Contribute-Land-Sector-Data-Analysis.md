@@ -42,7 +42,8 @@ When we look at climate action, we would like to get descriptions from a global 
 Amongst the numerous factors that affect climate change, the Agriculture, Forestry, and Other Land Use (AFOLU) sector is responsible for almost a quarter of the global Greenhouse gases (GHG) emissions. The emissions associated with AFOLU activities are projected to increase in the future.
 
 
-The following sections of this guide will direct you on how to document your analysis at any scale(global, continental, country, state).
+The following sections guide you on how to document your analysis at any scale (global, continental, country, state).
+
 
 [**1.1 Global Analysis**](https://github.com/Simpleshell3/About_moja_global/blob/master/Contributing/How-to-Contribute-Land-Sector-Data-Analysis.md#11-global-analysis)
 
