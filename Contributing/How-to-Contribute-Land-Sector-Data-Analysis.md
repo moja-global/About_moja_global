@@ -45,13 +45,13 @@ Amongst the numerous factors that affect climate change, the Agriculture, Forest
 The following sections guide you on how to document your analysis at any scale (global, continental, country, state).
 
 
-[**1.1 Global Analysis**](/About_moja_global/blob/master/Contributing/How-to-Contribute-Land-Sector-Data-Analysis.md#11-global-analysis)
+[**1.1 Global Analysis**](/Contributing/How-to-Contribute-Land-Sector-Data-Analysis.md#11-global-analysis)
 
-[**1.2 Continental Analysis**](/About_moja_global/blob/master/Contributing/How-to-Contribute-Land-Sector-Data-Analysis.md#12-continental-analysis)
+[**1.2 Continental Analysis**](/Contributing/How-to-Contribute-Land-Sector-Data-Analysis.md#12-continental-analysis)
 
-[**1.3 Country Analysis**](/About_moja_global/blob/master/Contributing/How-to-Contribute-Land-Sector-Data-Analysis.md#13-Country-analysis)
+[**1.3 Country Analysis**](/Contributing/How-to-Contribute-Land-Sector-Data-Analysis.md#13-Country-analysis)
 
-[**1.4 State/Province/County/Region/City Analysis**](/About_moja_global/blob/master/Contributing/How-to-Contribute-Land-Sector-Data-Analysis.md#14--stateprovincecountyregioncity-analysis)
+[**1.4 State/Province/County/Region/City Analysis**](/Contributing/How-to-Contribute-Land-Sector-Data-Analysis.md#14--stateprovincecountyregioncity-analysis)
 
 ---
 
