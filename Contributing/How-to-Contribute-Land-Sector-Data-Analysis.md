@@ -126,7 +126,8 @@ Explore this dataset to find relationships between any activities such as cropla
 
 ### 1.1.6 The Globe's Soil Resources
 
-Soil composition is an important factor that affects settlement and human activities. Display the data, identify relationships between attributes such as locations and crop production. nutrient availability and intensive agriculture etc
+Soil composition is an important factor that affects settlement and human activities. Display the data, identify relationships between attributes such as locations and crop production, nutrient availability and intensive agriculture etc
+
 
 ---
 
@@ -153,7 +154,8 @@ Moreover, some files can be queried to display information only for a defined ar
 ---
 ### 1.2.0  The Continent's Boundary
 
-In the first section of your continental analysis notebook, it is suitable t:
+In the first section of your continental analysis notebook, it is suitable to:
+
 
 1. State the aim of the analysis. 
 2. Define the [boundary](https://datasets.mojaglobal.workers.dev/0:/Administrative/Boundaries/) of the continent with a figure and brief topological description
