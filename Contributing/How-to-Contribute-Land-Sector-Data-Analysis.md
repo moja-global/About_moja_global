@@ -4,7 +4,7 @@
 
 This document aims to guide contributors to report the analysis of 
 
-[Moja Global's Land Sector Dataset](https://datasets.mojaglobal.workers.dev/0:/). 
+[Moja Global's Land Sector Dataset](https://datasets.mojaglobal.workers.dev/0:/).<br> 
 
 ---
 
@@ -73,7 +73,7 @@ In the first section of your global analysis notebook, it is suitable to:
 
 ---
 
-### 1.1.1 The Globe's BioClimatic Zones
+### 1.1.1 The Globe's BioClimatic Zones<br>
 
 Explore the Globe's 
 [bioclimatic zone dataset](https://datasets.mojaglobal.workers.dev/0:/Bioclimatic&EcologicalZones/). 
