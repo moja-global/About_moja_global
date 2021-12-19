@@ -308,6 +308,7 @@
         "code",
         "design"
       ]
+
     },
     {
       "login": "sarahhaggarty",
@@ -317,6 +318,7 @@
       "contributions": [
         "doc"
       ]
+
     },
     {
       "login": "ChrisKeefe",
@@ -328,6 +330,7 @@
         "infra",
         "code"
       ]
+
     }
   ],
   "contributorsPerLine": 7,

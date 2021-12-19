@@ -30,6 +30,7 @@ The FLINT provides the capability to quickly establish an operational MRV system
 -   [How to add continuous integration?](How-To-Continuous-Integration.md)
 -   [How to assign a version?](How-to-Assign-a-Version.md)
 -   [How to get credit for your contribution?](How-to-Get-Credit-for-Your-Contribution.md)
+-   [How to contribute Land Sector Data Analysis?](How-to-Contribute-Land-Sector-Data-Analysis.md)
 
 ### Documentation Contributions
 

@@ -12,7 +12,7 @@ moja global governs its participants according to the Contributor Covenant [Code
 
 ## FAQ and General Questions
 
-Before asking any questions, please have a look at our [FAQs Wiki](https://github.com/moja-global/About_moja_global/wiki). If your question isn't answered there, please write to info@moja.global.
+Before asking any questions, please have a look at our [FAQs Wiki](https://github.com/moja-global/About_moja_global/wiki). If your question isn't answered there, please email info@moja.global
 
 If your question concerns the code of a project, then you should create a [new issue] in the relevant project's repository.
 
