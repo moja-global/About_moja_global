@@ -1,6 +1,6 @@
 {
   "files": [
-    "README.md"
+    "CONTRIBUTORS.md"
   ],
   "imageSize": 100,
   "commit": false,
@@ -333,7 +333,7 @@
 
     }
   ],
-  "contributorsPerLine": 7,
+  "contributorsPerLine": 4,
   "projectName": "About_moja_global",
   "projectOwner": "moja-global",
   "repoType": "github",
