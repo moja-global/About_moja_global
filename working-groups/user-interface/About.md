@@ -31,7 +31,7 @@ We are trying to follow a “sprint-like” structure where on each “sprint”
 - **Reporting tool**. - The role of the reporting tool is to provide business intelligence for analyzing the FLINT output database and converting it into useful information and output. The current implementation of the reporting tool treats the Flux database as a simplified 2006 GL reporting table. We hope to refactor Angular components to be compatible with 13.x, add new features to the reporting tool, refactor old code and fix UI errors. If you want to contribute to the reporting tool, you can browse the issues in the [repository.](https://github.com/moja-global/FLINT.Reporting) If you need help chat with us on the [#reporting-tool](https://app.slack.com/client/T1G1M5HPF/C016YNZ2ALX) channel of Slack.
 ***Note:** The aim may change from time to time. Please have a look at the pinned message in the #user-interface channel in our Slack to know about the ongoing sprint.*
 
-## Tools and technologies.
+## Tools and technologies
 
 The tools and techniques used vary from project to project. The most commonly employed are React, Angular, Vue, Sphinx, Docker, and Docusaurus. By browsing through the relevant repositories, you can learn more about which technologies are used where. Please note that it's not necessary for you to be familiar with these technologies to be able to contribute.
 
