@@ -12,8 +12,8 @@ The UI working group is responsible for developing the visual components, user i
 | Meeting details            |                                                                                                    |
 | -------------------------- | -------------------------------------------------------------------------------------------------------------- |
 | Leads                      | [@Shloka Gupta](https://github.com/chicken-biryani?tab=followers) [@Soham Shah](https://github.com/sohamsshah) |
-| Days                       | Every Thursday                                                                                                 |
-| Time                       | 10:30 - 11:00 (GMT) / 16:00 - 16:30 (IST) / 5:30 - 6:00 (EST)                                                  |
+| Days                       | Every Saturday (19th Feb onwards)                                                                                                 |
+| Time                       | 10:30 (GMT) / 16:00  (IST) / 5:30 (EST)                                                  |
 | On-going project           | Develop TSC working group notice board.                                                                        |
 | Agenda                     | You can have a look at the upcoming agenda [here.](agenda.md)                                                  |
 | Meeting Notes              | Have a look at the Meeting notes over [here.](MeetingNotes.md)                                                 |
@@ -37,7 +37,7 @@ The tools and techniques used vary from project to project. The most commonly em
 
 ## How can I get involved?
 
-- If you are interested in getting involved in this working group, there is a weekly meeting that takes place every Thursday. Feel free to stop by then (or any time!) to introduce yourself or send a message in the [#user-interface](https://app.slack.com/client/T1G1M5HPF/C010Z37GL2U) channel of our Slack.
+- If you are interested in getting involved in this working group, there is a weekly meeting that takes place every Saturday at 10:30 (GMT) / 16:00  (IST) / 5:30 (EST). Feel free to stop by then (or any time!) to introduce yourself or send a message in the [#user-interface](https://app.slack.com/client/T1G1M5HPF/C010Z37GL2U) channel of our Slack.
 - If you’re interested in contributing, there is no need to wait for the meeting! As a part of the UI working group, there is an abundance of things one can work on. We value all kinds of contributions - not just code.
 - We are particularly motivated to support new contributors and people who are looking to learn and develop their skills. Setting up the projects, trying them out, reporting bugs, working on good first issues, helping us build a stronger community are great ways to get started.
 - If working with GitHub seems like magic to you or you aren’t clear about the steps, look at our [GitHub Workflow](https://docs.moja.global/en/latest/DeveloperWorkflow/index.html) documentation. If you need any help, let us know. The community will be more than happy to help you out.
