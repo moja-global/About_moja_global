@@ -10,7 +10,7 @@
 
 ## Agenda for UI working group
 
-***Note-** The agenda speaks about will happen during each meeting, and what will a participant need to do between each meeting i.e the ‘homework’. Week 1 to Week 5 aims to develop a working group(s) notice board.*
+**Note-** The agenda speaks about will happen during each meeting, and what will a participant need to do between each meeting i.e the ‘homework’. Week 1 to Week 5 aims to develop a working group(s) notice board.
 
 ### Week 1 - 19th Feb
 
