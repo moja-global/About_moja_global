@@ -16,7 +16,7 @@ The UI working group is responsible for developing the visual components, user i
 | -------------------------- | -------------------------------------------------------------------------------------------------------------- |
 | Leads                      | [@Shloka Gupta](https://github.com/chicken-biryani) [@Soham Shah](https://github.com/sohamsshah) |
 | Days                       | Every Saturday (19th Feb onwards)                                                                                                 |
-| Time                       | 10:30 (GMT) / 16:00  (IST) / 5:30 (EST) / 20:30 (AEST)/ 11:30 (CET)                                               |
+| Time                       | 10:30 (GMT) / 16:00  (IST) / 5:30 (EST) / 20:30 (AEST) / 11:30 (CET)                                               |
 | On-going project           | Develop TSC working group notice board.                                                                        |
 | Agenda                     | You can have a look at the upcoming agenda [here.](agenda.md)                                                  |
 | Meeting Notes              | Have a look at the [Meeting notes](MeetingNotes.md)                                                 |
@@ -41,7 +41,7 @@ We are trying to follow a “sprint-like” structure where on each “sprint”
 
 ## Tools and technologies
 
-The tools and techniques used vary from project to project. The most commonly employed are [React](https://reactjs.org/), (Angular)[https://angular.io/], [Vue](https://vuejs.org/), [Sphinx](https://www.sphinx-doc.org/en/master/),[Docker](https://www.docker.com/), and [Docusaurus](https://docusaurus.io/). By browsing through the relevant repositories, you can learn more about which technologies are used where. Please note that it's not necessary for you to be familiar with these technologies to be able to contribute.
+The tools and techniques used vary from project to project. The most commonly employed are [React](https://reactjs.org/), [Angular](https://angular.io/), [Vue](https://vuejs.org/), [Sphinx](https://www.sphinx-doc.org/en/master/),[Docker](https://www.docker.com/), and [Docusaurus](https://docusaurus.io/). By browsing through the relevant repositories, you can learn more about which technologies are used where. Please note that it's not necessary for you to be familiar with these technologies to be able to contribute.
 
 ## How can I get involved?
 
