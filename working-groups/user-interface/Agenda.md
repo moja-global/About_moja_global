@@ -65,7 +65,7 @@ Take inspiration from other communities working groups. Put your findings in a G
 
 ### Week 4 - 12th March
 
-*In week 4, we want to finish the job and start usability testing so we can start getting the job done.*
+*In week 4, we want to complete the implementation and start usability testing so we can start getting the job done.*
 
 **Meeting:**
 
@@ -91,4 +91,5 @@ Take inspiration from other communities working groups. Put your findings in a G
 - Initiate strategy for public launch.
 
 **Homework:**
+
 Finalize the TSC noticeboard and begin thinking about the first two FLINT-UI pages: Point/RothC.
