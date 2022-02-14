@@ -2,15 +2,15 @@
 
 ### Framework for the user-interface (UI) working group meetings (30 - 45 min)
 
-- Welcoming new contributors
-- Quick Update for the past week work + Shoutout to the contributors.
-- Current Work in progress tasks
-- Upcoming Plans for the next week
-- Questions/Blockers
+- Welcome new contributors.
+- Quick update about the past week of work and a shout-out to the contributors.
+- Current work-in-progress tasks.
+- Upcoming plans for the next week.
+- Questions/Blocking issues.
 
 ## Agenda for UI working group
 
-**Note-** The agenda speaks about will happen during each meeting, and what will a participant need to do between each meeting i.e the ‘homework’. Week 1 to Week 5 aims to develop a working group(s) notice board.
+**Note:** The agenda covers what will happen during each meeting, and what participants need to do between each meeting, i.e. the ‘homework’. Week 1 to Week 5 aims to develop a working group(s) notice board.
 
 ### Week 1 - 19th Feb
 
@@ -18,35 +18,35 @@
 
 **Meeting:**
 
-- Introduction to the UI working group
-- Talk about deliverables i.e the TSC working group.
+- Introduction to the UI working group.
+- Talk about deliverables, e.g. the TSC working group.
 - Talk about the expected timeline.
 
 **Homework:**
-Take inspiration from other communities working groups. Put your findings under a Github issue.
+Take inspiration from other communities working groups. Put your findings in a GitHub issue.
 
 ### Week 2 - 26th Feb
 
-*Week 2, aims at beginning the implementation of the project i.e working group notice board. There are two parts here the content and the UI implementation of the design.*
+*Week 2, aims to begin the implementation of the project, i.e. the working group notice board. There are two parts: the content, and the UI implementation of the design.*
 
 **Meeting**
 
 - *Content / Documentation:*
-  - Based on everyone’s findings, brainstorm on what written content that can go into the working group board. (Section wise.)
-  - Divide the content writing tasks into individual jobs and encourage members to take up responsibility.
+  - Based on everyone’s findings, brainstorm on what written content can go into the working group board, per section.
+  - Divide the content writing tasks into individual jobs and encourage members to take ownership.
 - *UI:*
   - Talk about noticeboard design and discuss how we can begin implementation.
-  - Divide UI tasks on a priority basis. And encourage people to take up the tasks.
+  - Divide UI tasks on a priority basis, and encourage people to take up the tasks.
 
 **Homework**
 
 - Begin writing content for the TSC working group board.
-- Put the noticeboard design under an issue for reference.
-- Begin implementation of UI w.r.t to the design and priority.
+- Put the noticeboard design in a GitHub issue for reference.
+- Begin implementation of UI, with respect to the design and priority.
 
 ### Week 3 - 5th March
 
-*Week 3 has been designed to review the implementation completed so far. Talking about the blockers and next steps. At the end of week 3, our goal is to start finalizing the content and UI implementation.*
+*Week 3 has been designed to review the implementation completed so far. Talking about the blocking issues and next steps. At the end of week 3, our goal is to start finalizing the content and UI implementation.*
 
 **Meeting:**
 
@@ -55,8 +55,8 @@ Take inspiration from other communities working groups. Put your findings under 
   - Discuss content that can be added and deducted.
 - UI:
   - Evaluate the implementation progress and go over the required tasks before usability testing and public launch.
-  - Discuss blockers and next steps.
-  - Re-divide and re-prioritize the tasks if required and encourage people to take up the tasks.
+  - Discuss blocking issues and next steps.
+  - Re-divide and re-prioritize the tasks, if required, and encourage people to take ownership of the tasks.
 
 **Homework:**
 
@@ -65,25 +65,25 @@ Take inspiration from other communities working groups. Put your findings under 
 
 ### Week 4 - 12th March
 
-*In week 4, we want to finish the job and start usability testing so we can start getting the job done.*
+*In week 4, we want to complete the implementation and start usability testing so we can start getting the job done.*
 
 **Meeting:**
 
-- Content/Documentation:
+- Content/documentation:
   - Finalize the content under the respective sections. Talk about the missing pieces of the puzzle.
 - UI:
   - Brainstorm ways to conduct usability testing.
-  - Talk about ways to improve. (Priority basis.)
+  - Talk about ways to improve on a priority basis.
 
 **Homework:**
 
 - Conclude document work.
-- Talk about improvements under an issue and work on them.
-- Begin publishing the content on the noticeboard and begin to finalize the work
+- Talk about improvements in a GitHub issue and work on them.
+- Begin publishing the content on the noticeboard and begin to finalize the work.
 
 ### Week 5 - 19th March
 
-*In week 5, we want to start discussing how to initiate a public launch. (Within the community itself if required)*
+*In week 5, we want to start discussing how to initiate a public launch. (Within the community itself if required).*
 
 **Meeting:**
 
@@ -91,4 +91,5 @@ Take inspiration from other communities working groups. Put your findings under 
 - Initiate strategy for public launch.
 
 **Homework:**
-Finalise the TSC noticeboard And begin thinking about the first two FLINT-UI pages– (Point/RothC)
+
+Finalize the TSC noticeboard and begin thinking about the first two FLINT-UI pages: Point/RothC.
