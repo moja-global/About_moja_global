@@ -1,0 +1,1 @@
+These maps are the actual observed changes from which the projections start. The results are discussed in the [map-based projections document](https://github.com/moja-global/FLINT.Projections/blob/master/Science/Projections%20using%20FLINT%20V100.pdf) 
