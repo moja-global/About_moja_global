@@ -39,7 +39,7 @@ Demo Day- LFX mentees experience in Moja Global.
 
 - Navya showed her interset to work on machine learning and datasets to which Namya shared this [repo](https://github.com/moja-global/GCBM.Belize).
 
-- Sahil wrote an article about [Shell](https://sailorworks.hashnode.dev/lets-get-into-shell) understanding how  [moja_global_docs](https://github.com/moja-global/moja_global_docs) implemented.
+- Sahil wrote an article about [Shell](https://sailorworks.hashnode.dev/lets-get-into-shell) understanding how  [moja_global_docs](https://github.com/moja-global/moja_global_docs) is implemented.
 
 - Freeman Okwuchi discussed his contribution in Flint-Cloud.
 
