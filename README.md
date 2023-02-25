@@ -21,7 +21,7 @@ We currently house our documentation on the [moja global developer docs](https:/
 
 ## How to Get Involved?  
 
-moja global welcomes a wide range of contributions as explained in [Contributing document](https://docs.moja.global/en/latest/contributing/index.html).
+moja global welcomes a wide range of contributions as explained in [Contributing document](https://docs.moja.global/en/master/Guidelines/Contributing/index.html).
 
 ## FAQ and Other Questions  
 
